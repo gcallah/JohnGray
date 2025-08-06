@@ -6,9 +6,9 @@ commentator John Gray.
 ## John Gray's Career
 
 
-John was born in a log cabin in Kentucky.
 
 
-## Our Contributors
+
+## Our Papers
 
 
