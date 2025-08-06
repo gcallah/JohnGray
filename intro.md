@@ -29,6 +29,13 @@ economist F.A. Hayek.
 Gray's libertarianism was tempered, however, by studying British philosopher Michael Oakeshott's
 critique of "rationalism in politics."
 
+A key document of this shift was his 1988 work, *Liberalisms*. It is a collection of essays written over a period of a dozen
+years. As Gray describes the essays, "They embody a single project, pursued continuously over the period in which they
+were written -- the project of defining liberalism and giving it a foundation." But, for liberalism, the conclusion was not a
+happy one: "The enterprise ended in failure" (Gray 1988, p. vii).
+
+
+
 During the 1990s, Gray was associated with New Labour -- the center-left [ideology???]
 that brought Tony Blair to power in Westminster -- and he became a prominent critic of global capitalism with his 1998 book
 *False Dawn*.
@@ -130,3 +137,20 @@ homosexuality, or prompting them to better appreciate high culture.
 ## Our Papers
 
 
+## Bibliography
+
+Gray, John. 1988. *Liberalisms: Essays in Political Philosophy*. London and New York: Routledge.
+
+__________.
+
+__________. 2007. *Straw Dogs: Thoughts on Humans and Other Animals*. New York: Farrar, Straus and Giroux.
+
+__________. 2009. *False Dawn: The Delusions of Global Capitalism*. London: Granta Books.
+
+__________. 2011. *The Immortalization Commission: Science and the Strange Quest to Cheat Death*. New York: Farrar, Straus and Giroux.
+
+__________. 2015. *The Soul of the Marionette: A Short Inquiry into Human Freedom*. New York: Farrar, Straus and Giroux.
+
+__________.
+
+__________. 2023. *The New Leviathans: Thoughts After Liberalism*. New York: Farrar, Straus and Giroux.
