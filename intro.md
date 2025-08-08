@@ -34,6 +34,24 @@ years. As Gray describes the essays, "They embody a single project, pursued cont
 were written -- the project of defining liberalism and giving it a foundation." But, for liberalism, the conclusion was not a
 happy one: "The enterprise ended in failure" (Gray 1988, p. vii).
 
+"the move away from a political philosophy with the universalist, pretensions as a desirable, or at any rate an inevitable move" 168
+
+But this is a move away from political philosophy, not a positive of a different kind of political philosophy. See Bosanquet and Oakeshott.
+
+Gray notes that, prior to the breakdown of the Western consensus the most salient event of which was the Reformation,
+"the liberal problem of establishing fair principles of social cooperation among persons having incompatible and
+incommensurable conceptions of the good — does not exist" (1988, p. 169).
+
+
+Gray argues against Rawl's contention that justice is silent about the choice of economic system.
+Gray's analysis of the unstable and inefficient nature of market socialism displays a deep understanding of the
+calculation argument forwarded by Mises and Hayek.
+
+
+Gray argues that, contra Rawls, "the appropriate conception of the person for historical circumstance is closer to that
+which Hobbes presented at a time of profound religious conflict" (1988, p. 181) We will see that Gray returns to this
+theme in his most recent book.
+
 
 
 During the 1990s, Gray was associated with New Labour -- the center-left [ideology???]
