@@ -3,7 +3,7 @@
 *Cosmos + Taxis* is pleased to be able to host a festschrift for the philosopher, political theorist, and social
 commentator John Gray.
 
-## John Gray's Career
+## John Gray's Life and Work
 
 *************
 
@@ -27,7 +27,9 @@ He began his intellectual life on the left but moved right in the late 1970s, be
 economist F.A. Hayek.
 
 Gray's libertarianism was tempered, however, by studying British philosopher Michael Oakeshott's
-critique of "rationalism in politics."
+critique of "rationalism in politics." (Gray wrote of him: "Michael Oakeshott [is] clearly one of the most original and
+profound British political philosophers since Hume and certainly this century's greatest conservative writer" [1996: p. 40].)
+
 
 A key document of this shift was his 1988 work, *Liberalisms*. It is a collection of essays written over a period of a dozen
 years. As Gray describes the essays, "They embody a single project, pursued continuously over the period in which they
@@ -51,6 +53,38 @@ calculation argument forwarded by Mises and Hayek.
 Gray argues that, contra Rawls, "the appropriate conception of the person for historical circumstance is closer to that
 which Hobbes presented at a time of profound religious conflict" (1988, p. 181) We will see that Gray returns to this
 theme in his most recent book.
+
+
+In *Post-Liberalism*:
+
+
+In "Hayek as a conservative" he contends that "Hayek's position is distinctive, to be sure" (32), and that "Hayek's
+attempt to synthesize the deepest insights of conservatism with the best elements of classical liberalism merits our
+closest scrutiny" (33)
+
+"The dominant superstition of the Age of Reason is the belief that vital social institutions – law, language, and
+morality, as well as the market – must be or can become products of conscious contrivance and control, if they are
+effectively to serve human purposes" 36
+
+Hayek's "chief importance... is that he has freed classical liberalism from the burden of an hubristic rationalism" 37
+
+"trying to salvage damaged traditions by willful effort is like trying with one's bare hands to repair a broken spider's web" 38
+
+"At times [Hayek] seems to subscribe to a doctrine of historical progress which... cannot be endorsed by any twentieth century conservative" 38
+
+"since much of contemporary culture is possessed by a death-wish brought on by pathological developments in some of our oldest traditions, a modern conservative must also be a moral and intellectual radical" (39)
+
+
+
+"[Oakeshott's] first lesson is that the hubristic project of doctrinal or fundamental liberalism – the project attempted by all
+the liberal thinkers... of fixing the boundaries of government action by some principle or doctrine, be it
+*laissez-faire*, a specification of allegedly natural (but patently conventional) rights, or a list of basic liberties
+derived (as in Rawls and Dworkin) from a conception of justice rooted only in the fleeting local knowledge of the
+American academic *nomenklatura* — embodies a mistaken conception of philosophy itself" (1996, 41).
+
+
+"the debacles of Thatcherism and Reaganism suggest that, for us, the enterprise-association state is an historical fate, which we may indeed strive to temper, but which we cannot hope to overcome" 44
+
 
 
 
@@ -159,7 +193,7 @@ homosexuality, or prompting them to better appreciate high culture.
 
 Gray, John. 1988. *Liberalisms: Essays in Political Philosophy*. London and New York: Routledge.
 
-__________.
+__________. 1996. *Post-Liberalism: Studies in Political Thought*. New York and Oxon: Routledge.
 
 __________. 2007. *Straw Dogs: Thoughts on Humans and Other Animals*. New York: Farrar, Straus and Giroux.
 
@@ -168,7 +202,5 @@ __________. 2009. *False Dawn: The Delusions of Global Capitalism*. London: Gran
 __________. 2011. *The Immortalization Commission: Science and the Strange Quest to Cheat Death*. New York: Farrar, Straus and Giroux.
 
 __________. 2015. *The Soul of the Marionette: A Short Inquiry into Human Freedom*. New York: Farrar, Straus and Giroux.
-
-__________.
 
 __________. 2023. *The New Leviathans: Thoughts After Liberalism*. New York: Farrar, Straus and Giroux.
