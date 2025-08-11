@@ -31,6 +31,8 @@ critique of "rationalism in politics." (Gray wrote of him: "Michael Oakeshott [i
 profound British political philosophers since Hume and certainly this century's greatest conservative writer" [1996: p. 40].)
 
 
+### Liberalisms
+
 A key document of this shift was his 1988 work, *Liberalisms*. It is a collection of essays written over a period of a dozen
 years. As Gray describes the essays, "They embody a single project, pursued continuously over the period in which they
 were written -- the project of defining liberalism and giving it a foundation." But, for liberalism, the conclusion was not a
@@ -47,7 +49,7 @@ incommensurable conceptions of the good — does not exist" (1988, p. 169).
 
 Gray argues against Rawl's contention that justice is silent about the choice of economic system.
 Gray's analysis of the unstable and inefficient nature of market socialism displays a deep understanding of the
-calculation argument forwarded by Mises and Hayek.
+calculation argument forwarded by Mises and Hayek, far surpassing that of today's average economist.
 
 
 Gray argues that, contra Rawls, "the appropriate conception of the person for historical circumstance is closer to that
@@ -55,7 +57,7 @@ which Hobbes presented at a time of profound religious conflict" (1988, p. 181) 
 theme in his most recent book.
 
 
-In *Post-Liberalism*:
+### Post-Liberalism
 
 
 In "Hayek as a conservative" he contends that "Hayek's position is distinctive, to be sure" (32), and that "Hayek's
@@ -82,15 +84,22 @@ the liberal thinkers... of fixing the boundaries of government action by some pr
 derived (as in Rawls and Dworkin) from a conception of justice rooted only in the fleeting local knowledge of the
 American academic *nomenklatura* — embodies a mistaken conception of philosophy itself" (1996, 41).
 
+Writing about Oakeshott's distinction between civil association and enterprise association, Gray remarks:
+"the debacles of Thatcherism and Reaganism suggest that, for us, the enterprise-association state is an historical fate,
+which we may indeed strive to temper, but which we cannot hope to overcome" (1996, p. 44).
+One can gather from that passage that Gray was not pleased by the outcome of Thatcherism and Reaganism. Indeed, 
+during the 1990s, Gray was associated with New Labour -- the center-left movement
+that brought Tony Blair to power in Westminster -- and he became a prominent critic of global capitalism with his 1998
+book *False Dawn*.
 
-"the debacles of Thatcherism and Reaganism suggest that, for us, the enterprise-association state is an historical fate, which we may indeed strive to temper, but which we cannot hope to overcome" 44
+
+### False Dawn
 
 
 
 
-During the 1990s, Gray was associated with New Labour -- the center-left [ideology???]
-that brought Tony Blair to power in Westminster -- and he became a prominent critic of global capitalism with his 1998 book
-*False Dawn*.
+
+### The Immortalization Commission
 
 
 Rather than straightforward histories, or philosophical or political arguments, or personal reminiscences, Gray 
@@ -98,8 +107,7 @@ has adopted an approach to his more recent non-fiction work similar to the one t
 Milan Kundera took to his novels. These books are meditations on a
 topic, approaching it through a variety of vantage points: some anecdotes, some historical episodes briefly narrated, a
 few interesting (and sometimes horrifying) statistics, a witty or trenchant aperçu here, a brief argument there. It
-worked for Kundera's novels, and it also works for Gray's books.
-
+worked for Kundera's novels, and it also works when essayed by Gray.
 
 In his book *The Immortalization Commission: Science and the Strange Quest to Cheat Death*, Gray 
 
