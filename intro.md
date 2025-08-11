@@ -115,7 +115,24 @@ rule of law" (1996, p. 63).
 
 #### Berlin
 
+In Gray's essay on Isaiah Berlin we can detect the genesis of another phase of Gray's thought: here we see him embrace
+Berlin's value pluralism.
 
+"Berlin's work, Both an intellectual history and political theory, is one which, if true, as I take it to be, strikes a
+death, blow to the central, classical western tradition -- And, it must be at Akamai to the project of the
+enlightenment. Berlin's master ideas that ultimate values are objective and knowable, but they are many, they often come into
+conflict with one another and uncombinable in a single human being or a single society, and that in many of
+such conflicts there is no overarching standard whereby the competing claims of such ultimate values are rationally
+arbitratable...
+There is, then, no *summum bonum* or *logos*, no Aristotelian mean or Platonic form of the good, no perfect form of
+human life, which we may never achieve, but towards which we may struggle, no measuring rod on which different forms of
+human life encompassing different and uncombinable goods can be ranked." (1996, p. 65)
+
+This is a puzzling passage. At least as Gray presents Berlin, we have here a *petitio principii*: what is supposedly the
+conclusion of the argument is, in fact, one of its premises, because it is only if there is, indeed, no "*summum bonum*
+or *logos*" that such conflicts are not "rationally arbitratable." Whether Berlin manages to avoid this question begging
+in his work is beyond the scope of this introduction, but at least we can say that Gray does not offer us any reason to
+think that he has.
 
 
 ### False Dawn
@@ -215,12 +232,10 @@ the state of nature."
 Gray's claim that Hobbes was a liberal may disconcert some who have interpreted him as a totalitarian. But here Gray
 makes a crucial, often overlooked, point about Hobbes, "Hobbes's was a state whose powers were unchecked, but its goals
 were strictly limited. Beyond securing its subjects against one another and external enemies, it had no remit."
-
-Or, as Michael Oakeshott (whom Gray refers to as one of Hobbes's "best interpreters") put it, "Hobbes is not an
-absolutist precisely because he is an authoritarian..." In other words, Hobbes's sovereign existed to keep its citizens from
+In other words, Hobbes's sovereign existed to keep its citizens from
 going to war with each other, and had whatever power it needed to meet that task. But its area of authority did not
-include stopping them from smoking, or encouraging them to save prudently for retirement, or urging them to approve of
-homosexuality, or prompting them to better appreciate high culture. (Unless, of course, one of those projects was
+include stopping them from smoking, or encouraging them to exercise, or urging them to approve of
+transgenderism, or prompting them to read more. (Unless, of course, one of those projects was
 necessary to maintain civil peace: For instance, if smokers and non-smokers were engaging in pitched battles in the streets,
 Hobbes's sovereign might need to take a stand on the issue of smoking.)
 
