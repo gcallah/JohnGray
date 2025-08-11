@@ -116,26 +116,33 @@ rule of law" (1996, p. 63).
 #### Berlin
 
 In Gray's essay on Isaiah Berlin we can detect the genesis of another phase of Gray's thought: here we see him embrace
-Berlin's value pluralism.
+Berlin's value pluralism:
 
-"Berlin's work, Both an intellectual history and political theory, is one which, if true, as I take it to be, strikes a
-death, blow to the central, classical western tradition -- And, it must be at Akamai to the project of the
-enlightenment. Berlin's master ideas that ultimate values are objective and knowable, but they are many, they often come into
-conflict with one another and uncombinable in a single human being or a single society, and that in many of
-such conflicts there is no overarching standard whereby the competing claims of such ultimate values are rationally
-arbitratable...
-There is, then, no *summum bonum* or *logos*, no Aristotelian mean or Platonic form of the good, no perfect form of
-human life, which we may never achieve, but towards which we may struggle, no measuring rod on which different forms of
-human life encompassing different and uncombinable goods can be ranked." (1996, p. 65)
+"Berlin's work, both in intellectual history and political theory, is one which, if true, as I take it to be, strikes a
+death-blow to the central, classical Western tradition -- and, it must be added, to the project of the
+Enlightenment. Berlin's master idea is that ultimate values are objective and knowable, but they are many, they often
+come into conflict with one another and are uncombinable in a single human being or a single society, and that in many
+of such conflicts there is no overarching standard whereby the competing claims of such ultimate values are rationally
+arbitratable...  There is, then, no *summum bonum* or *logos*, no Aristotelian mean or Platonic form of the good, no
+perfect form of human life, which we may never achieve, but towards which we may struggle, no measuring rod on which
+different forms of human life encompassing different and uncombinable goods can be ranked." (1996, p. 65)
 
 This is a puzzling passage. At least as Gray presents Berlin, we have here a *petitio principii*: what is supposedly the
 conclusion of the argument is, in fact, one of its premises, because it is only if there is, indeed, no "*summum bonum*
-or *logos*" that such conflicts are not "rationally arbitratable." Whether Berlin manages to avoid this question begging
+or *logos*" that such conflicts are not "rationally arbitratable." After all, Plato and Aristotle and Aquinas, among
+many others, acknowlegded that there are people who resist the pull of the *logos* and therefore are immune to rational
+argumentation as to what is truly good.  Whether Berlin manages to avoid this question begging
 in his work is beyond the scope of this introduction, but at least we can say that Gray does not offer us any reason to
 think that he has.
 
+In any case, it is clear that Gray *does* accept this conclusion of Berlin's, and, we suggest, that is extremely
+important in understanding his subsequent work.
 
 ### False Dawn
+
+
+### Straw Dogs
+
 
 
 *******
