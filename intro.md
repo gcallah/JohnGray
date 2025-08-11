@@ -100,6 +100,18 @@ book *False Dawn*.
 
 #### Buchanan
 
+An important lesson Gray takes from Buchanan is that, contra Hayek, spontaneous social orders will not reliably be
+beneficial, without the aid of deliberately constructed institutions designed to make them so. For instance, Gray argues
+that after the collapse of communist states in eastern Europe, "we cannot intrust ourselves to the providential designs
+of Burkean or Hayekian institutional evolution. Rather, armed with the best theory we can find, we must wager on a new
+social contract" (1996, p. 53).
+
+Gray closes his Buchanan essay on a more optimistic note than he will sound in much of his later work, writing, 
+"we must wager on liberty by seeking, amid all the vicissitudes and contingencies of practice, a new constitutional
+settlement on limited government, in which free men and women may live in voluntary association – in liberty under the
+rule of law" (1996, p. 63).
+
+
 
 #### Berlin
 
@@ -109,11 +121,7 @@ book *False Dawn*.
 ### False Dawn
 
 
-
-
-
-### The Immortalization Commission
-
+*******
 
 Rather than straightforward histories, or philosophical or political arguments, or personal reminiscences, Gray 
 has adopted an approach to his more recent non-fiction work similar to the one that
@@ -121,6 +129,12 @@ Milan Kundera took to his novels. These books are meditations on a
 topic, approaching it through a variety of vantage points: some anecdotes, some historical episodes briefly narrated, a
 few interesting (and sometimes horrifying) statistics, a witty or trenchant aperçu here, a brief argument there. It
 worked for Kundera's novels, and it also works when essayed by Gray.
+
+*******
+
+
+### The Immortalization Commission
+
 
 In his book *The Immortalization Commission: Science and the Strange Quest to Cheat Death*, Gray 
 
@@ -142,7 +156,7 @@ clear evidence of an afterlife, while for others, including, seemingly, Gray, th
 shared subconscious mental life of the writers. Members of the group also involved themselves in attempts to create a
 new messiah, a spirit child who would lead mankind to new spiritual heights.
 
-The next chapter of The Immortalization Commission deals with the important role occultism played in the Soviet Union
+The next chapter of *The Immortalization Commission* deals with the important role occultism played in the Soviet Union
 before World War II. This is the section from which the book's title is drawn: the Soviet Union actually established a
 commission with that name, as well as a Soviet Committee for Psychical Research. The embalming of Lenin's dead body was
 performed largely with this goal of achieving immortality through science in mind. The government went so far, in its
@@ -151,11 +165,15 @@ regime having their own little version of Lenin's cubical shrine in their homes.
 
 
 
+#### The Soul of the Marionette
+
 
 A spirit of "nihilistic stoicism" suffuses his 2015 book, *The Soul of the
 Marionette*. In these pages he undertakes a sort of jazz improvisation on the theme of human freedom, surveying an
 omnium-gatherum of earlier writers' and cultures' thoughts on the topic from the point of view of a "freedom-skeptic." 
 
+
+#### The New Leviathans
 
 Gray's most recent book is *The New Leviathans: Thoughts After Liberalism*.
 
@@ -199,12 +217,20 @@ makes a crucial, often overlooked, point about Hobbes, "Hobbes's was a state who
 were strictly limited. Beyond securing its subjects against one another and external enemies, it had no remit."
 
 Or, as Michael Oakeshott (whom Gray refers to as one of Hobbes's "best interpreters") put it, "Hobbes is not an
-absolutist precisely because he is an authoritarian..." In other words, Hobbes's state existed to keep its citizens from
+absolutist precisely because he is an authoritarian..." In other words, Hobbes's sovereign existed to keep its citizens from
 going to war with each other, and had whatever power it needed to meet that task. But its area of authority did not
 include stopping them from smoking, or encouraging them to save prudently for retirement, or urging them to approve of
-homosexuality, or prompting them to better appreciate high culture.
+homosexuality, or prompting them to better appreciate high culture. (Unless, of course, one of those projects was
+necessary to maintain civil peace: For instance, if smokers and non-smokers were engaging in pitched battles in the streets,
+Hobbes's sovereign might need to take a stand on the issue of smoking.)
 
 
+### Summary
+
+
+One of the results of reading (or re-reading) so much of Gray's ouvre in writing this introduction is amazement at the
+scope of material he has digested: he seems to not only have read everything you have, but also everything three or four
+of your colleagues have as well.
 
 
 ## Our Papers
