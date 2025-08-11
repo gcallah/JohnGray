@@ -165,7 +165,7 @@ regime having their own little version of Lenin's cubical shrine in their homes.
 
 
 
-#### The Soul of the Marionette
+### The Soul of the Marionette
 
 
 A spirit of "nihilistic stoicism" suffuses his 2015 book, *The Soul of the
@@ -173,7 +173,7 @@ Marionette*. In these pages he undertakes a sort of jazz improvisation on the th
 omnium-gatherum of earlier writers' and cultures' thoughts on the topic from the point of view of a "freedom-skeptic." 
 
 
-#### The New Leviathans
+### The New Leviathans
 
 Gray's most recent book is *The New Leviathans: Thoughts After Liberalism*.
 
