@@ -60,23 +60,29 @@ theme in his most recent book.
 ### Post-Liberalism
 
 
-In "Hayek as a conservative" he contends that "Hayek's position is distinctive, to be sure" (32), and that "Hayek's
+#### Hayek
+
+In "Hayek as a conservative" Gray notes that "Hayek's position is distinctive, to be sure" (1996, p. 32), and that "Hayek's
 attempt to synthesize the deepest insights of conservatism with the best elements of classical liberalism merits our
-closest scrutiny" (33)
+closest scrutiny" (1996, p. 33)
 
 "The dominant superstition of the Age of Reason is the belief that vital social institutions – law, language, and
 morality, as well as the market – must be or can become products of conscious contrivance and control, if they are
-effectively to serve human purposes" 36
+effectively to serve human purposes" (1996, p. 36)
 
-Hayek's "chief importance... is that he has freed classical liberalism from the burden of an hubristic rationalism" 37
+Hayek's "chief importance... is that he has freed classical liberalism from the burden of an hubristic rationalism"
+(1996, p. 37)
 
-"trying to salvage damaged traditions by willful effort is like trying with one's bare hands to repair a broken spider's web" 38
+"trying to salvage damaged traditions by willful effort is like trying with one's bare hands to repair a broken spider's
+web" (1996, p. 38)
 
-"At times [Hayek] seems to subscribe to a doctrine of historical progress which... cannot be endorsed by any twentieth century conservative" 38
+"At times [Hayek] seems to subscribe to a doctrine of historical progress which... cannot be endorsed by any twentieth
+century conservative" (1996, p. 38)
 
-"since much of contemporary culture is possessed by a death-wish brought on by pathological developments in some of our oldest traditions, a modern conservative must also be a moral and intellectual radical" (39)
+"since much of contemporary culture is possessed by a death-wish brought on by pathological developments in some of our
+oldest traditions, a modern conservative must also be a moral and intellectual radical" (1996, p. 39)
 
-
+#### Oakeshott
 
 "[Oakeshott's] first lesson is that the hubristic project of doctrinal or fundamental liberalism – the project attempted by all
 the liberal thinkers... of fixing the boundaries of government action by some principle or doctrine, be it
@@ -91,6 +97,13 @@ One can gather from that passage that Gray was not pleased by the outcome of Tha
 during the 1990s, Gray was associated with New Labour -- the center-left movement
 that brought Tony Blair to power in Westminster -- and he became a prominent critic of global capitalism with his 1998
 book *False Dawn*.
+
+#### Buchanan
+
+
+#### Berlin
+
+
 
 
 ### False Dawn
