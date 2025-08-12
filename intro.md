@@ -136,7 +136,21 @@ in his work is beyond the scope of this introduction, but at least we can say th
 think that he has.
 
 In any case, it is clear that Gray *does* accept this conclusion of Berlin's, and, we suggest, that is extremely
-important in understanding his subsequent work.
+important in understanding his subsequent work. he goes on to say:
+
+"Berlin at the same time, cuts the ground from under those doctrinal or fundamentalist liberalisms — the liberalism of
+Nozick or Hayek no less than of Rawls or Ackerman — which suppose that the incommensurabilities of moral and political
+life, and of liberty itself, can be smoothed away by the application of some theory, or tamed by some talismanic
+formula... if there is any liberalism, that is now defensible, it is Berlin's." (1996, p. 67)
+
+Among other things, the above passage is notable for illustrating Gray's decreasing enthusiasm for Hayek.
+
+#### Cultural Diversity
+
+In "The politics of cultural diversity," an essay as relevant today as when it was written, Gray argues that The
+progressive enthusiasm for what they call "multiculturalism" is "animated by moral hatred of the dominant traditions,
+and a voyeuristic fascination with submerged, overwhelmed, or oppositional, cultures." Therefore, it seeks to "entrench
+Minority traditions in protected institutions and confer on them arbitrary privileges" (1996, p. 266).
 
 ### False Dawn
 
