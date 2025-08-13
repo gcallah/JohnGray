@@ -172,9 +172,11 @@ quite clearly Judaism and Islam, sharing the Old Testament with Christianity, al
 animals. But then, so did Aristotle, giving humans a unique character as "the rational animal." True, in religions that
 include the idea of reincarnation, it is often thought that souls may move between human and non-human lives in
 successive reincarnations. But Buddhism, for instance, regards human reincarnations as special in their openness to the
-possibility of enlightenment, since humans, possessing reason, have the ability to grasp the dharma. Gray specifically
-cites Taoism as a religion in which humans are not special, but surely a Taoist sage would acknowledge that humans are
-the only creatures that need instruction in the Tao.
+possibility of enlightenment, since humans, possessing reason, have the ability to grasp the dharma
+(Ṅag-dbaṅ-bstan-ʼdzin-nor-bu 2020, p. XXX).
+Gray specifically cites Hinduis as a religion in which humans are not special, but hinduamerican.org says "Mankind,
+because it is believed to be the most spiritually evolved, thus carries a special responsibility..." (Hindu American
+Foundation).
 
 He then describes the idea that "salvation is open to all" as "one of Christianity's most dubious promises" 4. We can
 grant that, if humans are just an outcome of random, material forces, that salvation is open to no one, since there is
@@ -327,9 +329,15 @@ __________. 2015. *The Soul of the Marionette: A Short Inquiry into Human Freedo
 
 __________. 2023. *The New Leviathans: Thoughts After Liberalism*. New York: Farrar, Straus and Giroux.
 
+Hindu American Foundation. Year not provided. Oneness and Pluralism: Hinduism's essence.
+https://www.hinduamerican.org/hinduism-basics.
+
+Ṅag-dbaṅ-bstan-ʼdzin-nor-bu, Christopher Stagg (Translator), Dzogchen Ponlop. 2020.
+*A Guide to the Thirty-Seven Practices of a Bodhisattva*. Boulder: Snow Lion
+
+
 
 ## Notes
-
 
 
 *******
