@@ -155,16 +155,19 @@ Minority traditions in protected institutions and confer on them arbitrary privi
 
 ## Straw Dogs
 
-Straw Dogs is one of Gray's best selling books. It opens with several curious assertions.
+*Straw Dogs* is one of Gray's best selling books.
+
+It opens with several curious assertions.
 
 First of all, he writes "Darwin teaches that species are only assemblies of genes, interacting at random with each other
-and their shifting environments" 3
+and their shifting environments" (2007, p. 3
 
 But Darwin had no concept of genes at all. Mendel's work on genes was unknown to him, and was not incorporated into the
 mainstream of evolutionary theory until well after Darwin's death.
 
 And even if Gray is using "Darwin" as a synecdoche for "modern Darwinian theory," there is still a problem: in modern
-evolutionary theory, it is not true that evolution is purely random. [cite Dawkins]
+evolutionary theory, it is not true that evolution is purely random. As Richard Dawkins put it, evolution is "*not* a
+thoery of random chance. It is a theory of random mutation plus *nonrandom* cumulative natural selection" (1996, p. 66).
 
 Gray next assigns Christianity a unique status among worldviews in believing that there is a significant difference
 between humans and other animals, and holds it thus responsible for Darwin's theory being at all controversial. However,
@@ -178,24 +181,22 @@ Gray specifically cites Hinduis as a religion in which humans are not special, b
 because it is believed to be the most spiritually evolved, thus carries a special responsibility..." (Hindu American
 Foundation).
 
-He then describes the idea that "salvation is open to all" as "one of Christianity's most dubious promises" 4. We can
+He then describes the idea that "salvation is open to all" as "one of Christianity's most dubious promises" (2007, p. 4). We can
 grant that, if humans are just an outcome of random, material forces, that salvation is open to no one, since there is
 no such thing. But why then include the proviso "open to all"? In Gray's view, is salvation open to some but not to
 others?
 
 
-Gray then claims, "in the world shown us by Darwin, there is nothing that can be called progress" 4
+Gray then claims, "in the world shown us by Darwin, there is nothing that can be called progress" (2007, p. 4).
 
-But Darwin himself clearly believed in progress, for example: "I do not doubt that this process of improvement has
-affected in a marked and sensible manner the organisation of the more recent and victorious forms of life, in comparison
-with the ancient and beaten forms; but I can see no way of testing this sort of progress."
-Origin of species, On the state of Development of Ancient Forms
+But Darwin himself clearly believed in progress, for example: "And as natural selection works solely by and for the good
+of each being, all corporeal and mental endowments will tend to progress towards perfection." (1872, Chapter XV, par. 55)
 
 Perhaps Gray would argue that his claim is an implication of Darwin's theory that Darwin himself missed; but then he
 should at least mention that fact. A reader who had not encountered Darwin in the original would naturally conclude that
 this was what Darwin himself thought.
 
-He next claims that "Christianity's cardinal error" is that "humans are different from all other animals" 4
+He next claims that "Christianity's cardinal error" is that "humans are different from all other animals" (2007, p. 4).
 
 And yet, as we have seen, this same "error" is present in many traditions. In fact, as Chesterton pointed out, a good
 empirically grounded alien, arriving on earth, would immediately recognize that humans are different from all other
@@ -207,8 +208,62 @@ nevertheless, it would be a very poor geologist who did not recognize this signi
 
 In fact, the very "error" that Gray is at pains to criticize demonstrates that his contention that this an error is
 wrong: no elephant or chimpanzee or dolphin has ever developed a metaphysical theory claiming that their species is
-different from all other animals, and has been in need of correction in their misapprehension by a pessimistic British
+different from all other animals, and has been in need of correction in their misapprehension by a dour British
 philosopher.
+
+"Humans are the most adventitious of creatures – a result of blind evolutionary drift" (2007, p. 5).
+
+
+"Darwin's discovery was that species are only currents in the drift of genes" (2007, p. 6).
+
+"if the human species is re-engineered it will not be the result of humanity assuming a God like control of its destiny.
+It will be another twist in man's fate" (2007, p. 6).
+
+"'Darwin's dice have rolled badly for the Earth,' Wilson points out." (2007, p. 7).
+
+But given it is all meaningless chance events, what is "bad" about even all life on earth being wiped out? There was
+never a point to it anyway.
+
+"Epidemiology and microbiology are better guides to our future than any of our hopes or plans" (2007, p. 9).
+
+Note the radical change in tone!
+
+
+"the human population growth that has taken place over the past few hundred years resembles nothing so much as the
+spikes that occur in the numbers of rabbits, house mice and plague rats" (2007, p. 10).
+
+Gray should be read by every techno-optimist.
+
+"Once a technology enters human life – whether it be fire, the wheel, the automobile, radio, television or the Internet
+– it changes it in ways we can never fully understand" (2007, p. 14).
+
+
+"Technical progress leaves only one problem unsolved: the frailty of human nature. Unfortunately that problem is
+insoluble" (2007, p. 15).
+
+"Green thinkers understand that humans can never be masters of the Earth. Yet in their Ludfite struggle against
+technology they renew the illusion that the world can be made the instrument of human purposes" (2007, p. 15).
+
+"As Margulis and Sagan have written, we are ourselves technological devices, invented by ancient bacterial communities
+as means of genetic survival" (2007, p. 16).
+
+It is weird to describe ancient bacterial communities as "inventing" multicellular organisms when previously Gray has
+described evolution as just genes randomly interacting with each other. Furthermore, while he holds that it is an
+illusion that humans can shape the world to their purposes, apparently bacteria could do so.
+
+"If our lives are to have any meaning, the power of science must be overthrown, and faith re-established" (2007, p. 18).
+
+As someone who seriously studied Hayek, Gray ought to recognize that the problem here is not science, but scientism. And
+his familiarity with Oakeshott ought to have alerted him to the fact that positing a conflict between science and
+religion is an ignoratio elenchi.
+
+Gray notes that today, "science alone has the power to silence heretics" (2007, p. 19).
+
+Gray calls the idea that science triumphed in the battle of ideas because it is "the embodiment of rational inquiry" a "fairy tale" (2007, p. 21).
+
+He argues (correctly) that "Galileo won out not because he had the best arguments but because he was able to represent
+the new astronomy as part of a coming trend in society" (2007, p. 21).
+
 
 
 
@@ -314,6 +369,11 @@ of your colleagues have as well.
 
 
 ## Bibliography
+
+Darwin, Charles. 1872. *On the Origin of Species*. Project Gutenberg.
+https://www.gutenberg.org/files/2009/2009-h/2009-h.htm.
+
+Dawkins, Richard. 1996. *Climbing Mount Improbable*. New York: W.W. Norton & Co.
 
 Gray, John. 1988. *Liberalisms: Essays in Political Philosophy*. London and New York: Routledge.
 
