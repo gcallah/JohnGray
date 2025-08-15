@@ -164,8 +164,8 @@ genes, interacting at random with each other and their shifting environments" (2
 But Darwin had no concept of genes at all. Mendel's work on genes was unknown to him, and was not incorporated into the
 mainstream of evolutionary theory until well after Darwin's death.
 And even if Gray is using "Darwin" as a synecdoche for "modern Darwinian theory," there is still a problem: in modern
-evolutionary theory, it is not true that evolution is purely random. As Richard Dawkins put it, evolution is "*not* a
-theory of random chance. It is a theory of random mutation plus *nonrandom* cumulative natural selection" (1996, p. 66).
+evolutionary theory, it is not true that evolution is purely random. As Richard Dawkins put it, "Darwinism
+is a theory of random mutation plus *nonrandom* cumulative natural selection" (Dawkins, 1996, p. 75).
 
 Gray next assigns Christianity a unique status among worldreligions in believing that there is a significant difference
 between humans and other animals, and holds it thus responsible for Darwin's theory being at all controversial. However,
