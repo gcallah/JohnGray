@@ -153,6 +153,9 @@ Minority traditions in protected institutions and confer on them arbitrary privi
 ## False Dawn
 
 
+## Two Faces of Liberalism
+
+
 ## Straw Dogs
 
 *Straw Dogs* is one of Gray's best selling books. In it, the "gloomy Gray" comes to the forefront. A lot of this gloom
@@ -379,6 +382,8 @@ Dawkins, Richard. 1996. *Climbing Mount Improbable*. New York: W.W. Norton & Co.
 Gray, John. 1988. *Liberalisms: Essays in Political Philosophy*. London and New York: Routledge.
 
 __________. 1996. *Post-Liberalism: Studies in Political Thought*. New York and Oxon: Routledge.
+
+__________. 2000. *Two Faces of Liberalism*. New York: New Press.
 
 __________. 2007. *Straw Dogs: Thoughts on Humans and Other Animals*. New York: Farrar, Straus and Giroux.
 
