@@ -155,21 +155,19 @@ Minority traditions in protected institutions and confer on them arbitrary privi
 
 ## Straw Dogs
 
-*Straw Dogs* is one of Gray's best selling books.
+*Straw Dogs* is one of Gray's best selling books. In it, the "gloomy Gray" comes to the forefront. A lot of this gloom
+turns on Gray's interpretation of Darwinism and his reading of its implications, but both are questionable.
 
-It opens with several curious assertions.
-
-First of all, he writes "Darwin teaches that species are only assemblies of genes, interacting at random with each other
-and their shifting environments" (2007, p. 3).
+The book opens with several curious assertions. First, he writes "Darwin teaches that species are only assemblies of
+genes, interacting at random with each other and their shifting environments" (2007, p. 3).
 
 But Darwin had no concept of genes at all. Mendel's work on genes was unknown to him, and was not incorporated into the
 mainstream of evolutionary theory until well after Darwin's death.
-
 And even if Gray is using "Darwin" as a synecdoche for "modern Darwinian theory," there is still a problem: in modern
 evolutionary theory, it is not true that evolution is purely random. As Richard Dawkins put it, evolution is "*not* a
-thoery of random chance. It is a theory of random mutation plus *nonrandom* cumulative natural selection" (1996, p. 66).
+theory of random chance. It is a theory of random mutation plus *nonrandom* cumulative natural selection" (1996, p. 66).
 
-Gray next assigns Christianity a unique status among worldviews in believing that there is a significant difference
+Gray next assigns Christianity a unique status among worldreligions in believing that there is a significant difference
 between humans and other animals, and holds it thus responsible for Darwin's theory being at all controversial. However,
 quite clearly Judaism and Islam, sharing the Old Testament with Christianity, also differentiate humans from other
 animals. But then, so did Aristotle, giving humans a unique character as "the rational animal." True, in religions that
@@ -186,9 +184,7 @@ He then describes the idea that "salvation is open to all" as "one of Christiani
 there is no such thing. But why then include the proviso "open to all"? In Gray's view, is salvation open to some but
 not to others?
 
-
 Gray then claims, "in the world shown us by Darwin, there is nothing that can be called progress" (2007, p. 4).
-
 But Darwin himself clearly believed in progress, for example: "And as natural selection works solely by and for the good
 of each being, all corporeal and mental endowments will tend to progress towards perfection." (1872, Chapter XV, par. 55)
 
@@ -210,11 +206,6 @@ In fact, the very "error" that Gray is at pains to criticize demonstrates that h
 wrong: no elephant or chimpanzee or dolphin has ever developed a metaphysical theory claiming that their species is
 different from all other animals, and has been in need of correction in their misapprehension by a dour British
 philosopher.
-
-"Humans are the most adventitious of creatures – a result of blind evolutionary drift" (2007, p. 5).
-
-
-"Darwin's discovery was that species are only currents in the drift of genes" (2007, p. 6).
 
 "if the human species is re-engineered it will not be the result of humanity assuming a God like control of its destiny.
 It will be another twist in man's fate" (2007, p. 6).
