@@ -203,8 +203,8 @@ different from all other mountains would not mean that we have to grant them som
 nevertheless, it would be a very poor geologist who did not recognize this significant difference.
 
 In fact, the very "error" that Gray is at pains to criticize demonstrates that his contention that this an error is
-wrong: no elephant or chimpanzee or dolphin has ever developed a metaphysical theory claiming that their species is
-different from all other animals, and has been in need of correction in their misapprehension by a dour British
+wrong: no elephant or chimpanzee or dolphin has ever developed a metaphysics in which their species is marked out as
+different from all other animals, rendering their misapprehension in need of correction by a dour British
 philosopher.
 
 "if the human species is re-engineered it will not be the result of humanity assuming a God like control of its destiny.
@@ -354,12 +354,22 @@ Hobbes's sovereign might need to take a stand on the issue of smoking.)
 ## Conclusion
 
 
-One of the results of reading (or re-reading) so much of Gray's ouvre in writing this introduction is amazement at the
-scope of material he has digested: he seems to not only have read everything you have, but also everything three or four
-of your colleagues have as well.
+One of the results of reading (or re-reading) much of Gray's ouvre in writing this paper is amazement at the
+scope of material he has digested: he appears to not only have read everything you have, but also everything three or four
+of your colleagues have as well. That, combined with the startling amount of work he has published, makes one wonder
+about the nihilism that he seemingly adopts in some of his output. After all, if "it" is all meaningless, why has Gray
+spent so much time and effort gifting us with such an extensive, insightful, and provocative body of work?
 
 
 ## Bibliography
+
+Callahan, Gene. 2011. How to Live Forever. *The American Conservative*.
+https://www.theamericanconservative.com/how-to-live-forever/.
+
+______________. 2015. Who Pulls John Gray's Strings? *The American Conservative*.
+https://www.theamericanconservative.com/who-pulls-john-grays-strings/.
+
+______________. 2024. After Liberalism... Faith? *The University Bookman*. https://kirkcenter.org/reviews/after-liberalismfaith/.
 
 Darwin, Charles. 1872. *On the Origin of Species*. Project Gutenberg.
 https://www.gutenberg.org/files/2009/2009-h/2009-h.htm.
