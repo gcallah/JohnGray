@@ -160,7 +160,7 @@ Minority traditions in protected institutions and confer on them arbitrary privi
 It opens with several curious assertions.
 
 First of all, he writes "Darwin teaches that species are only assemblies of genes, interacting at random with each other
-and their shifting environments" (2007, p. 3
+and their shifting environments" (2007, p. 3).
 
 But Darwin had no concept of genes at all. Mendel's work on genes was unknown to him, and was not incorporated into the
 mainstream of evolutionary theory until well after Darwin's death.
@@ -177,14 +177,14 @@ include the idea of reincarnation, it is often thought that souls may move betwe
 successive reincarnations. But Buddhism, for instance, regards human reincarnations as special in their openness to the
 possibility of enlightenment, since humans, possessing reason, have the ability to grasp the dharma
 (Ṅag-dbaṅ-bstan-ʼdzin-nor-bu 2020, p. XXX).
-Gray specifically cites Hinduis as a religion in which humans are not special, but hinduamerican.org says "Mankind,
+Gray specifically cites Hinduism as a religion in which humans are not special, but hinduamerican.org says "Mankind,
 because it is believed to be the most spiritually evolved, thus carries a special responsibility..." (Hindu American
 Foundation).
 
-He then describes the idea that "salvation is open to all" as "one of Christianity's most dubious promises" (2007, p. 4). We can
-grant that, if humans are just an outcome of random, material forces, that salvation is open to no one, since there is
-no such thing. But why then include the proviso "open to all"? In Gray's view, is salvation open to some but not to
-others?
+He then describes the idea that "salvation is open to all" as "one of Christianity's most dubious promises" (2007, p.
+4). We can grant that, *if* humans are just an outcome of random, material forces, that salvation is open to no one, since
+there is no such thing. But why then include the proviso "open to all"? In Gray's view, is salvation open to some but
+not to others?
 
 
 Gray then claims, "in the world shown us by Darwin, there is nothing that can be called progress" (2007, p. 4).
