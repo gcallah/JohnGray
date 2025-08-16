@@ -155,6 +155,70 @@ Minority traditions in protected institutions and confer on them arbitrary privi
 
 ## Two Faces of Liberalism
 
+"The liberal state or originated in a search for modus vivendi" 1
+
+"Liberal toleration has contributed immeasurably to human well-being" 1
+
+"Viewed from one side, liberal toleration is the ideal of a rational consensus on the best way of life. From the other,
+it is the belief that human beings can flourish in many ways of life... If liberalism has a future, it is in giving up
+the search for a rational consensus on the best way of life" 1
+
+"The liberal ideal of toleration which looks to a rational consensus on the best way of life was born in societies
+divided on the claims of a single way of life. It cannot show us how to live together in societies that harbour many
+ways of life" 1-2
+
+
+"Toleration did not begin with liberalism. In ancient Alexandria and Buddhist India, among the Romans, the Moors and the
+Ottomans, different faiths coexisted in peace for long periods" 2
+
+
+"The philosophies of John Locke and Immanuel Kant exemplify the liberal project of a universal regime, well those of
+Thomas Hobbes and David Hume express the liberalism of peaceful coexistence. And more recent times, Jon rules and FA
+Hayek have defended the first liberal philosophy, while Isaiah Berlin and Michael Oakeshott are exemplars of the second.
+
+"In this Hobbesian view, the end of tolerance is not consensus. It is coexistence."
+
+
+"Where such ways of life are rivals, there is no one of them that is best" 5
+
+This may be true, but here it is not argued for but merely assumed. And on its face, the assumption seems false: for
+instance, are we really wrong to regard the new ways of life that arose during what has been called "the axial age,"
+when religions arose that regarded all humans, and not merely some particular tribe or nation, as [WHAT???], are
+ethically superior to their predecessors? (And we can recognize that, while Jasper's placing this transformation in a
+narrow band of a few centuries is too limiting, there was a broader change that took place in the space of a millennium
+or so.)
+
+Gray, of course, perceives this problem, and hopes to solve it by noting that "Not all ways of life allow humans to live
+well. There are universal human goods and evils. Some virtues are needed for any kind of human flourishing" (2000, p.
+8). So, presumably, Gray would argue that, say, the Mafia's way of life fails to recognize these universal human goods
+and evil, and therefore need not be tolerated. But this has simply pushed raised the level of the liberal universal
+regime which he earlier rejected: now, this regime requires near-unanimty on just what virtues are required for any kind
+of human flourishing, and, furthermore, just what constitutes flourishing. Some people might declare that humans are
+flourish if they are healthy. Others with further require, that they be intellectually stimulated, or have open to them
+the path to enlightenment, or the opportunity to end the ceaseless cycle of death and rebirth, or to achieve salvation
+through God's grace.
+
+
+A thorn in the side of Gray's case in this book is that many of the ways of life that he proposes to tolerate have, at
+their core, a belief that theirs is the best way of life. Are we really tolerating them if our governing philosophy is
+based on the idea that their claim is wrong?
+
+That problem could be sidestepped, however: One could heartily agree with Gray that a modus vivendi political regime is
+the best course in our current circumstances, while rejecting his case for value pluralism. For instance, one might hold
+that a Christian polity would be superior to our current regimes, *if* such a thing were achievable. But given that
+ideal is unrealistic, the Christian virtue of prudence recommends we accept a modus vivendi regime.
+
+Gray, I can contend, has conflated two separate claims:
+
+1. There is no rational way to choose between different ways of life; and
+2. Our best political option at present is a modus vivendi regime.
+
+The case for the second claim does not depend on the first claim being true; in fact, I suggest it is actually weakened
+by being lashed to the first one, since tying them together weakens the appeal of the second claim for those who reject
+the first.
+
+
+
 
 ## Straw Dogs
 
