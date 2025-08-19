@@ -155,63 +155,79 @@ Minority traditions in protected institutions and confer on them arbitrary privi
 
 ## Two Faces of Liberalism
 
-"The liberal state or originated in a search for modus vivendi" 1
+Gray opens this work by noting that "The liberal state or originated in a search for *modus vivendi*" (2000, p. 1),
+meaning a way people with divergent views can somehow co-exist.
+And he declares that "Liberal toleration has contributed immeasurably to human well-being" (2000, p. 1).
 
-"Liberal toleration has contributed immeasurably to human well-being" 1
-
+But then he makes the quite important distinction between two liberal approaches to tolerance:
 "Viewed from one side, liberal toleration is the ideal of a rational consensus on the best way of life. From the other,
 it is the belief that human beings can flourish in many ways of life... If liberalism has a future, it is in giving up
-the search for a rational consensus on the best way of life" 1
+the search for a rational consensus on the best way of life" (2000, p. 1).
+
+He makes it clear that he embraces the second approach, and not the first:
 
 "The liberal ideal of toleration which looks to a rational consensus on the best way of life was born in societies
 divided on the claims of a single way of life. It cannot show us how to live together in societies that harbour many
-ways of life" 1-2
+ways of life" (2000, p. 1-2).
 
+Gray then offers examples of prominent thinkers exhibiting these different forms of liberal tolerance:
 
-"Toleration did not begin with liberalism. In ancient Alexandria and Buddhist India, among the Romans, the Moors and the
-Ottomans, different faiths coexisted in peace for long periods" 2
+"The philosophies of John Locke and Immanuel Kant exemplify the liberal project of a universal regime, while those of
+Thomas Hobbes and David Hume express the liberalism of peaceful coexistence. And more recent times, John Rawls and F.A.
+Hayek have defended the first liberal philosophy, while Isaiah Berlin and Michael Oakeshott are exemplars of the
+second" (2000, p. 2).
 
+he goes on to write that, "In this Hobbesian view [of the second sort of thinkers], the end of tolerance is not
+consensus. It is coexistence" (2000, p. 3).
 
-"The philosophies of John Locke and Immanuel Kant exemplify the liberal project of a universal regime, well those of
-Thomas Hobbes and David Hume express the liberalism of peaceful coexistence. And more recent times, Jon rules and FA
-Hayek have defended the first liberal philosophy, while Isaiah Berlin and Michael Oakeshott are exemplars of the second.
-
-"In this Hobbesian view, the end of tolerance is not consensus. It is coexistence."
-
-
-"Where such ways of life are rivals, there is no one of them that is best" 5
+Gray then claims, "*Modus vivendi* expresses the belief that there are many forms of life in which humans can thrive...
+Where such ways of life are rivals, there is no one of them that is best" 5
 
 This may be true, but here it is not argued for but merely assumed. And on its face, the assumption seems false: for
 instance, are we really wrong to regard the new ways of life that arose during what has been called "the axial age,"
-when religions arose that regarded all humans, and not merely some particular tribe or nation, as [WHAT???], are
+when religions arose that regarded all humans, and not merely some particular tribe or nation, as of equal moral worth, are
 ethically superior to their predecessors? (And we can recognize that, while Jasper's placing this transformation in a
 narrow band of a few centuries is too limiting, there was a broader change that took place in the space of a millennium
-or so.)
+or so.) After all, humans "thrived" in the pre-Axial societies, at least in the sense that the human population
+increased and humans came to inhabit more and more of the earth's lands.
 
 Gray, of course, perceives this problem, and hopes to solve it by noting that "Not all ways of life allow humans to live
 well. There are universal human goods and evils. Some virtues are needed for any kind of human flourishing" (2000, p.
 8). So, presumably, Gray would argue that, say, the Mafia's way of life fails to recognize these universal human goods
-and evil, and therefore need not be tolerated. But this has simply pushed raised the level of the liberal universal
-regime which he earlier rejected: now, this regime requires near-unanimty on just what virtues are required for any kind
-of human flourishing, and, furthermore, just what constitutes flourishing. Some people might declare that humans are
-flourish if they are healthy. Others with further require, that they be intellectually stimulated, or have open to them
-the path to enlightenment, or the opportunity to end the ceaseless cycle of death and rebirth, or to achieve salvation
-through God's grace.
+and evils, and therefore need not be tolerated. But this has simply raised the problem of liberal universal
+agreement to a higher level: this regime requires near-unanimty on just what virtues are required for any kind
+of human flourishing, and, furthermore, just what constitutes human flourishing. Some people might declare that humans are
+flourishing if they are healthy. Others will further require that they are materially prosperous, or that they be
+intellectually stimulated, or have open to them the path to enlightenment, or the opportunity to end the ceaseless cycle
+of death and rebirth, or to achieve salvation through God's grace.
 
+Gray's treatment of abortion is symptomatic of this problem. In discussing "fundamentalists," he treats one mark of
+fundamentalism as talking about "the right to life" (2000, p. 14). (And Gray actually puts the phrase in scare quotes.)
+Now, no less a prominent liberal than [GREEN??] saw the criminalization of abortion as a great victory of liberalism.
+For the "fundamentalists" who wish to see abortion banned, their aim, as they see it, is certainly pro-autonomy: the
+right to autonomy of the fetus is most definitely wiped out by killing it. Gray might argue that the fetus is not a
+person, and thus has no such rights. But that just illustrates that there is no consensus on vital points that Gray
+assumes we can agree upon to establish his *modus vivendi*.
 
-A thorn in the side of Gray's case in this book is that many of the ways of life that he proposes to tolerate have, at
-their core, a belief that theirs is the best way of life. Are we really tolerating them if our governing philosophy is
-based on the idea that their claim is wrong?
+He goes on to state that "Liberals and pluralists walk side-by-side in resisting totalitarian and fundamentalist
+regimes... It is a mark of an illiberal regime that conflicts of value are viewed as signs of error" (2000, p. 20).
 
-That problem could be sidestepped, however: One could heartily agree with Gray that a modus vivendi political regime is
+But of course Gray is viewing what he calls "fundamentalism" as a sign of error. And for him, the category "fundamentalist"
+apparently includes all the adherents of universal religions (such as Christianity, Islam, and Buddhism), as he says
+that "universal religions are incompatible with the truth of value-pluralism" (2000, p. 21). But this
+means that well over one half of the world's population hold views that are incompatible with value-pluralism. And
+therefore Gray's preferred regime tolerates all of their ways of life just so long as they don't take their own
+religion's claim to universality all that seriously.
+
+That problem could be sidestepped, however: One could heartily agree with Gray that a *modus vivendi* political regime is
 the best course in our current circumstances, while rejecting his case for value pluralism. For instance, one might hold
 that a Christian polity would be superior to our current regimes, *if* such a thing were achievable. But given that
-ideal is unrealistic, the Christian virtue of prudence recommends we accept a modus vivendi regime.
+ideal is unrealistic, the Christian virtue of prudence recommends we accept a *modus vivendi* regime.
 
 Gray, I can contend, has conflated two separate claims:
 
 1. There is no rational way to choose between different ways of life; and
-2. Our best political option at present is a modus vivendi regime.
+2. Our best political option at present is a *modus vivendi* regime.
 
 The case for the second claim does not depend on the first claim being true; in fact, I suggest it is actually weakened
 by being lashed to the first one, since tying them together weakens the appeal of the second claim for those who reject
