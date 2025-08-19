@@ -184,12 +184,15 @@ Gray then claims, "*Modus vivendi* expresses the belief that there are many form
 Where such ways of life are rivals, there is no one of them that is best" 5
 
 This may be true, but here it is not argued for but merely assumed. And on its face, the assumption seems false: for
-instance, are we really wrong to regard the new ways of life that arose during what has been called "the axial age,"
-when religions arose that regarded all humans, and not merely some particular tribe or nation, as of equal moral worth, are
-ethically superior to their predecessors? (And we can recognize that, while Jasper's placing this transformation in a
-narrow band of a few centuries is too limiting, there was a broader change that took place in the space of a millennium
-or so.) After all, humans "thrived" in the pre-Axial societies, at least in the sense that the human population
-increased and humans came to inhabit more and more of the earth's lands.
+instance, are we really wrong to regard the new ways of life that arose during what has been called "the Axial Age"
+(Jaspers, 2014), when religions arose that regarded all humans, and not merely some particular tribe or nation, as of
+equal moral worth, are ethically superior to their predecessors? (And we can recognize that, while Jaspers placing this
+transformation in a narrow band of a few centuries is too limiting, there was a broader change that took place in the
+space of a millennium or so.) After all, humans "thrived" in the pre-Axial societies, at least in the sense that the
+human population increased and humans came to inhabit more and more of the earth's lands. And, in fact, Gray's search
+for a *modus vivendi* which will allow humans pursuing different ways of life to co-exist is an implicit acceptance of
+the Axial Age advance in human ethical consciousness, and assumes that the ways of life it created *are* better than the
+more tribalistic ways of life they replaced.
 
 Gray, of course, perceives this problem, and hopes to solve it by noting that "Not all ways of life allow humans to live
 well. There are universal human goods and evils. Some virtues are needed for any kind of human flourishing" (2000, p.
@@ -477,6 +480,8 @@ __________. 2023. *The New Leviathans: Thoughts After Liberalism*. New York: Far
 
 Hindu American Foundation. Year not provided. Oneness and Pluralism: Hinduism's essence.
 https://www.hinduamerican.org/hinduism-basics.
+
+Jaspers, Karl. 2014. *The Origin and Goal of History*. Hoboken: Taylor and Francis.
 
 Ṅag-dbaṅ-bstan-ʼdzin-nor-bu, Christopher Stagg (Translator), Dzogchen Ponlop. 2020.
 *A Guide to the Thirty-Seven Practices of a Bodhisattva*. Boulder: Snow Lion
