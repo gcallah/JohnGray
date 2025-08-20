@@ -150,6 +150,29 @@ progressive enthusiasm for what they call "multiculturalism" is "animated by mor
 and a voyeuristic fascination with submerged, overwhelmed, or oppositional, cultures." Therefore, it seeks to "entrench
 Minority traditions in protected institutions and confer on them arbitrary privileges" (1996, p. 266).
 
+## Endgames
+
+
+"It is difficult to reconcile [science as truth seeking] with the results of scientific inquiry, such as Darwinism. In a
+consistently Darwinian perspective, science will seek truth only in so far as truth serves human interests" (1997, p. 168).
+
+The problem Gray's case faces here is that if what he says about science is true, it should apply to Darwinism as much
+as to all other science. And that would mean we have no particular reason to think that Darwinism is true, making his
+case self-undermining. (I will note here that I think Darwinism is a pretty good theory, but that is because I do
+believe that science is truth seeking.)
+
+
+Gray quotes John Aspinall:
+
+"Medical research should be funded into abortion, infanticide, euthanasia and birth control... The choice before us is a
+qualitative life for 200 million humans in perpetuity and a partially restored paradise, or a quantitative countdown to
+Armageddon..." (1997, p. 169)
+
+This quote illustrates just how horrific neopaganism actually is. But furthermore it is rather bizarre, because what
+sort of research is needed to kill fetus, babies, and old people? We know how to do all those things just fine.
+
+
+
 ## False Dawn
 
 
@@ -181,7 +204,7 @@ he goes on to write that, "In this Hobbesian view [of the second sort of thinker
 consensus. It is coexistence" (2000, p. 3).
 
 Gray then claims, "*Modus vivendi* expresses the belief that there are many forms of life in which humans can thrive...
-Where such ways of life are rivals, there is no one of them that is best" 5
+Where such ways of life are rivals, there is no one of them that is best" (2000, p. 5).
 
 This may be true, but here it is not argued for but merely assumed. And on its face, the assumption seems false: for
 instance, are we really wrong to regard the new ways of life that arose during what has been called "the Axial Age"
@@ -206,8 +229,11 @@ of death and rebirth, or to achieve salvation through God's grace.
 
 Gray's treatment of abortion is symptomatic of this problem. In discussing "fundamentalists," he treats one mark of
 fundamentalism as talking about "the right to life" (2000, p. 14). (And Gray actually puts the phrase in scare quotes.)
-Now, no less a prominent liberal than [GREEN??] saw the criminalization of abortion as a great victory of liberalism.
-For the "fundamentalists" who wish to see abortion banned, their aim, as they see it, is certainly pro-autonomy: the
+But it is not obvious why this is not itself the very sort of universal good Gray already acknowledged.
+For instance, the great liberal philosopher T.H. Green declared such a right a modern advance, writing
+of how, in the ancient world, "the exposure of children was everywhere practiced... a practice in strong contrast with the
+principal of modern law that even a child in the womb has a right to live" (Green 1986, p. 119).
+For the "fundamentalists" who wish to see abortion banned, their aim, as they understand it, is certainly pro-autonomy: the
 right to autonomy of the fetus is most definitely wiped out by killing it. Gray might argue that the fetus is not a
 person, and thus has no such rights. But that just illustrates that there is no consensus on vital points that Gray
 assumes we can agree upon to establish his *modus vivendi*.
@@ -466,6 +492,8 @@ Gray, John. 1988. *Liberalisms: Essays in Political Philosophy*. London and New 
 
 __________. 1996. *Post-Liberalism: Studies in Political Thought*. New York and Oxon: Routledge.
 
+__________. 1997. *Endgames: Questions in Late Modern Political Thought*. Cambridge: Polity Press.
+
 __________. 2000. *Two Faces of Liberalism*. New York: New Press.
 
 __________. 2007. *Straw Dogs: Thoughts on Humans and Other Animals*. New York: Farrar, Straus and Giroux.
@@ -477,6 +505,9 @@ __________. 2011. *The Immortalization Commission: Science and the Strange Quest
 __________. 2015. *The Soul of the Marionette: A Short Inquiry into Human Freedom*. New York: Farrar, Straus and Giroux.
 
 __________. 2023. *The New Leviathans: Thoughts After Liberalism*. New York: Farrar, Straus and Giroux.
+
+Green, T.H.  1986. *Lectures on the Principles of Political Obligation and Other Writings*. Cambridge: Cambridge
+University Press.
 
 Hindu American Foundation. Year not provided. Oneness and Pluralism: Hinduism's essence.
 https://www.hinduamerican.org/hinduism-basics.
