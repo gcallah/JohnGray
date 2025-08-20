@@ -185,7 +185,7 @@ need for security with the permanent revolution of the market" (1997, p. 19).
 
 
 "It is a comment on the parochialism of British political life that social democrats have accepted the Thatcherite claim
-that opposition to European federalism is the prerogative of the Right" (1997, p. 34-35).
+that opposition to European federalism is the prerogative of the Right" (1997, pp. 34-35).
 
 
 
@@ -228,7 +228,7 @@ He makes it clear that he embraces the second approach, and not the first:
 
 "The liberal ideal of toleration which looks to a rational consensus on the best way of life was born in societies
 divided on the claims of a single way of life. It cannot show us how to live together in societies that harbour many
-ways of life" (2000, p. 1-2).
+ways of life" (2000, pp. 1-2).
 
 Gray then offers examples of prominent thinkers exhibiting these different forms of liberal tolerance:
 
@@ -323,10 +323,9 @@ animals. But then, so did Aristotle, giving humans a unique character as "the ra
 include the idea of reincarnation, it is often thought that souls may move between human and non-human lives in
 successive reincarnations. But Buddhism, for instance, regards human reincarnations as special in their openness to the
 possibility of enlightenment, since humans, possessing reason, have the ability to grasp the dharma
-(Ṅag-dbaṅ-bstan-ʼdzin-nor-bu 2020, p. XXX).
-Gray specifically cites Hinduism as a religion in which humans are not special, but hinduamerican.org says "Mankind,
-because it is believed to be the most spiritually evolved, thus carries a special responsibility..." (Hindu American
-Foundation).
+(Norbu et al. 2020, pp. 19-26). Gray specifically cites Hinduism as a religion in which humans are not special, but
+hinduamerican.org says "Mankind, because it is believed to be the most spiritually evolved, thus carries a special
+responsibility..." (Hindu American Foundation).
 
 He then describes the idea that "salvation is open to all" as "one of Christianity's most dubious promises" (2007, p.
 4). We can grant that, *if* humans are just an outcome of random, material forces, that salvation is open to no one, since
@@ -551,7 +550,7 @@ https://www.hinduamerican.org/hinduism-basics.
 
 Jaspers, Karl. 2014. *The Origin and Goal of History*. Hoboken: Taylor and Francis.
 
-Ṅag-dbaṅ-bstan-ʼdzin-nor-bu, Christopher Stagg (Translator), Dzogchen Ponlop. 2020.
+Norbu, Dzartul Ngawang Tenzin, Christopher Stagg (Translator), Dzogchen Ponlop. 2020.
 *A Guide to the Thirty-Seven Practices of a Bodhisattva*. Boulder: Snow Lion
 
 
