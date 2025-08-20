@@ -153,6 +153,43 @@ Minority traditions in protected institutions and confer on them arbitrary privi
 ## Endgames
 
 
+The essay "The Strange Death of Tory England" deals with the British Conservative party undermining its own base by
+embracing neoliberalism. While much of the essay deals with particulars of British politics, it does further illustrate
+Gray's move away from Thatcherism, as well as presenting an example of the truth that unfettered markets are not
+friendly towards social cohesion.
+
+The next essay, "After Social Democracy," argues that, whether one approves or disapprove of Thatcherism, its
+"consequences for political life in Britain" are "irreversible" (1997, p. 11). Gray sees no possibility of Britain
+reverting to a pre-Thatcher form of social democracy or traditional conservatism; instead, the correct focus of
+practical political thought is "What is Thatcherism's successor?" (1997, p. 11)
+
+Gray contends that while social democracy was once a workable alternative to Soviet communism and American
+individualism,  "the billions of skilled workers released onto the global market by the communist collapse and the
+disappearance of any effective barriers to global mobility of capital" have rendered it "a bankrupt project" (1997, p.
+13). Gray also rejects the project of right-wingers (such as John Redwood) who seek to revive traditional cultural forms
+that have mostly vanished.
+
+As an alternative, he recommends "a communitarian liberal perspective" which "enriches standard liberal philosophy with
+the distinctive insights of communitarian thought" (1997, p. 15). He hopes this will balance the human need for security
+and forms of common life with people's "demand... to make their own choices and to be at least part-authors of their own
+lives" (1997, p. 16). This latter requirement is, of course, incompatible with the denial of free will that Gray will
+adopt later: if free will is an illusion, we no more make choices than does a rock tumbling down a hill. Furthermore,
+this few of our choices as "autonomous" ignores the insights of Rene Girard into the mimetic nature of our desires.
+[cite!!!]
+
+A central component of "the communitarian liberal view… is that market freedoms have instrumental value only, as a means
+to individual well-being" (1997, p. 17). And "in contrast with social democracy, which has extended to social welfare
+rights the supposedly unconditional claims of negative liberal rights, the communitarian view affirms the dependency of
+individual autonomy on a strong network of reciprocal obligations" (1997, p. 18). The goal is "reconciling the human
+need for security with the permanent revolution of the market" (1997, p. 19).
+
+
+"It is a comment on the parochialism of British political life that social democrats have accepted the Thatcherite claim
+that opposition to European federalism is the prerogative of the Right" (1997, p. 34-35).
+
+
+
+
 "It is difficult to reconcile [science as truth seeking] with the results of scientific inquiry, such as Darwinism. In a
 consistently Darwinian perspective, science will seek truth only in so far as truth serves human interests" (1997, p. 168).
 
