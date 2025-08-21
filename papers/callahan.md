@@ -36,9 +36,9 @@ years. As Gray describes the essays, "They embody a single project, pursued cont
 were written -- the project of defining liberalism and giving it a foundation." But, for liberalism, the conclusion was not a
 happy one: "The enterprise ended in failure" (Gray 1988, p. vii).
 
-"the move away from a political philosophy with the universalist, pretensions as a desirable, or at any rate an inevitable move" 168
+"the move away from a political philosophy with the universalist pretensions as a desirable, or at any rate an inevitable move" 168
 
-But this is a move away from political philosophy, not a positive of a different kind of political philosophy. See Bosanquet and Oakeshott.
+But this is a move away from political philosophy, not a positive or a different kind of political philosophy. See Bosanquet and Oakeshott.
 
 Gray notes that, prior to the breakdown of the Western consensus the most salient event of which was the Reformation,
 "the liberal problem of establishing fair principles of social cooperation among persons having incompatible and
@@ -199,27 +199,34 @@ In the end, Gray notes, "The most striking feature of Rawls's political liberali
 (1997, p. 54).
 
 
+#### Oakeshott and Berlin
+
+In "Berlin, Oakeshott, and Enlightenment," Gray undertakes an interesting comparison of these two prominent critics of
+rationalism. But he misunderstands Oakeshott in a fundamental way when he writes, "If, for Oakeshott, all forms of
+knowledge are at bottom practical..." (1997, p. 86). But Oakeshott quite explicitly rejects that view, writing "The
+world of practice... will be found to be abstracting defective from the standpoint of the totality of experience...
+[and] that (consequently) it is without any direct relationship with other abstract worlds of experience, such as those of
+science and history..." (Oakeshott 1933, p. 249). One might respond, "Well, that is just the early Oakeshott," were it
+not the case that he again, forty-two years later, rejects the idea that theory can be reduced to practice (Oakeshott
+1975, pp. 29-30).
+
+
 
 #### Beginnings
+
+The most glaring weakness in Gray's thought is the repeated mistaking of the theory of evolution, a biological model of
+how lifeforms change over time, as something with vast implications for metaphysics, ethics, epistemology, and philosophical
+anthropology. An example occurs in "Beginnings," the last essay in *Endgames*:
 
 "It is difficult to reconcile [science as truth seeking] with the results of scientific inquiry, such as Darwinism. In a
 consistently Darwinian perspective, science will seek truth only in so far as truth serves human interests" (1997, p. 168).
 
-The problem Gray's case faces here is that if what he says about science is true, it should apply to Darwinism as much
-as to all other science. And that would mean we have no particular reason to think that Darwinism is true, making his
-case self-undermining. (I will note here that I think Darwinism is a pretty good theory, albeit one likely to be
-eventually superceded by an even better theory, but that is because I do believe that science is truth seeking.)
-
-
-Gray quotes John Aspinall:
-
-"Medical research should be funded into abortion, infanticide, euthanasia and birth control... The choice before us is a
-qualitative life for 200 million humans in perpetuity and a partially restored paradise, or a quantitative countdown to
-Armageddon..." (1997, p. 169)
-
-This quote illustrates just how horrific neopaganism actually is. But furthermore it is rather bizarre, because what
-sort of research is needed to kill fetus, babies, and old people? We know how to do all those things just fine.
-
+The problem Gray's case faces here is that if what he says about science is true, there is no reason to acquit Darwinism
+of the charge he levels at all other scientific theories. And that would mean we have no particular reason to think that
+Darwinism is true; rather, it has been devised to help evolutionary biologists find mates, gain social prestige, and so
+on. And that makes his argument self-undermining. (I will note here that I think Darwinism is a pretty good theory, albeit
+one likely to be eventually superceded by an even better theory, but that is because I do believe that science is truth
+seeking.)
 
 
 ## False Dawn
@@ -565,6 +572,9 @@ Jaspers, Karl. 2014. *The Origin and Goal of History*. Hoboken: Taylor and Franc
 Norbu, Dzartul Ngawang Tenzin, Christopher Stagg (Translator), Dzogchen Ponlop. 2020.
 *A Guide to the Thirty-Seven Practices of a Bodhisattva*. Boulder: Snow Lion
 
+Oakeshott, Michael. 1933. *Experience and Its Modes*.  Cambridge: Cambridge University Press.
+
+Oakeshott, Michael. 1975. *On Human Conduct*. Oxford: Clarendon Press.
 
 
 ## Notes
