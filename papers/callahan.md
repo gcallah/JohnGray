@@ -183,20 +183,32 @@ rights the supposedly unconditional claims of negative liberal rights, the commu
 individual autonomy on a strong network of reciprocal obligations" (1997, p. 18). The goal is "reconciling the human
 need for security with the permanent revolution of the market" (1997, p. 19).
 
+Gray notes that "It is a comment on the parochialism of British political life that social democrats have accepted the
+Thatcherite claim that opposition to European federalism is the prerogative of the Right" (1997, pp. 34-35).  This was a
+prescient remark, given how a decade later, Brexit was cast as a right-wing initiative.
 
-"It is a comment on the parochialism of British political life that social democrats have accepted the Thatcherite claim
-that opposition to European federalism is the prerogative of the Right" (1997, pp. 34-35).
+In his essay "Rawl's Anti-Political Liberalism," Gray knocks Rawls off of his pedestal in a few pithy sentences. He
+succinctly describes the difference between Hobbes and Rawls:
+
+"For Hobbes, the goal of political philosophy is not to come up with an apology for any particular political regime. It is
+instead to understand the universal and permanent human needs that political institutions of all sorts exist to meet...
+The contrast with Rawls's political liberalism could hardly be starker... Rawls takes as his point of departure... the
+institutions common among American East Coast liberal academics" (1997, p. 53).
+
+In the end, Gray notes, "The most striking feature of Rawls's political liberalism is its utter political emptiness"
+(1997, p. 54).
 
 
 
+#### Beginnings
 
 "It is difficult to reconcile [science as truth seeking] with the results of scientific inquiry, such as Darwinism. In a
 consistently Darwinian perspective, science will seek truth only in so far as truth serves human interests" (1997, p. 168).
 
 The problem Gray's case faces here is that if what he says about science is true, it should apply to Darwinism as much
 as to all other science. And that would mean we have no particular reason to think that Darwinism is true, making his
-case self-undermining. (I will note here that I think Darwinism is a pretty good theory, but that is because I do
-believe that science is truth seeking.)
+case self-undermining. (I will note here that I think Darwinism is a pretty good theory, albeit one likely to be
+eventually superceded by an even better theory, but that is because I do believe that science is truth seeking.)
 
 
 Gray quotes John Aspinall:
