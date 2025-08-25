@@ -468,7 +468,9 @@ instance, it is quite possible to meaningfully say "What he did to that fellow w
 was certainly the right thing to do, but I still felt really bad about it." When people speak of the morality of some
 action, they are passing a judgment, not expressing an emotion. It is one thing to claim that those judgments have no
 foundation, or that they are culturally determined. But to say they are just expressions of an emotion is to mistake them for
-something quite different than they are.
+something quite different than they are. Does Gray really want to say that when, in *Endgames*, he argued for "the
+communitarian liberal view" of markets because it promotes "individual well-being" that he was merely expressing an
+emotion?
 
 
 ## The New Leviathans
