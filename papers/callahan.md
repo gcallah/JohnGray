@@ -470,7 +470,7 @@ action, they are passing a judgment, not expressing an emotion. It is one thing 
 foundation, or that they are culturally determined. But to say they are just expressions of an emotion is to mistake them for
 something quite different than they are. Does Gray really want to say that when, in *Endgames*, he argued for "the
 communitarian liberal view" of markets because it promotes "individual well-being" that he was merely expressing an
-emotion?
+emotion? (See Brandt, 1959, for more on this point.)
 
 Gray notes while it was once thought to be moral to use imperial power to spread civilization, that is now considered
 immoral. But simply pointing out the people have had different opinions on some topic at different times in no way shows
@@ -480,8 +480,8 @@ creatures that appeared on earth over 3 billion years ago. Would Gray agree that
 no view on the matter is better than any other?
 
 Gray might respond that morality is not like science in this regard. But that answer is question begging: whether it is
-or isn't as a point of contention, and Gray certainly cannot show that there are no better answers tomorrow questions
-simply by showing the different people have offered different answers.
+or isn't is the point of contention, and Gray certainly cannot show that there are no better or worse 
+answers to moral questions simply by showing the different people have offered different answers.
 
 
 
@@ -548,6 +548,9 @@ spent so much time and effort gifting us with such an extensive, insightful, and
 
 
 ## Bibliography
+
+Brandt, Richard B. 1959. *Ethical Theory: The Problems of Normative and Critical Ethics*. Englewood Cliffs, NJ:
+Prentice-Hall.
 
 Callahan, Gene. 2011. How to Live Forever. *The American Conservative*.
 https://www.theamericanconservative.com/how-to-live-forever/.
