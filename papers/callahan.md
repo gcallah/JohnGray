@@ -472,6 +472,19 @@ something quite different than they are. Does Gray really want to say that when,
 communitarian liberal view" of markets because it promotes "individual well-being" that he was merely expressing an
 emotion?
 
+Gray notes while it was once thought to be moral to use imperial power to spread civilization, that is now considered
+immoral. But simply pointing out the people have had different opinions on some topic at different times in no way shows
+that no opinion is more truthful than any other. Some people think that all living creatures popped into existence in a
+single act of creation that took place 6000 years ago. Others believe that all living forms evolved from simple
+creatures that appeared on earth over 3 billion years ago. Would Gray agree that this difference of opinion means that
+no view on the matter is better than any other?
+
+Gray might respond that morality is not like science in this regard. But that answer is question begging: whether it is
+or isn't as a point of contention, and Gray certainly cannot show that there are no better answers tomorrow questions
+simply by showing the different people have offered different answers.
+
+
+
 
 ## The New Leviathans
 
