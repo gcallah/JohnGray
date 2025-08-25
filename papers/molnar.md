@@ -4,13 +4,13 @@ Attila K. Molnar
 
 **Abstract:** The recognition paradigm has emerged to understand the
 core of human conflicts in terms of Hegel's master-slave dialectic.
-However, the Hegel's dialectic has been turned into an antipolitical
-project: many writers of this paradigm have suggested that 1, mutual
-recognition can be achieved, 2, and it may result the end of conflicts.
-This paper shows that theoretically as well as empirically these are
-vain hopes, because recognition is a positional good. And the movements
-claiming recognition search for upper-hand position instead of
-mutuality.
+However, the Hegel's dialectic has been turned into an
+egalitarian-antipolitical project: many writers of this paradigm have
+suggested that 1, mutual recognition can be achieved, 2, and it may
+result the end of conflicts. This paper shows that theoretically as well
+as empirically these are vain hopes, because recognition is a positional
+good. And the movements claiming recognition search for upper-hand
+position instead of mutuality.
 
 **Keywords:** recognition, human nature, ambition, conflict,
 antipolitics
@@ -32,7 +32,10 @@ free-marketism, promoted by the likes of Thatcher and Reagan, which
 promised economic prosperity at the expense of economic equality.
 Egalitarians looked for a new avenue of expression, turning toward
 non-material goods, such as psychological well-being and moral
-authority, which seemed to be in inexhaustible abundance.
+authority, which seemed to be in inexhaustible abundance. The
+recognition paradigm emerged in the previous decades seems to be one
+version of the contemporary moral egalitarianism and antipolitics. (Gray
+1997; Gray 2000; Gray 2003)
 
 Egalitarians have found a type of goods -- respect or recognition (and
 the resulting psychological satisfaction and emotional well-being and
@@ -701,19 +704,19 @@ combined with a horrified refusal of our own transparency through
 surveillance.
 
 The idea of interpersonal and mutual recognition obviously contradicts
-the ideal of autonomy and self-domination, because in a situation of
-mutual recognition an individual should behave and even think and feel
-according to the requirements of his environment. The demand for
-recognition aims to change the Others' thinking about the Ego.
-"Self-consciousness achieves its satisfaction only in another
-self-consciousness". (Hegel 1977, §175, p. 110) This means that the
-demand for recognition is for a demand to change the minds of Others,
-which is incompatible with the older liberal ideal of an autonomous man,
-which has been idealized until recently. Therefore, demands for
-recognition generate persistent conflicts between individuals who are
-taught to demand individual freedom, in the sense of autonomy --not
-being formed and controlled by others from without -- and to be
-authentic -- in the sense of not being conformist -- as well as to
+the liberal ideal of autonomy and self-domination (Gray 1993; Gray 2003;
+Gray 2023), because in a situation of mutual recognition an individual
+should behave and even think and feel according to the requirements of
+his environment. The demand for recognition aims to change the Others'
+thinking about the Ego. "Self-consciousness achieves its satisfaction
+only in another self-consciousness". (Hegel 1977, §175, p. 110) This
+means that the demand for recognition is for a demand to change the
+minds of Others, which is incompatible with the older liberal ideal of
+an autonomous man, which has been idealized until recently. Therefore,
+demands for recognition generate persistent conflicts between
+individuals who are taught to demand individual freedom, in the sense of
+autonomy --not being formed and controlled by others from without -- and
+to be authentic -- in the sense of not being conformist -- as well as to
 demand recognition from others, i.e. to seek to control the behaviour of
 Others and even their attitudes and feelings. (Nagel 1986) "The
 individual is perpetually riven by the conflict between her desire for
@@ -978,7 +981,9 @@ The warlike condition of equals competing for prestige eventually
 resulted in peace and hierarchy, according to Hobbes, while the
 recognition paradigm hopes in vain that the quarrels and fights of
 unequal people will somehow and someday bring equality, self-realization
-and peaceful harmony.
+and peaceful harmony. Ironically, the recognition paradigm implies
+antipolitical hope based on the Hobbesian tragic or pessimist view of
+*conditio humana*.
 
 **References**
 
@@ -1040,6 +1045,17 @@ Hobbes, T. 1965. *Leviathan*. Oxford: Clarendon.
 
 Honneth, A. 1996. *The Struggle for Recognition*, Cambridge MA: MIT
 Press.
+
+Gray, J. 1993. *Post-Liberalism*, London -- New York, Routledge.
+
+Gray, J. 1997. *Endgames: Questions in Late Modem Political Thought*,
+Cambridge: Polity Press.
+
+Gray, J. 2000. *Two Faces of Liberalism*, New York: The New Press.
+
+Gray, J. 2003. *Liberalism*, Mineapolis: University of Minnesota Press.
+
+Gray, J. 2023. *The New Leviathan*. New York: Farrar, Straus and Giroux.
 
 Kirsch, A. 2008. The Fight for Recognition. *Poetry*, 193(2): 143-148.
 
