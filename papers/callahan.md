@@ -1,32 +1,24 @@
-
-# John Gray's Life and Work
+# A Touch of Gray
 
 Gene Callahan
 
-*************
+*Every silver lining's got a touch of gray* -- Robert Hunter
 
-[From Wikipedia]
+## Introduction
 
-Gray studied at Exeter College, Oxford, reading philosophy, politics and economics (PPE), completing his B.A., Masters of Philosophy. and Doctorate in Philosophy.
-
-He held posts as lecturer in political theory at the University of Essex, fellow and tutor in politics at Jesus
-College, Oxford, and lecturer and then professor of politics at the University of Oxford. He has served as a visiting
-professor at Harvard University (1985–86) and Stranahan Fellow at the Social Philosophy and Policy Center, Bowling Green
-State University (1990–1994), and has also held visiting professorships at Tulane University's Murphy Institute (1991)
-and Yale University (1994). He was Professor of European Thought at the London School of Economics and Political Science
-until his retirement from academic life in early 2008.
-
-[End Wikipedia]
-
-*************
+It is a great privilege to have the opportunity to comment upon the work of John Gray. His output has been so extensive
+and his thought has seen so much development that one could easily write a book tracing his intellectual odyssey, and so
+a mere paper on the topic must, of necessity, be no more than a sketch. (I have previously reviewed three of Gray's
+books, and some of the material below is drawn from those reviews, which one can find in the bibliography.)
 
 
-He began his intellectual life on the left but moved right in the late 1970s, becoming a fan of Nobel Prize-winning free-market
-economist F.A. Hayek.
+He began his intellectual life on the left but moved towards libertarianism in the late 1970s, influenced by his study
+of the work of Nobel Prize-winning free-market economist F.A. Hayek (Gray 1982).
 
-Gray's libertarianism was tempered, however, by studying British philosopher Michael Oakeshott's
-critique of "rationalism in politics." (Gray wrote of him: "Michael Oakeshott [is] clearly one of the most original and
-profound British political philosophers since Hume and certainly this century's greatest conservative writer" [1996: p. 40].)
+Gray's libertarianism was tempered, however, by studying the work of Isaiah Berlin and Michael Oakeshott.
+(Gray wrote of the latter that "Michael Oakeshott [is] clearly one of the most original and
+profound British political philosophers since Hume and certainly this century's greatest conservative writer" [1996: p.
+40].)
 
 
 ## Liberalisms
@@ -467,6 +459,18 @@ Marionette*. In these pages he undertakes a sort of jazz improvisation on the th
 omnium-gatherum of earlier writers' and cultures' thoughts on the topic from the point of view of a "freedom-skeptic." 
 
 
+## Feline Philosophy
+
+Gray claims that when people talk of morality, "what they are doing is expressing their emotions" (2020, p. 46).
+
+When people say something is morally wrong or right, they most certainly are not (merely) expressing an emotion. For
+instance, it is quite possible to meaningfully say "What he did to that fellow was wrong, but it made me laugh," or "It
+was certainly the right thing to do, but I still felt really bad about it." When people speak of the morality of some
+action, they are passing a judgment, not expressing an emotion. It is one thing to claim that those judgments have no
+foundation, or that they are culturally determined. But to say they are just expressions of an emotion is to mistake them for
+something quite different than they are.
+
+
 ## The New Leviathans
 
 Gray's most recent book is *The New Leviathans: Thoughts After Liberalism*.
@@ -543,7 +547,9 @@ https://www.gutenberg.org/files/2009/2009-h/2009-h.htm.
 
 Dawkins, Richard. 1996. *Climbing Mount Improbable*. New York: W.W. Norton & Co.
 
-Gray, John. 1988. *Liberalisms: Essays in Political Philosophy*. London and New York: Routledge.
+Gray, John. 1982. *F.A. Hayek and the Rebirth of Classical Liberalism*. Menlo Park, CA: Institute for Humane Studies.
+
+__________. 1988. *Liberalisms: Essays in Political Philosophy*. London and New York: Routledge.
 
 __________. 1996. *Post-Liberalism: Studies in Political Thought*. New York and Oxon: Routledge.
 
@@ -558,6 +564,8 @@ __________. 2009. *False Dawn: The Delusions of Global Capitalism*. London: Gran
 __________. 2011. *The Immortalization Commission: Science and the Strange Quest to Cheat Death*. New York: Farrar, Straus and Giroux.
 
 __________. 2015. *The Soul of the Marionette: A Short Inquiry into Human Freedom*. New York: Farrar, Straus and Giroux.
+
+__________. 2020. *Feline Philosophy: Cats and the Meaning of Life*. New York: Picador.
 
 __________. 2023. *The New Leviathans: Thoughts After Liberalism*. New York: Farrar, Straus and Giroux.
 
