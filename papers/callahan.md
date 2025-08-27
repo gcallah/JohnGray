@@ -461,29 +461,41 @@ omnium-gatherum of earlier writers' and cultures' thoughts on the topic from the
 
 ## Feline Philosophy
 
-Gray claims that when people talk of morality, "what they are doing is expressing their emotions" (2020, p. 46).
+In the recent work *Feline Philosophy*, Gray compares the attitude of cats towards the world with that of humans, and finds that, as a
+whole, that of cats is better.
 
-When people say something is morally wrong or right, they most certainly are not (merely) expressing an emotion. For
-instance, it is quite possible to meaningfully say "What he did to that fellow was wrong, but it made me laugh," or "It
-was certainly the right thing to do, but I still felt really bad about it." When people speak of the morality of some
-action, they are passing a judgment, not expressing an emotion. It is one thing to claim that those judgments have no
-foundation, or that they are culturally determined. But to say they are just expressions of an emotion is to mistake them for
-something quite different than they are. Does Gray really want to say that when, in *Endgames*, he argued for "the
-communitarian liberal view" of markets because it promotes "individual well-being" that he was merely expressing an
-emotion? (See Brandt, 1959, for more on this point.)
+For one thing, cats have no concept of morality; humans believe they do, but they are mistaken.
+Gray claims that when people talk of morality, "what they are doing is expressing their emotions" (2020, p. 46). This
+metaethical theory is known as emotivism, and was popularized by A.J. Ayer (1946).
 
+But emotivism is mistaken, regardless of whether there are objective moral facts or not. Consider someone who says
+"Adultery is wrong": they are *not* just expressing a negative emotion they feel towards adultery. For instance, it is
+quite possible for someone to say, "I know adultery is wrong, but boy do I love it!" No, when someone utters a sentence
+like that, they are claiming that there is *a fact of the matter* about adultery being wrong. Now, they might be
+mistaken in their claim, just as I might claim, "There is a man hiding behind that tree" when there is no such man
+there. But my sentence was not a description of some emotion I was experiencing; it was a fact claim, one that happened
+to be incorrect. (See Brandt 1959 for more on this point.)
+
+Attempting to back his advocacy of emotivism,
 Gray notes while it was once thought to be moral to use imperial power to spread civilization, that is now considered
 immoral. But simply pointing out the people have had different opinions on some topic at different times in no way shows
 that no opinion is more truthful than any other. Some people think that all living creatures popped into existence in a
 single act of creation that took place 6000 years ago. Others believe that all living forms evolved from simple
-creatures that appeared on earth over 3 billion years ago. Would Gray agree that this difference of opinion means that
+creatures that appeared on earth over 3 billion years ago. Would Gray argue that this difference of opinion means that
 no view on the matter is better than any other?
 
 Gray might respond that morality is not like science in this regard. But that answer is question begging: whether it is
 or isn't is the point of contention, and Gray certainly cannot show that there are no better or worse 
-answers to moral questions simply by showing the different people have offered different answers.
+answers to moral questions simply by showing that there are different answers.
 
+In the last chapter of *Feline Philosophy*, Gray offers ten "feline hints" (2020, pp. 108-111). All of them are
+interesting, and many of them strike me as fairly sound. But entire list rests uneasily with feline commandment
+number nine, which advises "Beware anyone who offers to make you happy": isn't that what Gray (or his cat?) is doing
+with this list?
 
+After these ten hints, he writes, "Eternity is not another order of things, but the world seen without anxiety"
+(2020, p. 111). This is a profound insight; one might be tempted to call it "religious." And indeed, one can find this
+idea also expressed by Buddha and Christ.
 
 
 ## The New Leviathans
@@ -548,6 +560,8 @@ spent so much time and effort gifting us with such an extensive, insightful, and
 
 
 ## Bibliography
+
+Ayer, A. J. 1946. *Language, Truth, and Logic*. New York: Dover Publications.
 
 Brandt, Richard B. 1959. *Ethical Theory: The Problems of Normative and Critical Ethics*. Englewood Cliffs, NJ:
 Prentice-Hall.
