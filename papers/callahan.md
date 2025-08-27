@@ -488,6 +488,10 @@ Gray might respond that morality is not like science in this regard. But that an
 or isn't is the point of contention, and Gray certainly cannot show that there are no better or worse 
 answers to moral questions simply by showing that there are different answers.
 
+Gray contrasts the idea of morality found, for instance, in Christianity, with that of the Chinese ideal of "living
+according to *tao*" (2020, p. 47). But this ignores the deep similarities between Taoism and Christianity, as
+demonstrated by, e.g., Damascene (2002).
+
 In the last chapter of *Feline Philosophy*, Gray offers ten "feline hints" (2020, pp. 108-111). All of them are
 interesting, and many of them strike me as fairly sound. But entire list rests uneasily with feline commandment
 number nine, which advises "Beware anyone who offers to make you happy": isn't that what Gray (or his cat?) is doing
@@ -573,6 +577,8 @@ ______________. 2015. Who Pulls John Gray's Strings? *The American Conservative*
 https://www.theamericanconservative.com/who-pulls-john-grays-strings/.
 
 ______________. 2024. After Liberalism... Faith? *The University Bookman*. https://kirkcenter.org/reviews/after-liberalismfaith/.
+
+Damascene, Hieromonk. 2002. *Christ the Eternal Tao*. Platina, California: Valaam Books.
 
 Darwin, Charles. 1872. *On the Origin of Species*. Project Gutenberg.
 https://www.gutenberg.org/files/2009/2009-h/2009-h.htm.
