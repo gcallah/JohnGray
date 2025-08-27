@@ -21,7 +21,9 @@ profound British political philosophers since Hume and certainly this century's 
 40].)
 
 
-## Liberalisms
+## Leaving Liberalism
+
+### Liberalisms
 
 A key document of this shift was his 1988 work, *Liberalisms*. It is a collection of essays written over a period of a dozen
 years. As Gray describes the essays, "They embody a single project, pursued continuously over the period in which they
@@ -47,10 +49,9 @@ which Hobbes presented at a time of profound religious conflict" (1988, p. 181) 
 theme in his most recent book.
 
 
-## Post-Liberalism
+### Post-Liberalism
 
-
-### Hayek
+#### Hayek
 
 In "Hayek as a conservative" Gray notes that "Hayek's position is distinctive, to be sure" (1996, p. 32), and that "Hayek's
 attempt to synthesize the deepest insights of conservatism with the best elements of classical liberalism merits our
@@ -72,7 +73,7 @@ century conservative" (1996, p. 38)
 "since much of contemporary culture is possessed by a death-wish brought on by pathological developments in some of our
 oldest traditions, a modern conservative must also be a moral and intellectual radical" (1996, p. 39)
 
-### Oakeshott
+#### Oakeshott
 
 "[Oakeshott's] first lesson is that the hubristic project of doctrinal or fundamental liberalism – the project attempted by all
 the liberal thinkers... of fixing the boundaries of government action by some principle or doctrine, be it
@@ -88,7 +89,7 @@ during the 1990s, Gray was associated with New Labour -- the center-left movemen
 that brought Tony Blair to power in Westminster -- and he became a prominent critic of global capitalism with his 1998
 book *False Dawn*.
 
-### Buchanan
+#### Buchanan
 
 An important lesson Gray takes from Buchanan is that, contra Hayek, spontaneous social orders will not reliably be
 beneficial, without the aid of deliberately constructed institutions designed to make them so. For instance, Gray argues
@@ -102,8 +103,7 @@ settlement on limited government, in which free men and women may live in volunt
 rule of law" (1996, p. 63).
 
 
-
-### Berlin
+#### Berlin
 
 In Gray's essay on Isaiah Berlin we can detect the genesis of another phase of Gray's thought: here we see him embrace
 Berlin's value pluralism:
@@ -135,14 +135,14 @@ formula... if there is any liberalism, that is now defensible, it is Berlin's." 
 
 Among other things, the above passage is notable for illustrating Gray's decreasing enthusiasm for Hayek.
 
-### Cultural Diversity
+#### Cultural Diversity
 
 In "The politics of cultural diversity," an essay as relevant today as when it was written, Gray argues that The
 progressive enthusiasm for what they call "multiculturalism" is "animated by moral hatred of the dominant traditions,
 and a voyeuristic fascination with submerged, overwhelmed, or oppositional, cultures." Therefore, it seeks to "entrench
 Minority traditions in protected institutions and confer on them arbitrary privileges" (1996, p. 266).
 
-## Endgames
+### Endgames
 
 
 The essay "The Strange Death of Tory England" deals with the British Conservative party undermining its own base by
@@ -203,7 +203,6 @@ not the case that he again, forty-two years later, rejects the idea that theory 
 1975, pp. 29-30).
 
 
-
 #### Beginnings
 
 The most glaring weakness in Gray's thought is the repeated mistaking of the theory of evolution, a biological model of
@@ -221,10 +220,10 @@ one likely to be eventually superceded by an even better theory, but that is bec
 seeking.)
 
 
-## False Dawn
+### False Dawn
 
 
-## Two Faces of Liberalism
+### Two Faces of Liberalism
 
 Gray opens this work by noting that "The liberal state or originated in a search for *modus vivendi*" (2000, p. 1),
 meaning a way people with divergent views can somehow co-exist.
@@ -311,9 +310,10 @@ by being lashed to the first one, since tying them together weakens the appeal o
 the first.
 
 
+## Staring into the Void
 
 
-## Straw Dogs
+### Straw Dogs
 
 *Straw Dogs* is one of Gray's best selling books. In it, the "gloomy Gray" comes to the forefront. A lot of this gloom
 turns on Gray's interpretation of Darwinism and his reading of its implications, but both are questionable.
@@ -419,7 +419,7 @@ the new astronomy as part of a coming trend in society" (2007, p. 21).
 
 
 
-## The Immortalization Commission
+### The Immortalization Commission
 
 
 In his book *The Immortalization Commission: Science and the Strange Quest to Cheat Death*, Gray 
@@ -451,7 +451,7 @@ regime having their own little version of Lenin's cubical shrine in their homes.
 
 
 
-## The Soul of the Marionette
+### The Soul of the Marionette
 
 
 A spirit of "nihilistic stoicism" suffuses his 2015 book, *The Soul of the
@@ -459,7 +459,7 @@ Marionette*. In these pages he undertakes a sort of jazz improvisation on the th
 omnium-gatherum of earlier writers' and cultures' thoughts on the topic from the point of view of a "freedom-skeptic." 
 
 
-## Feline Philosophy
+### Feline Philosophy
 
 In the recent work *Feline Philosophy*, Gray compares the attitude of cats towards the world with that of humans, and finds that, as a
 whole, that of cats is better.
@@ -502,7 +502,7 @@ After these ten hints, he writes, "Eternity is not another order of things, but 
 idea also expressed by Buddha and Christ.
 
 
-## The New Leviathans
+### The New Leviathans
 
 Gray's most recent book is *The New Leviathans: Thoughts After Liberalism*.
 
@@ -602,6 +602,8 @@ __________. 2009. *False Dawn: The Delusions of Global Capitalism*. London: Gran
 __________. 2011. *The Immortalization Commission: Science and the Strange Quest to Cheat Death*. New York: Farrar, Straus and Giroux.
 
 __________. 2015. *The Soul of the Marionette: A Short Inquiry into Human Freedom*. New York: Farrar, Straus and Giroux.
+
+__________. 2018. *Seven Types of Atheism*. New York: Picador.
 
 __________. 2020. *Feline Philosophy: Cats and the Meaning of Life*. New York: Picador.
 
