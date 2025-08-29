@@ -293,7 +293,8 @@ apparently includes all the adherents of universal religions (such as Christiani
 that "universal religions are incompatible with the truth of value-pluralism" (2000, p. 21). But this
 means that well over one half of the world's population hold views that are incompatible with value-pluralism. And
 therefore Gray's preferred regime tolerates all of their ways of life just so long as they don't take their own
-religion's claim to universality all that seriously.
+religion's claim to universality all that seriously. (See Finnis 2011 for the case that there is no such incompatibility
+between value pluralism and universal religions.)
 
 That problem could be sidestepped, however: One could heartily agree with Gray that a *modus vivendi* political regime is
 the best course in our current circumstances, while rejecting his case for value pluralism. For instance, one might hold
@@ -474,7 +475,7 @@ quite possible for someone to say, "I know adultery is wrong, but boy do I love 
 like that, they are claiming that there is *a fact of the matter* about adultery being wrong. Now, they might be
 mistaken in their claim, just as I might claim, "There is a man hiding behind that tree" when there is no such man
 there. But my sentence was not a description of some emotion I was experiencing; it was a fact claim, one that happened
-to be incorrect. (See Brandt 1959 for more on this point.)
+to be incorrect. (See Brandt 1959 and Geach 1960 for further arguments against emotivism.)
 
 Attempting to back his advocacy of emotivism,
 Gray notes while it was once thought to be moral to use imperial power to spread civilization, that is now considered
@@ -490,7 +491,7 @@ answers to moral questions simply by showing that there are different answers.
 
 Gray contrasts the idea of morality found, for instance, in Christianity, with that of the Chinese ideal of "living
 according to *tao*" (2020, p. 47). But this ignores the deep similarities between Taoism and Christianity, as
-demonstrated by, e.g., Damascene (2002).
+demonstrated by, e.g., Damascene 2002 or Lewis 1974..
 
 In the last chapter of *Feline Philosophy*, Gray offers ten "feline hints" (2020, pp. 108-111). All of them are
 interesting, and many of them strike me as fairly sound. But entire list rests uneasily with feline commandment
@@ -585,6 +586,10 @@ https://www.gutenberg.org/files/2009/2009-h/2009-h.htm.
 
 Dawkins, Richard. 1996. *Climbing Mount Improbable*. New York: W.W. Norton & Co.
 
+Finnis, John. 2011. *Natural Law and Natural Rights*. 2nd ed. Oxford: Oxford University Press.
+
+Geach, Peter. 1960. Ascriptivism. *Philosophical Review*: 69 (2), 221–225.
+
 Gray, John. 1982. *F.A. Hayek and the Rebirth of Classical Liberalism*. Menlo Park, CA: Institute for Humane Studies.
 
 __________. 1988. *Liberalisms: Essays in Political Philosophy*. London and New York: Routledge.
@@ -616,6 +621,8 @@ Hindu American Foundation. Year not provided. Oneness and Pluralism: Hinduism's 
 https://www.hinduamerican.org/hinduism-basics.
 
 Jaspers, Karl. 2014. *The Origin and Goal of History*. Hoboken: Taylor and Francis.
+
+Lewis, C.S. 1974. *The Abolition of Man*. New York: Harper Collins.
 
 Norbu, Dzartul Ngawang Tenzin, Christopher Stagg (Translator), Dzogchen Ponlop. 2020.
 *A Guide to the Thirty-Seven Practices of a Bodhisattva*. Boulder: Snow Lion
