@@ -475,6 +475,19 @@ that small part. Seeing religion as a system of beliefs, they have attacked it a
 scientific theory... But the idea that religion consists of a bunch of discredited theories is itself a discredited
 theory -- a relic of the 19th century philosophy of Positivism." (2028, p. 9)
 
+The next variety of atheism that Gray addresses is secular humanism. He convincingly argues that the belief in continued
+human progress, divorced from its Biblical roots, is just the echoing death rattles of our Christian civilization.
+
+Gray, however, mistakenly forwards the common idea that all cultures without the Bible as their sacred scripture have a
+cyclical understanding of history. As Eric Voegelin wrote:
+
+"When I devise the program, I was still laboring under the conventional belief that the conception of history has a
+meeting for Kristin events on a straight line of time is the great achievement of Israelites and Christians... while
+the pagans... could never rise above the conception of a cyclical time. This conventional believe had to be abandoned
+when I discovered the unilinear construction of history... developed by the end of the third millennium B.C. in the
+empires of the Ancient Near East." (Voegelin 2000, p. 51)
+
+
 ### Feline Philosophy
 
 In the recent work *Feline Philosophy*, Gray compares the attitude of cats towards the world with that of humans, and finds that, as a
@@ -646,6 +659,7 @@ Oakeshott, Michael. 1933. *Experience and Its Modes*.  Cambridge: Cambridge Univ
 
 Oakeshott, Michael. 1975. *On Human Conduct*. Oxford: Clarendon Press.
 
+Voegelin, Eric. 2000. *Order and History Volume IV: The Ecumenic Age*. Columbia, Missouri: University of Missouri Press.
 
 ## Notes
 
