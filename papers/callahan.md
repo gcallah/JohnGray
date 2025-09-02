@@ -348,11 +348,11 @@ Gray then claims, "in the world shown us by Darwin, there is nothing that can be
 But Darwin himself clearly believed in progress, for example: "And as natural selection works solely by and for the good
 of each being, all corporeal and mental endowments will tend to progress towards perfection." (1872, Chapter XV, par. 55)
 
-Gray in another work claims that a passage like the latter is due to "Darwins inability always to accept the logic of
-his own theory" (2017, p. 55). However, it could be equally due to Darwin recognizing that the fact that a theory does
-not make use of some concept, such as "progress," does not mean that concept has no application anywhere: it simply means
-it is not a part of that theory. Just like with progress, Darwin's theory also does not contain the concept of music.
-That hardly shows that music does not exist.
+Gray, in another work, claims that the existence of a passage like the above is due to "Darwins inability always to
+accept the logic of his own theory" (2018, p. 55). However, it could be equally due to Darwin recognizing that the fact
+that a theory does not make use of some concept, such as "progress," does not mean that concept has no application
+anywhere: it simply means it is not a part of that theory. Just like with progress, Darwin's theory also does not
+contain the concept of music.  That hardly shows that music does not exist.
 
 He next claims that "Christianity's cardinal error" is that "humans are different from all other animals" (2007, p. 4).
 
@@ -461,6 +461,19 @@ A spirit of "nihilistic stoicism" suffuses his 2015 book, *The Soul of the
 Marionette*. In these pages he undertakes a sort of jazz improvisation on the theme of human freedom, surveying an
 omnium-gatherum of earlier writers' and cultures' thoughts on the topic from the point of view of a "freedom-skeptic." 
 
+
+### Seven Types of Atheism
+
+In his book *Seven Types of Atheism*, Gray makes the important point that atheism is not a single doctrine, but
+encompasses a wide variety -- at least seven -- of world views.
+
+In his first chapter, Gray addresses is the "New Atheists." He is at his best here, and few believers could write as
+sscathing a takedown of this movement. As he puts it:
+
+"The new atheists have directed their campaign against a narrow segment of religion while failing to understand even
+that small part. Seeing religion as a system of beliefs, they have attacked it as if it was no more than an obsolete
+scientific theory... But the idea that religion consists of a bunch of discredited theories is itself a discredited
+theory -- a relic of the 19th century philosophy of Positivism." (2028, p. 9)
 
 ### Feline Philosophy
 
