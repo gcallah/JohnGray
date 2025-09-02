@@ -328,7 +328,7 @@ And even if Gray is using "Darwin" as a synecdoche for "modern Darwinian theory,
 evolutionary theory, it is not true that evolution is purely random. As Richard Dawkins put it, "Darwinism
 is a theory of random mutation plus *nonrandom* cumulative natural selection" (Dawkins, 1996, p. 75).
 
-Gray next assigns Christianity a unique status among worldreligions in believing that there is a significant difference
+Gray next assigns Christianity a unique status among world religions in believing that there is a significant difference
 between humans and other animals, and holds it thus responsible for Darwin's theory being at all controversial. However,
 quite clearly Judaism and Islam, sharing the Old Testament with Christianity, also differentiate humans from other
 animals. But then, so did Aristotle, giving humans a unique character as "the rational animal." True, in religions that
@@ -348,9 +348,11 @@ Gray then claims, "in the world shown us by Darwin, there is nothing that can be
 But Darwin himself clearly believed in progress, for example: "And as natural selection works solely by and for the good
 of each being, all corporeal and mental endowments will tend to progress towards perfection." (1872, Chapter XV, par. 55)
 
-Perhaps Gray would argue that his claim is an implication of Darwin's theory that Darwin himself missed; but then he
-should at least mention that fact. A reader who had not encountered Darwin in the original would naturally conclude that
-this was what Darwin himself thought.
+Gray in another work claims that a passage like the latter is due to "Darwins inability always to accept the logic of
+his own theory" (2017, p. 55). However, it could be equally due to Darwin recognizing that the fact that a theory does
+not make use of some concept, such as "progress," does not mean that concept has no application anywhere: it simply means
+it is not a part of that theory. Just like with progress, Darwin's theory also does not contain the concept of music.
+That hardly shows that music does not exist.
 
 He next claims that "Christianity's cardinal error" is that "humans are different from all other animals" (2007, p. 4).
 
