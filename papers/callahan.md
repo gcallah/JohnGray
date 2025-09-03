@@ -473,7 +473,12 @@ sscathing a takedown of this movement. As he puts it:
 "The new atheists have directed their campaign against a narrow segment of religion while failing to understand even
 that small part. Seeing religion as a system of beliefs, they have attacked it as if it was no more than an obsolete
 scientific theory... But the idea that religion consists of a bunch of discredited theories is itself a discredited
-theory -- a relic of the 19th century philosophy of Positivism." (2028, p. 9)
+theory -- a relic of the 19th century philosophy of Positivism." (2018, p. 9)
+
+And he goes on to note that "The Genesis story is not an early theory of the origin of species" (2018, p. 11).
+
+As Gray demonstrates, the new atheists, far from being irreligious, are followers of Auguste Comte's "religion of
+humanity," a cult the French thinker created in the 19th century that contained its own positivist rites and sacraments.
 
 The next variety of atheism that Gray addresses is secular humanism. He convincingly argues that the belief in continued
 human progress, divorced from its Biblical roots, is just the echoing death rattles of our Christian civilization.
@@ -486,6 +491,13 @@ meeting for Kristin events on a straight line of time is the great achievement o
 the pagans... could never rise above the conception of a cyclical time. This conventional believe had to be abandoned
 when I discovered the unilinear construction of history... developed by the end of the third millennium B.C. in the
 empires of the Ancient Near East." (Voegelin 2000, p. 51)
+
+Gray closes his chapter on secular humanism with a critique of Ayn Rand, in which he demonstrates the roots of her
+"cod-philosophy" (2018, p. 51) in the work of Nietzsche, while noting how ridiculous her cults' embrace of such habits as
+smoking cigarettes with a filter and esteeming tap dancing above all other dances were.
+
+Gray next chapter, "A Strange Faith in Science," takes on those who make a religion out of science.
+
 
 
 ### Feline Philosophy
