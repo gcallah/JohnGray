@@ -496,14 +496,21 @@ Gray closes his chapter on secular humanism with a critique of Ayn Rand, in whic
 "cod-philosophy" (2018, p. 51) in the work of Nietzsche, while noting how ridiculous her cults' embrace of such habits as
 smoking cigarettes with a filter and esteeming tap dancing above all other dances were.
 
-Gray next chapter, "A Strange Faith in Science," takes on those who make a religion out of science.
+Gray next chapter, "A Strange Faith in Science," takes on those who make a religion out of science. The first part of
+the chapter discusses the roots of modern racism in the Enlightenment, noting that Hume, Kant and Voltaire all were
+quite explicitly racist, and that this racism continued in several "scientific" forms well into the twentieth century.
+
+The last part of the chapter deals with transhumanism, which Gray refers to as "techno-monotheism" (2018, p. 66), and
+"religion recycled as science" (2018, p. 67). He argues that even if the transhumanist touted technologies come to
+fruition, the result will be not one "Supreme Being... [but] many different gods, each of them a parody of human beings
+that once existed" (2018, p. 70).
 
 
 
 ### Feline Philosophy
 
-In the recent work *Feline Philosophy*, Gray compares the attitude of cats towards the world with that of humans, and finds that, as a
-whole, that of cats is better.
+In the recent work *Feline Philosophy*, Gray compares the attitude of cats towards the world with that of humans, and
+finds that, as a whole, that of cats is better.
 
 For one thing, cats have no concept of morality; humans believe they do, but they are mistaken.
 Gray claims that when people talk of morality, "what they are doing is expressing their emotions" (2020, p. 46). This
