@@ -316,7 +316,7 @@ the first.
 
 ### Straw Dogs
 
-*Straw Dogs* is one of Gray's best selling books. In it, the "gloomy Gray" comes to the forefront. A lot of this gloom
+*Straw Dogs* is one of Gray's most popular books. In it, a "gloomy Gray" comes to the forefront. A lot of this gloom
 turns on Gray's interpretation of Darwinism and his reading of its implications, but both are questionable.
 
 The book opens with several curious assertions. First, he writes "Darwin teaches that species are only assemblies of
@@ -505,6 +505,14 @@ The last part of the chapter deals with transhumanism, which Gray refers to as "
 fruition, the result will be not one "Supreme Being... [but] many different gods, each of them a parody of human beings
 that once existed" (2018, p. 70).
 
+In a chapter on "God-Haters," Gray demonstrates his ability to unearth obscure but curious anecdotes from the byways of
+history that help illustrate a theme he is exploring. In this case, gray turns to the life and work of English literary
+critic and poet William Empson. Empson was, indeed, a "God hater," writing "The Christian God the Father... is the
+wickedest thing yet invented by the black heart of man" (quoted in Gray 2018, p. 117). Yet Empson had an affinity for
+Buddhism, despite regarding it as "more life-negating and in this regard even worse than Christianity" (quoted in Gray
+2018, p. 122). Gray sagely remarks that Empson saw "The irreducible plurality of meaning and value in language in art...
+In the contradictory expressions of the Buddha. He was too close to Christianity to see it there to" (2018, p. 123). And
+the rest of that paragraph significantly softens earlier criticisms he has made of Christianity.
 
 
 ### Feline Philosophy
@@ -514,15 +522,19 @@ finds that, as a whole, that of cats is better.
 
 For one thing, cats have no concept of morality; humans believe they do, but they are mistaken.
 Gray claims that when people talk of morality, "what they are doing is expressing their emotions" (2020, p. 46). This
-metaethical theory is known as emotivism, and was popularized by A.J. Ayer (1946).
+metaethical theory is known as emotivism, and was popularized by A.J. Ayer (1946). It is a departure from Gray's earlier
+"moral realism but pluralism."
 
-But emotivism is mistaken, regardless of whether there are objective moral facts or not. Consider someone who says
-"Adultery is wrong": they are *not* just expressing a negative emotion they feel towards adultery. For instance, it is
-quite possible for someone to say, "I know adultery is wrong, but boy do I love it!" No, when someone utters a sentence
-like that, they are claiming that there is *a fact of the matter* about adultery being wrong. Now, they might be
-mistaken in their claim, just as I might claim, "There is a man hiding behind that tree" when there is no such man
-there. But my sentence was not a description of some emotion I was experiencing; it was a fact claim, one that happened
-to be incorrect. (See Brandt 1959 and Geach 1960 for further arguments against emotivism.)
+If there is one outstanding feature of Gray's work that sets it apart, it is his continual willingness to rethink and
+change earlier positions he had taken. Well, this is certainly a laudable tree, that does not mean that every change has
+been for the better. And this is a case where it has not, because emotivism is mistaken, regardless of whether there are
+objective moral facts or not. Consider someone who says "Adultery is wrong": they are *not* just expressing a negative
+emotion they feel towards adultery. For instance, it is quite possible for someone to say, "I know adultery is wrong,
+but boy do I love it!" No, when someone utters a sentence like that, they are claiming that there is *a fact of the
+matter* about adultery being wrong. Now, they might be mistaken in their claim, just as I might claim, "There is a man
+hiding behind that tree" when there is no such man there. But my sentence was not a description of some emotion I was
+experiencing; it was a fact claim, but one that happened to be incorrect. (See Brandt 1959 and Geach 1960 for further
+arguments against emotivism.)
 
 Attempting to back his advocacy of emotivism,
 Gray notes while it was once thought to be moral to use imperial power to spread civilization, that is now considered
