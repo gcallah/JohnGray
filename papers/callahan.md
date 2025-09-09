@@ -465,10 +465,10 @@ omnium-gatherum of earlier writers' and cultures' thoughts on the topic from the
 ### Seven Types of Atheism
 
 In his book *Seven Types of Atheism*, Gray makes the important point that atheism is not a single doctrine, but
-encompasses a wide variety -- at least seven -- of world views.
+encompasses a wide variety (at the very least, seven) of world views.
 
 In his first chapter, Gray addresses is the "New Atheists." He is at his best here, and few believers could write as
-sscathing a takedown of this movement. As he puts it:
+scathing a takedown of this movement. As he puts it:
 
 "The new atheists have directed their campaign against a narrow segment of religion while failing to understand even
 that small part. Seeing religion as a system of beliefs, they have attacked it as if it was no more than an obsolete
@@ -514,6 +514,29 @@ Buddhism, despite regarding it as "more life-negating and in this regard even wo
 In the contradictory expressions of the Buddha. He was too close to Christianity to see it there to" (2018, p. 123). And
 the rest of that paragraph significantly softens earlier criticisms he has made of Christianity.
 
+In the final two chapters Gray addresses thinkers who might be grouped together as "mystical atheists," including George
+Santaya, Joseph Conrad, Arthur Schopenhauer, Benedict Spinoza, and Lev Shestov. (The last of these again illustrates
+Gray's talent for finding lesser-known examples that add depth to a theme.) While these chapters are facinating
+and thought-provoking, I have a few quibbles with them.
+
+At one point, he claims that, in Portugal, the "Jews had been forced to convert to Christianity by the Inquisition"
+(2018, p. 148). But, in fact, it was the Portugese king who ordered Jews to convert or leave the country; the
+Inquisition only concerned itself with Catholic suspected of heresy, and not with non-Catholics. [REF????]
+
+A little later, Gray writes that "the most basic presupposition of monotheism [is] the dualism of mind and matter"
+(2018, p. 149). That is inaccurate: a better statement of the basic presupposition of Abrahamic monotheism is
+that it assumes a clear distinction between a Creator and His creation. But if one considers someone like Bishop
+Berkeley (1999), an orthodox Christian clergyman, who was also a monistic idealist, it should be clear that the mind/matter
+dualism is not essential here.
+
+Gray concludes with a passage that should be read by every participant in an online "atheism versus religion" debate...
+but of course won't be:
+
+"If you want to understand atheism and religion, you must forget the popular notion that they are opposites. If you can
+see what a millenarian theocracy in early 16th century monster has in common with both Bolshevik Russia and Nazi Germany,
+you will have a clearer view of the modern scene. If you can see how theologies that affirm the ineffability of God and
+some types of atheism or not so far apart, you will learn something about the limits of human understanding" (2018, p.
+158).
 
 ### Feline Philosophy
 
@@ -626,6 +649,9 @@ spent so much time and effort gifting us with such an extensive, insightful, and
 ## Bibliography
 
 Ayer, A. J. 1946. *Language, Truth, and Logic*. New York: Dover Publications.
+
+Berkeley, George, and Howard Robinson. 1999. *Principles of Human Knowledge ; and, Three Dialogues*.
+Oxford: Oxford University Press.
 
 Brandt, Richard B. 1959. *Ethical Theory: The Problems of Normative and Critical Ethics*. Englewood Cliffs, NJ:
 Prentice-Hall.
