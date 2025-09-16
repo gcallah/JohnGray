@@ -337,10 +337,11 @@ the mere fact that Gray addresses these concerns to his fellow humans demonstrat
 really are different than all other species. No wolf philosopher has ever risen who addressed his fellow wolves and
 asked them to be kinder to deer. No fire ant philosopher has appeared who has asked fire ants to please reconsider their
 invasive species routine in continents upon which they do not belong.
-
 Human beings are a sort of creature who can respond to a moral argument by changing their behavior. And there is no
 other species on earth or which that is true.
 
+Gray here cites Buddhism as a religion that avoids this Christian error. But as in other places, I think Gray misses
+the deep affinities between Buddhism and Christianity. (See, for instance, Merton 1968.)
 
 ## Staring into the Void
 
@@ -742,6 +743,8 @@ Jaspers, Karl. 2014. *The Origin and Goal of History*. Hoboken: Taylor and Franc
 
 Lewis, C.S. 1974. *The Abolition of Man*. New York: Harper Collins.
 
+Merton, Thomas. 1968. *Zen and the Birds of Appetite*. New York: New Directions Publishing Corporation.
+
 Norbu, Dzartul Ngawang Tenzin, Christopher Stagg (Translator), Dzogchen Ponlop. 2020.
 *A Guide to the Thirty-Seven Practices of a Bodhisattva*. Boulder: Snow Lion
 
@@ -751,17 +754,5 @@ Oakeshott, Michael. 1975. *On Human Conduct*. Oxford: Clarendon Press.
 
 Voegelin, Eric. 2000. *Order and History Volume IV: The Ecumenic Age*. Columbia, Missouri: University of Missouri Press.
 
-## Notes
 
-
-*******
-
-Rather than straightforward histories, or philosophical or political arguments, or personal reminiscences, Gray 
-has adopted an approach to his more recent non-fiction work similar to the one that
-Milan Kundera took to his novels. These books are meditations on a
-topic, approaching it through a variety of vantage points: some anecdotes, some historical episodes briefly narrated, a
-few interesting (and sometimes horrifying) statistics, a witty or trenchant aperçu here, a brief argument there. It
-worked for Kundera's novels, and it also works when essayed by Gray.
-
-*******
 
