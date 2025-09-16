@@ -311,6 +311,37 @@ by being lashed to the first one, since tying them together weakens the appeal o
 the first.
 
 
+### Heresies
+
+*Heresies* is a collection of essays that Gray first published in *New Statesman*.
+
+
+In an interesting essay on the first two *Matrix* films, Gray notes how they illustrate the power of technology "blank
+out the environment in which we live" (2004, p. 51). The example is cites is amusing in retrospect: "Plugged into our
+Walkman, we can forget the squalor by which we are actually surrounded" (2004, p. 51). Even someone as far-seeing as
+Gray probably could not have imagined how plugged into our smart phones we would be two decades later.
+
+He concludes that "In a curious, oblique way, these are political films, but the questions they suggest are not hackneyed
+ones about capitalist, exploitation or media tyranny. They are about the affluent majority colluding with the media in
+sustaining an unreal view of the world" (2004, p. 55).
+
+In another essay, Gray, displaying his knack for finding fascinating but obscure examples upon which to meditate, takes
+up Franz Kafka's short story "A Report to the Academy," in which an ape called Red Peter addresses a learned society.
+Annette, he remarks "Secular thinkers find it extremely difficult to come up with reasons for thinking that the human
+species has some kind of unique standing in the world" (2004, p. 76). He claims that "humans have had a huge, and almost
+entirely harmful, impact on other animal species" (2004, p. 77). And clearly he intends that we should change our
+misguided notion that we are unique among animal species, and should reduce the harm we are causing other species.
+
+While the latter sentiment is clearly laudable,
+the mere fact that Gray addresses these concerns to his fellow humans demonstrates that he, too, recognizes that humans
+really are different than all other species. No wolf philosopher has ever risen who addressed his fellow wolves and
+asked them to be kinder to deer. No fire ant philosopher has appeared who has asked fire ants to please reconsider their
+invasive species routine in continents upon which they do not belong.
+
+Human beings are a sort of creature who can respond to a moral argument by changing their behavior. And there is no
+other species on earth or which that is true.
+
+
 ## Staring into the Void
 
 
@@ -684,6 +715,8 @@ __________. 1996. *Post-Liberalism: Studies in Political Thought*. New York and 
 __________. 1997. *Endgames: Questions in Late Modern Political Thought*. Cambridge: Polity Press.
 
 __________. 2000. *Two Faces of Liberalism*. New York: New Press.
+
+__________. 2004. *Heresies*. London: Granta Books.
 
 __________. 2007. *Straw Dogs: Thoughts on Humans and Other Animals*. New York: Farrar, Straus and Giroux.
 
