@@ -92,7 +92,8 @@ book *False Dawn*.
 
 #### Buchanan
 
-An important lesson Gray takes from Buchanan is that, contra Hayek, spontaneous social orders will not reliably be
+In "Buchanan on liberty," Gray argues that Buchanan, contra Hayek, recognizes that
+spontaneous social orders will not reliably be
 beneficial, without the aid of deliberately constructed institutions designed to make them so. For instance, Gray argues
 that after the collapse of communist states in eastern Europe, "we cannot intrust ourselves to the providential designs
 of Burkean or Hayekian institutional evolution. Rather, armed with the best theory we can find, we must wager on a new
@@ -124,10 +125,10 @@ or *logos*" that such conflicts are not "rationally arbitratable." After all, Pl
 many others, acknowlegded that there are people who resist the pull of the *logos* and therefore are immune to rational
 argumentation as to what is truly good.  Whether Berlin manages to avoid this question begging
 in his work is beyond the scope of this introduction, but at least we can say that Gray does not offer us any reason to
-think that he has.
+think that he has in this essay.
 
 In any case, it is clear that Gray *does* accept this conclusion of Berlin's, and, we suggest, that is extremely
-important in understanding his subsequent work. he goes on to say:
+important in understanding his subsequent work. He goes on to say:
 
 "Berlin at the same time, cuts the ground from under those doctrinal or fundamentalist liberalisms — the liberalism of
 Nozick or Hayek no less than of Rawls or Ackerman — which suppose that the incommensurabilities of moral and political
