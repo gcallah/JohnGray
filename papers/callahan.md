@@ -397,9 +397,14 @@ contain the concept of music.  That hardly shows that music does not exist.
 
 He next claims that "Christianity's cardinal error" is that "humans are different from all other animals" (2007, p. 4).
 
-And yet, as we have seen, this same "error" is present in many traditions. In fact, as Chesterton pointed out, a good
-empirically grounded alien, arriving on earth, would immediately recognize that humans are different from all other
-animals. [cite].
+And yet, as we have seen, this same "error" is present in many traditions. In fact, as G.K. Chesterton 
+noted, "the more we really look at man as an animal, the less he will look like one" (1925, p. 7). He recounts the
+incident of a boy finding paleolithic cave paintings of animals, and says that unless the boy was "one of the professors
+who simplified the relation of men and beasts to mere evolutionary variation..." he would realize that "he had dug very
+deep and found the place where a man had drawn the picture of a reindeer. But he would dig a good deal deeper before he
+found a place where a reindeer had drawn a picture of a man" (1925, p. 15). In other words, the vast gulf separating
+humans from all other animal species is empirically, quite obvious, and only can be ignored through a process of
+extensive education.
 
 Recognizing this empirical fact does not immediately yield any metaphysical implications. Recognizing that volcanoes are
 different from all other mountains would not mean that we have to grant them some superior ontological status. But
@@ -685,6 +690,14 @@ of your colleagues have as well. That, combined with the vast amount of work he 
 about the nihilism that he seemingly adopts in some of his output. After all, if "it" is all meaningless, why has Gray
 spent so much time and effort gifting us with such an extensive, insightful, and provocative body of work?
 
+In addition, I have left my (woefully incomplete) survey of his work with three other major questions:
+
+1. Does value pluralism really contradict the idea of a *summum bonum*?
+2. What caused Gray to abandon his objective value pluralism for a form of ethical emotivism?
+3. What led Gray from recognizing humans as unique among animals species to denying that uniqueness?
+
+I offered them here as potential avenues for further research.
+
 
 ## Bibliography
 
@@ -703,6 +716,8 @@ ______________. 2015. Who Pulls John Gray's Strings? *The American Conservative*
 https://www.theamericanconservative.com/who-pulls-john-grays-strings/.
 
 ______________. 2024. After Liberalism... Faith? *The University Bookman*. https://kirkcenter.org/reviews/after-liberalismfaith/.
+
+Chesterton, G. K. 1925. *The Everlasting Man*. New York: Dodd, Mead & Company.
 
 Damascene, Hieromonk. 2002. *Christ the Eternal Tao*. Platina, California: Valaam Books.
 
