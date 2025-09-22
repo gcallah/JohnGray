@@ -49,7 +49,6 @@ Gray argues that, contra Rawls, "the appropriate conception of the person for ou
 that which Hobbes presented at a time of profound religious conflict" (1988, p. 181) We will see that Gray returns to
 this theme in his most recent book.
 
-
 ### Post-Liberalism
 
 Having decided that there is no philosophical basis for preferring liberalism to all other forms of governance, Gray
@@ -61,18 +60,13 @@ In the essay "Hayek as a conservative" Gray notes that "Hayek's position is dist
 that "Hayek's attempt to synthesize the deepest insights of conservatism with the best elements of classical liberalism
 merits our closest scrutiny" (1996, p. 33).
 
-"The dominant superstition of the Age of Reason is the belief that vital social institutions – law, language, and
-morality, as well as the market – must be or can become products of conscious contrivance and control, if they are
-effectively to serve human purposes" (1996, p. 36)
+That is because "The dominant superstition of the Age of Reason is the belief that vital social institutions – law,
+language, and morality, as well as the market – must be or can become products of conscious contrivance and control, if
+they are effectively to serve human purposes" (1996, p. 36) Hayek's "chief importance... is that he has freed classical
+liberalism from the burden of [this] hubristic rationalism" (1996, p. 37)
 
-Hayek's "chief importance... is that he has freed classical liberalism from the burden of an hubristic rationalism"
-(1996, p. 37)
-
-"trying to salvage damaged traditions by willful effort is like trying with one's bare hands to repair a broken spider's
-web" (1996, p. 38)
-
-"At times [Hayek] seems to subscribe to a doctrine of historical progress which... cannot be endorsed by any twentieth
-century conservative" (1996, p. 38)
+However, Gray warns that "At times [Hayek] seems to subscribe to a doctrine of historical progress which... cannot be
+endorsed by any twentieth century conservative" (1996, p. 38)
 
 Gray concludes that, "since much of contemporary culture is possessed by a death-wish brought on by pathological
 developments in some of our oldest traditions, a modern conservative must also be a moral and intellectual radical"
@@ -80,13 +74,15 @@ developments in some of our oldest traditions, a modern conservative must also b
 
 #### Oakeshott
 
+In the next chapter, "Oakeshott as a liberal," Gray writes:
+
 "[Oakeshott's] first lesson is that the hubristic project of doctrinal or fundamental liberalism – the project attempted by all
 the liberal thinkers... of fixing the boundaries of government action by some principle or doctrine, be it
 *laissez-faire*, a specification of allegedly natural (but patently conventional) rights, or a list of basic liberties
 derived (as in Rawls and Dworkin) from a conception of justice rooted only in the fleeting local knowledge of the
 American academic *nomenklatura* — embodies a mistaken conception of philosophy itself" (1996, 41).
 
-Writing about Oakeshott's distinction between civil association and enterprise association, Gray remarks:
+Commenting on Oakeshott's distinction between civil association and enterprise association, Gray remarks:
 "the debacles of Thatcherism and Reaganism suggest that, for us, the enterprise-association state is an historical fate,
 which we may indeed strive to temper, but which we cannot hope to overcome" (1996, p. 44).
 One can gather from that passage that Gray was not pleased by the outcome of Thatcherism and Reaganism. Indeed, 
