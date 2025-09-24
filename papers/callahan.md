@@ -56,21 +56,21 @@ turns his attention to what follows from this conclusion in a series of essays c
 
 #### Hayek
 
-In the essay "Hayek as a conservative" Gray notes that "Hayek's position is distinctive, to be sure" (1996, p. 32), and
+In the essay "Hayek as a conservative" Gray notes that "Hayek's position is distinctive, to be sure" (1993, p. 32), and
 that "Hayek's attempt to synthesize the deepest insights of conservatism with the best elements of classical liberalism
-merits our closest scrutiny" (1996, p. 33).
+merits our closest scrutiny" (1993, p. 33).
 
 That is because "The dominant superstition of the Age of Reason is the belief that vital social institutions – law,
 language, and morality, as well as the market – must be or can become products of conscious contrivance and control, if
-they are effectively to serve human purposes" (1996, p. 36) Hayek's "chief importance... is that he has freed classical
-liberalism from the burden of [this] hubristic rationalism" (1996, p. 37)
+they are effectively to serve human purposes" (1993, p. 36) Hayek's "chief importance... is that he has freed classical
+liberalism from the burden of [this] hubristic rationalism" (1993, p. 37)
 
 However, Gray warns that "At times [Hayek] seems to subscribe to a doctrine of historical progress which... cannot be
-endorsed by any twentieth century conservative" (1996, p. 38)
+endorsed by any twentieth century conservative" (1993, p. 38)
 
 Gray concludes that, "since much of contemporary culture is possessed by a death-wish brought on by pathological
 developments in some of our oldest traditions, a modern conservative must also be a moral and intellectual radical"
-(1996, p. 39)
+(1993, p. 39)
 
 #### Oakeshott
 
@@ -80,11 +80,11 @@ In the next chapter, "Oakeshott as a liberal," Gray writes:
 the liberal thinkers... of fixing the boundaries of government action by some principle or doctrine, be it
 *laissez-faire*, a specification of allegedly natural (but patently conventional) rights, or a list of basic liberties
 derived (as in Rawls and Dworkin) from a conception of justice rooted only in the fleeting local knowledge of the
-American academic *nomenklatura* — embodies a mistaken conception of philosophy itself" (1996, 41).
+American academic *nomenklatura* — embodies a mistaken conception of philosophy itself" (1993, 41).
 
 Commenting on Oakeshott's distinction between civil association and enterprise association, Gray remarks:
 "the debacles of Thatcherism and Reaganism suggest that, for us, the enterprise-association state is an historical fate,
-which we may indeed strive to temper, but which we cannot hope to overcome" (1996, p. 44).
+which we may indeed strive to temper, but which we cannot hope to overcome" (1993, p. 44).
 One can gather from that passage that Gray was not pleased by the outcome of Thatcherism and Reaganism. Indeed, 
 during the 1990s, Gray was associated with New Labour -- the center-left movement
 that brought Tony Blair to power in Westminster -- and he became a prominent critic of global capitalism with his 1998
@@ -97,12 +97,12 @@ spontaneous social orders will not reliably be
 beneficial, without the aid of deliberately constructed institutions designed to make them so. For instance, Gray argues
 that after the collapse of communist states in eastern Europe, "we cannot intrust ourselves to the providential designs
 of Burkean or Hayekian institutional evolution. Rather, armed with the best theory we can find, we must wager on a new
-social contract" (1996, p. 53).
+social contract" (1993, p. 53).
 
 Gray closes his Buchanan essay on a more optimistic note than he will sound in much of his later work, writing, 
 "we must wager on liberty by seeking, amid all the vicissitudes and contingencies of practice, a new constitutional
 settlement on limited government, in which free men and women may live in voluntary association – in liberty under the
-rule of law" (1996, p. 63).
+rule of law" (1993, p. 63).
 
 
 #### Berlin
@@ -117,7 +117,7 @@ come into conflict with one another and are uncombinable in a single human being
 of such conflicts there is no overarching standard whereby the competing claims of such ultimate values are rationally
 arbitratable...  There is, then, no *summum bonum* or *logos*, no Aristotelian mean or Platonic form of the good, no
 perfect form of human life, which we may never achieve, but towards which we may struggle, no measuring rod on which
-different forms of human life encompassing different and uncombinable goods can be ranked." (1996, p. 65)
+different forms of human life encompassing different and uncombinable goods can be ranked." (1993, p. 65)
 
 This is a puzzling passage. At least as Gray presents Berlin, we have here a *petitio principii*: what is supposedly the
 conclusion of the argument is, in fact, one of its premises, because it is only if there is, indeed, no "*summum bonum*
@@ -133,7 +133,7 @@ important in understanding his subsequent work. He goes on to say:
 "Berlin at the same time, cuts the ground from under those doctrinal or fundamentalist liberalisms — the liberalism of
 Nozick or Hayek no less than of Rawls or Ackerman — which suppose that the incommensurabilities of moral and political
 life, and of liberty itself, can be smoothed away by the application of some theory, or tamed by some talismanic
-formula... if there is any liberalism, that is now defensible, it is Berlin's." (1996, p. 67)
+formula... if there is any liberalism, that is now defensible, it is Berlin's." (1993, p. 67)
 
 Among other things, the above passage is notable for illustrating Gray's decreasing enthusiasm for Hayek.
 
@@ -142,7 +142,17 @@ Among other things, the above passage is notable for illustrating Gray's decreas
 In "The politics of cultural diversity," an essay as relevant today as when it was written, Gray argues that the
 progressive enthusiasm for what is called call "multiculturalism" is "animated by moral hatred of the dominant traditions,
 and a voyeuristic fascination with submerged, overwhelmed, or oppositional cultures." Therefore, it seeks to "entrench
-minority traditions in protected institutions and confer on them arbitrary privileges" (1996, p. 266).
+minority traditions in protected institutions and confer on them arbitrary privileges" (1993, p. 266).
+
+### Enlightenment's Wake
+
+Gray says of *Enlightenment's Wake* "In this book, a train of thought developed in my earlier books, *Liberalisms:
+Essays in Political Philosophy*, *Post-liberalism: Studies and Political Thought*, and *Beyond the New Right: Markets,
+Government, and the Common Environment*, is brought to a conclusion" (2007: vii). He corrects the conclusion of
+*Post-liberalism*, arguing "the historicist argument for liberal institutions... neglects the variety of institutions
+within which a *modus vivendi* can be achieved in our time, and unduly privileges variations on Western models" (2007:
+viii).
+
 
 ### Endgames
 
@@ -731,13 +741,15 @@ Gray, John. 1982. *F.A. Hayek and the Rebirth of Classical Liberalism*. Menlo Pa
 
 __________. 1988. *Liberalisms: Essays in Political Philosophy*. London and New York: Routledge.
 
-__________. 1996. *Post-Liberalism: Studies in Political Thought*. New York and Oxon: Routledge.
+__________. 1993. *Post-Liberalism: Studies in Political Thought*. New York and Oxon: Routledge.
 
 __________. 1997. *Endgames: Questions in Late Modern Political Thought*. Cambridge: Polity Press.
 
 __________. 2000. *Two Faces of Liberalism*. New York: New Press.
 
 __________. 2004. *Heresies*. London: Granta Books.
+
+__________. 2007. *Enlightenment's Wake*. Abingdon, Oxon: Routledge Classics.
 
 __________. 2007. *Straw Dogs: Thoughts on Humans and Other Animals*. New York: Farrar, Straus and Giroux.
 
