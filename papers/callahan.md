@@ -153,6 +153,19 @@ Government, and the Common Environment*, is brought to a conclusion" (2007: vii)
 within which a *modus vivendi* can be achieved in our time, and unduly privileges variations on Western models" (2007:
 viii).
 
+While "commentators and politicians are invoking 'Enlightenment values' as an antidote for contemporary ills," Gray
+notes that "Enlightenment values have often been illiberal, racist, or totalitarian" (2007, p. xvi). In fact, while
+"Neo-conservatism... may be the last of the Enlightenment ideologies... it too is ready to use terror to realize its
+utopian goals" (2007, p. xvii).
+
+Gray's next two essays in the volume critique contemporary political philosophy. In the first, "Against the New
+Liberalism," he contends that "the tradition of liberal theorizing [that *A Theory of Justice*] inaugurated has done a little more
+than articulate the prejudices of an Anglo-American academic class that lacks any the understanding of political life
+in our age" (2007, p. 2).
+
+The next essay, the imaginative "Definition of the Political Thought of Tlön," Gray satirizes the contents of Goodin and
+Petit's *Companion to Contemporary Political Philosophy* by comparing it to Borges ficitonal *The First Encyclopedia of
+Tlön*."
 
 ### Endgames
 
