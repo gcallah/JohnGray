@@ -163,9 +163,14 @@ Liberalism," he contends that "the tradition of liberal theorizing [that *A Theo
 than articulate the prejudices of an Anglo-American academic class that lacks any the understanding of political life
 in our age" (2007, p. 2).
 
-The next essay, the imaginative "Definition of the Political Thought of Tlön," Gray satirizes the contents of Goodin and
+The next essay, the "Definition of the Political Thought of Tlön," Gray satirizes the contents of Goodin and
 Petit's *Companion to Contemporary Political Philosophy* by comparing it to Borges ficitonal *The First Encyclopedia of
-Tlön*."
+Tlön*." Just like the residents of Tlön believe that the only things real are what they perceive, so, Gray contends, for
+most academic political philosophers, "only that has reality which is at any particular time perceptible in academic
+discourse" (2007, p. 21). Why else, Gray wonders, do the editors consider powerful factors in modern politics like
+theism and nationalism beyond the pale of discussion, while a topic like anarchism is included in their selections?
+
+
 
 ### Endgames
 
