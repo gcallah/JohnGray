@@ -554,9 +554,9 @@ contemporary brutality to call these studies into doubt. He connects the failure
 neo-conservative project of bringing peaceful "enlightenment" to non-Western societies by bombing and invading them,
 along the way wrecking whatever social order they had.
 
-There is a paradox at the heart of this book: if free will is an illusion, as Gray suggests, then what is the point of
-his recommending we adopt a stoical attitude towards this fact? If we have no free will, we are not able to freely
-choose the attitude we adopt about this claimed reality.
+Despite its many virtues, there is a paradox at the heart of this book: if free will is an illusion, as Gray suggests,
+then what is the point of his recommending we adopt a stoical attitude towards this fact? If we have no free will, then 
+we are not able to freely choose the attitude we adopt about that situation.
 
 ### Seven Types of Atheism
 
@@ -629,7 +629,7 @@ Gray concludes with a passage that should be read by every participant in an onl
 but of course won't be:
 
 "If you want to understand atheism and religion, you must forget the popular notion that they are opposites. If you can
-see what a millenarian theocracy in early 16th century monster has in common with both Bolshevik Russia and Nazi Germany,
+see what a millenarian theocracy in early sixteenth-century Münster has in common with both Bolshevik Russia and Nazi Germany,
 you will have a clearer view of the modern scene. If you can see how theologies that affirm the ineffability of God and
 some types of atheism or not so far apart, you will learn something about the limits of human understanding" (2018, p.
 158).
@@ -683,7 +683,8 @@ idea also expressed by Buddha and Christ.
 
 ### The New Leviathans
 
-Gray's most recent book is *The New Leviathans: Thoughts After Liberalism*.
+Gray's most recent book is *The New Leviathans: Thoughts After Liberalism*. As with many of his latter works, this one
+takes the form of an extended meditation on a topic, similar to Milan Kundera's ideal type of the novel (Kundera 1988).
 
 It is as though the reader has been invited to eavesdrop on Gray's inner dialogues as he mulls over a post-liberal world.
 
@@ -693,16 +694,15 @@ so bold and foolish enough to offer a "central message" of the book, it might be
 Hobbes to write *Leviathan* have again become salient in our time. The liberal world order that prevailed for some years
 after the fall of the Soviet Union is collapsing around us.
 
-Gray first addresses Hobbes by noting that: "Hobbes was a liberal – the only one, perhaps, still worth reading." In
-defense of the first half of this claim, he presents the four characteristics of liberalism provided in his own book,
-Liberalism, to wit, liberalism is:
+Gray argues that "Hobbes was a liberal -- the only one, perhaps, still worth reading." He defends the claim that Hobbes
+was a liberal by first citing the four defining characteristics he described in *Liberalism*, namely, that liberalism is:
 
 - individualist
 - egalitarian
 - universalist
 - meliorist
 
-And he goes on to argue that the above key liberal ideas are present in Hobbes in that, for him:
+Gray argues that these central liberal ideas are also central to Hobbes, since for him:
 
 - "Society is made up of individuals..."
 - "[each] equal in being exposed to death at each other's hands..."
@@ -721,14 +721,22 @@ Human beings "regularly give up peace and security in order to defend a form of 
 the state of nature."
 
 Gray's claim that Hobbes was a liberal may disconcert some who have interpreted him as a totalitarian. But here Gray
-makes a crucial, often overlooked, point about Hobbes, "Hobbes's was a state whose powers were unchecked, but its goals
+makes a crucial, often overlooked, point about Hobbes:
+
+"Hobbes's was a state whose powers were unchecked, but its goals
 were strictly limited. Beyond securing its subjects against one another and external enemies, it had no remit."
-In other words, Hobbes's sovereign existed to keep its citizens from
-going to war with each other, and had whatever power it needed to meet that task. But its area of authority did not
-include stopping them from smoking, or encouraging them to exercise, or urging them to approve of
-transgenderism, or prompting them to read more. (Unless, of course, one of those projects was
-necessary to maintain civil peace: For instance, if smokers and non-smokers were engaging in pitched battles in the streets,
-Hobbes's sovereign might need to take a stand on the issue of smoking.)
+
+In other words, Hobbes's justification for the sovereign was its ability to keep citizens from
+going to war with each other, and it had whatever power it needed to achieve that goal.  But its remit did not extend to
+stopping them from drinking too much, or prompting them to exercise, or urging them to approve of polyamory, or
+encouraging them to go to the opera.
+
+Gray understands that the whole liberal project is based upon a metaphysics that modern liberals either ignore or completely reject:
+
+"Liberalism was a creation of Western monotheism and liberal freedoms are part of the civilization that monotheism
+engendered. Twenty-first-century liberals reject this civilization, while continuing to assert the universal authority
+of a hollowed-out version of its values. In this hyper-liberal vision all societies are destined to undergo the
+deconstruction that is underway in the West."
 
 
 
@@ -816,6 +824,8 @@ https://www.hinduamerican.org/hinduism-basics.
 
 Jaspers, Karl. 2014. *The Origin and Goal of History*. Hoboken: Taylor and Francis.
 
+Kundera, Milan. 1988. *The Art of the Novel*. Translated by Linda Asher. New York: Grove Press.
+
 Lewis, C.S. 1974. *The Abolition of Man*. New York: Harper Collins.
 
 Merton, Thomas. 1968. *Zen and the Birds of Appetite*. New York: New Directions Publishing Corporation.
@@ -828,6 +838,4 @@ Oakeshott, Michael. 1933. *Experience and Its Modes*.  Cambridge: Cambridge Univ
 Oakeshott, Michael. 1975. *On Human Conduct*. Oxford: Clarendon Press.
 
 Voegelin, Eric. 2000. *Order and History Volume IV: The Ecumenic Age*. Columbia, Missouri: University of Missouri Press.
-
-
 
