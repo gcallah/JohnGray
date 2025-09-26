@@ -686,13 +686,10 @@ idea also expressed by Buddha and Christ.
 Gray's most recent book is *The New Leviathans: Thoughts After Liberalism*. As with many of his latter works, this one
 takes the form of an extended meditation on a topic, similar to Milan Kundera's ideal type of the novel (Kundera 1988).
 
-It is as though the reader has been invited to eavesdrop on Gray's inner dialogues as he mulls over a post-liberal world.
-
-In a book the title of which contains the word "Leviathan," we naturally would expect Thomas Hobbes to play an important
-role, and indeed he does. Throughout his meditations, Gray brings up Hobbes again and again. In fact, if one were to be
-so bold and foolish enough to offer a "central message" of the book, it might be that the circumstances that prompted
-Hobbes to write *Leviathan* have again become salient in our time. The liberal world order that prevailed for some years
-after the fall of the Soviet Union is collapsing around us.
+Throughout his meditations, Gray brings up Hobbes repeatedly. In fact, 
+the central theme of the book is that the circumstances that led
+Hobbes to write *Leviathan* have again become salient in our time, as the liberal world order that prevailed for some years
+after the fall of the Soviet Union is disappearing.
 
 Gray argues that "Hobbes was a liberal -- the only one, perhaps, still worth reading." He defends the claim that Hobbes
 was a liberal by first citing the four defining characteristics he described in *Liberalism*, namely, that liberalism is:
