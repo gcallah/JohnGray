@@ -496,42 +496,67 @@ the new astronomy as part of a coming trend in society" (2007, p. 21).
 ### The Immortalization Commission
 
 
-In his book *The Immortalization Commission: Science and the Strange Quest to Cheat Death*, Gray 
-
-
-Gray moves on from expatiating upon the "message" of Darwinism to describe the two historical episodes that are the
-core, as well as the far more interesting portion, of this work. He tells these stories with great panache, making for
-lively reading. He first takes up the case of the British parapsychologists active in the late nineteenth and early
+The most interesting part of Gray's *The Immortalization Commission: Science and the Strange Quest to Cheat Death*,
+describes two historical episodes, which he relates with his usual panache.
+The first tale is about the British parapsychologists active in the late nineteenth and early
 twentieth centuries. This group included many prominent figures, such as the great ethical theorist Henry Sidgwick, the
 classical scholar Frederic Meyers, the Irish poet W.B. Yeats, and British foreign secretary and prime minister Arthur
-Balfour. They looked to science to replace religion as the guarantor of man's immortality by seeking empirical evidence
-of life after death, most often by trying to receive messages from the departed that convincingly could demonstrate
-their continued existence. The most fascinating example of this effort involved automatic writing, a practice in which a
-person would write down what were supposed to be messages from beyond the grave, purportedly without conscious awareness
-of what they were writing. Over a number of years this practice yield "many thousands" of pages of automatic writing,
-which were thought to display "cross-correspondences," so that something written down by one medium formed a complete
-message only when put together with the messages transcribed by several others. In the end, the experiment was
-inclusive, since the interpretation of the supposed messages was not a determinate matter; to some people they were
-clear evidence of an afterlife, while for others, including, seemingly, Gray, they are much more indicative of the
-shared subconscious mental life of the writers. Members of the group also involved themselves in attempts to create a
-new messiah, a spirit child who would lead mankind to new spiritual heights.
+Balfour.
 
-The next chapter of *The Immortalization Commission* deals with the important role occultism played in the Soviet Union
-before World War II. This is the section from which the book's title is drawn: the Soviet Union actually established a
-commission with that name, as well as a Soviet Committee for Psychical Research. The embalming of Lenin's dead body was
-performed largely with this goal of achieving immortality through science in mind. The government went so far, in its
-efforts to establish an immortality cult centered on Lenin, as to distribute cubes, with the aim of every subject of the
-regime having their own little version of Lenin's cubical shrine in their homes.
+They looked to science to replace religion as the guarantor of man's immortality by seeking empirical evidence
+of life after death.
+Often they attempted to receive messages from the dead that could demonstrate
+their continued existence. An intiguing example of this effort involved automatic writing, whereby a
+person would write down what were supposed to be messages from the afterlife, without conscious awareness
+of what they were writing. Over a number of years this practice yield "many thousands" (2011, Kindle Location 173) 
+of pages of automatic writing,
+which were thought to display "cross-correspondences," so that something written down by one medium only formed a complete
+message when assembled with the transcriptions of others. The experiment was
+inclusive, as the interpretation of the "messages" was not a determinate matter; to some people they were
+clear evidence of an afterlife, while Gray, "The connections were encrypted in a way of life, which has
+since disappeared" (2011, Location 1013).
 
+The next story related in *The Immortalization Commission* describes the important role occultism played in the Soviet Union
+before World War II. It is from this section that the book's title is drawn: the Soviet Union actually had such a
+commission, as well as a Soviet Committee for Psychical Research. The embalming of Lenin's dead body was
+performed largely with this goal of achieving immortality through science in mind.
 
+In an important passage on religion, Gray writes:
+
+"The heart of all religions is practice – ritual and meditation. Practice comes with myths, but myths are not theories
+in need of rational development. The story of Icarus has not been rendered redundant by progress in psychology. The
+Genesis story is not obsolete because there have been advances in palaeontology. Myths like these will endure for as
+long as humans remain human. Myths are narratives that deal with unchanging features of human experience...
+
+"Ever since the rise of
+Positivism a legend has been repeated in which myth-making belongs in the infancy of the species. The Golden Bough
+(1890), a collection assembled by the anthropologist J. G. Frazer, propagated this Positivist legend: mythic thinking is
+typical of children and primitives; adulthood lies with science. In fact, as Wittgenstein remarked, 'Frazer is much more
+savage than most of these savages.' Modern myths are further from reality than any that can be found among traditional
+peoples..." (2011, Location 2477).
+
+So, we see that, while Gray may not be religious himself, he has no sympathy for rationalists' strawman version of
+religion, a theme he will return to in *Seven Types of Atheism*.
 
 ### The Soul of the Marionette
 
 
-A spirit of "nihilistic stoicism" suffuses his 2015 book, *The Soul of the
-Marionette*. In these pages he undertakes a sort of jazz improvisation on the theme of human freedom, surveying an
-omnium-gatherum of earlier writers' and cultures' thoughts on the topic from the point of view of a "freedom-skeptic." 
+Gray's 2015 book, *The Soul of the Marionette*, continues the development of his stoicism in the face of a meaningless
+universe. A meditation on the theme of human freedom, the work examines the perspectives of a number of thinkers on the
+topic, a melange that includes the crystallographer J.D. Bernal, the poets Giacomo Leopardi and Edgar Allan Poe, the
+science-fiction writers Stanislav Lem and Philip K. Dick, 
 
+Gray goes on to describe Aztec ritual killing. He sees this as evidence of the ineradicability of human
+violence. Playing whack-a-mole, we surpress if in one place only to see it pop back up in another. He is skeptical of
+studies that purport to demonstrate a secular decline in violence, citing violence-caused famines and epidemics, deaths in
+labor camps, the gigantic U.S. prison population, the revival of torture in the most "civilized" societies, and other
+contemporary brutality to call these studies into doubt. He connects the failure to accept this reality to the failed
+neo-conservative project of bringing peaceful "enlightenment" to non-Western societies by bombing and invading them,
+along the way wrecking whatever social order they had.
+
+There is a paradox at the heart of this book: if free will is an illusion, as Gray suggests, then what is the point of
+his recommending we adopt a stoical attitude towards this fact? If we have no free will, we are not able to freely
+choose the attitude we adopt about this claimed reality.
 
 ### Seven Types of Atheism
 
