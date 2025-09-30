@@ -8,23 +8,25 @@ Gene Callahan
 
 It is a great privilege to have the opportunity to comment upon the work of John Gray. His output has been so extensive
 and his thought has seen so much development that one could easily write a book tracing his intellectual odyssey, and so
-a mere paper on the topic must, of necessity, be no more than a sketch. (I have previously reviewed three of Gray's
-books, and some of the material below is drawn from those reviews, which one can find cited in the bibliography.)
+a mere paper on the topic must, of necessity, be no more than an incompelete sketch.*
 
-Gray began his intellectual life on the left but moved towards libertarianism in the late 1970s, influenced by his study
-of the work of Nobel Prize-winning free-market economist F.A. Hayek (Gray 1982).
-
-Gray's libertarianism was tempered, however, by studying the work of Isaiah Berlin and Michael Oakeshott.
-Over time, he was led to increasing skepticism towards the entire Enlightenment project. (Graeme Garrard's paper in this
-issue criticizes some of Gray's understanding of the Enlightenment.
+Gray began his intellectual life on the left (Colls 2003, p. 59), 
+but moved towards libertarianism in the late 1970s, influenced by his study
+of the work of Nobel Prize-winning free-market economist F.A. Hayek (Gray 1982).  Gray's libertarianism was tempered,
+however, by studying the work of Isaiah Berlin and Michael Oakeshott.  Over time, he was led to increasing skepticism
+towards the entire Enlightenment project. (Graeme Garrard's paper in this issue criticizes some of Gray's understanding
+of the Enlightenment.)
 
 In the last decade or so, Gray has increasingly written works that interleave recounting of historical episodes with
-philosophical reflections on their meaning. [Kundera?] He also has developed his metaphysical views in a direction that
+philosophical reflections on their meaning. He also has developed his metaphysical views in a direction that
 I would refer to as "mystical atheism." (Many writers use "mystical" as a pejorative: be assured I am not doing so
 here.)
 
 So let us take a too brief journey through Gray's ouvre, beginning with his gradually distancing himself from Hayekian
 liberalism.
+
+* I have previously reviewed three of Gray's books, and some of the material below is drawn from those reviews, which
+* one can find cited in the bibliography.
 
 ## Leaving Liberalism
 
@@ -47,7 +49,7 @@ calculation argument forwarded by Mises and Hayek, far surpassing that of today'
 
 Gray argues that, contra Rawls, "the appropriate conception of the person for our historical circumstance is closer to
 that which Hobbes presented at a time of profound religious conflict" (1988, p. 181) We will see that Gray returns to
-this theme in his most recent book.
+address Hobbes several times, including his most recent book.
 
 ### Post-Liberalism
 
@@ -87,8 +89,8 @@ Commenting on Oakeshott's distinction between civil association and enterprise a
 which we may indeed strive to temper, but which we cannot hope to overcome" (1993, p. 44).
 One can gather from that passage that Gray was not pleased by the outcome of Thatcherism and Reaganism. Indeed, 
 during the 1990s, Gray was associated with New Labour -- the center-left movement
-that brought Tony Blair to power in Westminster -- and he became a prominent critic of global capitalism with his 1998
-book *False Dawn*.
+that brought Tony Blair to power in Westminster -- and he became a prominent critic of global capitalism with his 
+book *False Dawn* (1998).
 
 #### Buchanan
 
@@ -107,7 +109,7 @@ rule of law" (1993, p. 63).
 
 #### Berlin
 
-In Gray's essay on Isaiah Berlin we can detect the genesis of another phase of Gray's thought: here we see him embrace
+In Gray's essay on Isaiah Berlin we see the roots of another phase of Gray's thought, as he embraces
 Berlin's value pluralism:
 
 "Berlin's work, both in intellectual history and political theory, is one which, if true, as I take it to be, strikes a
@@ -128,14 +130,13 @@ in his work is beyond the scope of this introduction, but at least we can say th
 think that he has in this essay.
 
 In any case, it is clear that Gray *does* accept this conclusion of Berlin's, and, we suggest, that is extremely
-important in understanding his subsequent work. He goes on to say:
+important in understanding his subsequent work. He goes on to say, in a passage notable for illustrating Gray's
+decreasing enthusiasm for Hayek::
 
 "Berlin at the same time, cuts the ground from under those doctrinal or fundamentalist liberalisms — the liberalism of
 Nozick or Hayek no less than of Rawls or Ackerman — which suppose that the incommensurabilities of moral and political
 life, and of liberty itself, can be smoothed away by the application of some theory, or tamed by some talismanic
-formula... if there is any liberalism, that is now defensible, it is Berlin's." (1993, p. 67)
-
-Among other things, the above passage is notable for illustrating Gray's decreasing enthusiasm for Hayek.
+formula... if there is any liberalism that is now defensible, it is Berlin's." (1993, p. 67)
 
 #### Cultural Diversity
 
@@ -146,26 +147,26 @@ minority traditions in protected institutions and confer on them arbitrary privi
 
 ### Enlightenment's Wake
 
-Gray says of *Enlightenment's Wake* "In this book, a train of thought developed in my earlier books, *Liberalisms:
-Essays in Political Philosophy*, *Post-liberalism: Studies and Political Thought*, and *Beyond the New Right: Markets,
-Government, and the Common Environment*, is brought to a conclusion" (2007: vii). He corrects the conclusion of
-*Post-liberalism*, arguing "the historicist argument for liberal institutions... neglects the variety of institutions
-within which a *modus vivendi* can be achieved in our time, and unduly privileges variations on Western models" (2007:
-viii).
+In the Preface of *Enlightenment's Wake*, Gray writes: "In this book, a train of thought developed in my earlier books,
+*Liberalisms: Essays in Political Philosophy*, *Post-liberalism: Studies and Political Thought*, and *Beyond the New
+Right: Markets, Government, and the Common Environment*, is brought to a conclusion" (2007: vii). He corrects the
+conclusion of *Post-liberalism*, arguing "the historicist argument for liberal institutions... neglects the variety of
+institutions within which a *modus vivendi* can be achieved in our time, and unduly privileges variations on Western
+models" (2007: viii).
 
 While "commentators and politicians are invoking 'Enlightenment values' as an antidote for contemporary ills," Gray
 notes that "Enlightenment values have often been illiberal, racist, or totalitarian" (2007, p. xvi). In fact, while
 "Neo-conservatism... may be the last of the Enlightenment ideologies... it too is ready to use terror to realize its
 utopian goals" (2007, p. xvii).
 
-Gray's next two essays in the volume critique contemporary political philosophy. In the first, "Against the New
+The first two essays in the volume critique contemporary political philosophy. In the first, "Against the New
 Liberalism," he contends that "the tradition of liberal theorizing [that *A Theory of Justice*] inaugurated has done a little more
 than articulate the prejudices of an Anglo-American academic class that lacks any the understanding of political life
 in our age" (2007, p. 2).
 
-The next essay, the "Definition of the Political Thought of Tlön," Gray satirizes the contents of Goodin and
+The second essay, the "Definition of the Political Thought of Tlön," Gray satirizes the contents of Goodin and
 Petit's *Companion to Contemporary Political Philosophy* by comparing it to Borges ficitonal *The First Encyclopedia of
-Tlön*." Just like the residents of Tlön believe that the only things real are what they perceive, so, Gray contends, for
+Tlön*." Just as the residents of Tlön believe that the only things real are what they perceive, so, Gray contends, for
 most academic political philosophers, "only that has reality which is at any particular time perceptible in academic
 discourse" (2007, p. 21). Why else, Gray wonders, do the editors consider powerful factors in modern politics like
 theism and nationalism beyond the pale of discussion, while a topic like anarchism is included in their selections?
@@ -183,8 +184,8 @@ p.  xi).
 
 The essay "The Strange Death of Tory England" deals with the British Conservative party undermining its own base by
 embracing neoliberalism. While much of the essay deals with particulars of British politics, it does further illustrate
-Gray's move away from Thatcherism, as well as presenting an example of the truth that unfettered markets are not
-friendly towards social cohesion.
+Gray's move away from Thatcherism, as well as the fact that unfettered markets are not
+friends of social cohesion.
 
 The next essay, "After Social Democracy," argues that, whether one approves or disapprove of Thatcherism, its
 "consequences for political life in Britain" are "irreversible" (1997, p. 11). Gray sees no possibility of Britain
@@ -211,7 +212,7 @@ need for security with the permanent revolution of the market" (1997, p. 19).
 
 Gray comments that "It is a comment on the parochialism of British political life that social democrats have accepted the
 Thatcherite claim that opposition to European federalism is the prerogative of the Right" (1997, pp. 34-35).  This was a
-prescient remark, given how a decade later, Brexit was cast as a right-wing initiative.
+prescient remark, given how a decade later, Brexit was cast as a purely right-wing initiative.
 
 In his essay "Rawl's Anti-Political Liberalism," Gray knocks Rawls off of his pedestal in a few pithy sentences. He
 succinctly describes the difference between Hobbes and Rawls:
@@ -219,7 +220,7 @@ succinctly describes the difference between Hobbes and Rawls:
 "For Hobbes, the goal of political philosophy is not to come up with an apology for any particular political regime. It is
 instead to understand the universal and permanent human needs that political institutions of all sorts exist to meet...
 The contrast with Rawls's political liberalism could hardly be starker... Rawls takes as his point of departure... the
-institutions common among American East Coast liberal academics" (1997, p. 53).
+intuitions common among American East Coast liberal academics" (1997, p. 53).
 
 In the end, Gray notes, "The most striking feature of Rawls's political liberalism is its utter political emptiness"
 (1997, p. 54).
@@ -239,9 +240,9 @@ not the case that he again, forty-two years later, rejects the idea that theory 
 
 #### Beginnings
 
-The most glaring weakness in Gray's thought is his repeated mistaking of the theory of evolution, a biological model of
-how lifeforms change over time, as something with vast implications for metaphysics, ethics, epistemology, and philosophical
-anthropology. An example occurs in "Beginnings," the last essay in *Endgames*:
+Perhaps the most significant weakness in Gray's thought is his repeated mistaking of the theory of evolution, a
+biological model of how lifeforms change over time, as something with vast implications for metaphysics, ethics,
+epistemology, and philosophical anthropology. An example occurs in "Beginnings," the last essay in *Endgames*:
 
 "It is difficult to reconcile [science as truth seeking] with the results of scientific inquiry, such as Darwinism. In a
 consistently Darwinian perspective, science will seek truth only in so far as truth serves human interests" (1997, p. 168).
@@ -254,35 +255,27 @@ one likely to be eventually superceded by an even better theory, but that is bec
 generally truth seeking.)
 
 
-### False Dawn
-
-
 ### Two Faces of Liberalism
 
-Gray opens this work by noting that "The liberal state or originated in a search for *modus vivendi*" (2000, p. 1),
-meaning a way people with divergent views can somehow co-exist.
-And he declares that "Liberal toleration has contributed immeasurably to human well-being" (2000, p. 1).
+Gray opens *Two Faces of Liberalism* by noting that "The liberal state or originated in a search for *modus vivendi*"
+(2000, p. 1).  And he acknowledges that "Liberal toleration has contributed immeasurably to human well-being" (2000, p. 1).
 
 But then he makes the quite important distinction between two liberal approaches to tolerance:
 "Viewed from one side, liberal toleration is the ideal of a rational consensus on the best way of life. From the other,
 it is the belief that human beings can flourish in many ways of life... If liberalism has a future, it is in giving up
 the search for a rational consensus on the best way of life" (2000, p. 1).
 
-He makes it clear that he embraces the second approach, and not the first:
-
-"The liberal ideal of toleration which looks to a rational consensus on the best way of life was born in societies
-divided on the claims of a single way of life. It cannot show us how to live together in societies that harbour many
-ways of life" (2000, pp. 1-2).
+He goes on to note that "The liberal ideal of toleration which looks to a rational consensus on the best way of life was
+born in societies divided on the claims of a single way of life. It cannot show us how to live together in societies
+that harbour many ways of life" (2000, pp. 1-2).
 
 Gray then offers examples of prominent thinkers exhibiting these different forms of liberal tolerance:
 
 "The philosophies of John Locke and Immanuel Kant exemplify the liberal project of a universal regime, while those of
 Thomas Hobbes and David Hume express the liberalism of peaceful coexistence. And more recent times, John Rawls and F.A.
 Hayek have defended the first liberal philosophy, while Isaiah Berlin and Michael Oakeshott are exemplars of the
-second" (2000, p. 2).
-
-he goes on to write that, "In this Hobbesian view [of the second sort of thinkers], the end of tolerance is not
-consensus. It is coexistence" (2000, p. 3).
+second... In this Hobbesian view [of the second sort of thinkers], the end of tolerance is not
+consensus. It is coexistence" (2000, pp. 2-3).
 
 Gray then claims, "*Modus vivendi* expresses the belief that there are many forms of life in which humans can thrive...
 Where such ways of life are rivals, there is no one of them that is best" (2000, p. 5).
@@ -773,6 +766,8 @@ https://www.theamericanconservative.com/who-pulls-john-grays-strings/.
 ______________. 2024. After Liberalism... Faith? *The University Bookman*. https://kirkcenter.org/reviews/after-liberalismfaith/.
 
 Chesterton, G. K. 1925. *The Everlasting Man*. New York: Dodd, Mead & Company.
+
+Colls, Robert. 2003. Ethics Man: John Gray’s New Moral World. *The Political Quarterly*.
 
 Damascene, Hieromonk. 2002. *Christ the Eternal Tao*. Platina, California: Valaam Books.
 
