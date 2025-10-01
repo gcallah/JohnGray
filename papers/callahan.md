@@ -402,24 +402,7 @@ possibility of enlightenment, since humans, possessing reason, have the ability 
 hinduamerican.org says "Mankind, because it is believed to be the most spiritually evolved, thus carries a special
 responsibility..." (Hindu American Foundation).
 
-He then describes the idea that "salvation is open to all" as "one of Christianity's most dubious promises" (2007, p.
-4). We can grant that, *if* humans are just an outcome of random, material forces, that salvation is open to no one, since
-there is no such thing. But why then include the proviso "open to all"? In Gray's view, is salvation open to some but
-not to others?
-
-Gray then claims, "in the world shown us by Darwin, there is nothing that can be called progress" (2007, p. 4).
-But Darwin himself clearly believed in progress, for example: "And as natural selection works solely by and for the good
-of each being, all corporeal and mental endowments will tend to progress towards perfection." (1872, Chapter XV, par. 55)
-
-Gray, in another work, claims that the existence of a passage like the above is due to "Darwins inability always to
-accept the logic of his own theory" (2018, p. 55). However, it could be equally due to Darwin recognizing that the fact
-that a theory does not make use of some concept, such as "progress," does not mean that concept has no application
-anywhere: it simply means it is not a part of that theory. Just like with progress, Darwin's theory also does not
-contain the concept of music.  That hardly shows that music does not exist.
-
-He next claims that "Christianity's cardinal error" is that "humans are different from all other animals" (2007, p. 4).
-
-And yet, as we have seen, this same "error" is present in many traditions. In fact, as G.K. Chesterton 
+In fact, as G.K. Chesterton 
 noted, "the more we really look at man as an animal, the less he will look like one" (1925, p. 7). He recounts the
 incident of a boy finding paleolithic cave paintings of animals, and says that unless the boy was "one of the professors
 who simplified the relation of men and beasts to mere evolutionary variation..." he would realize that "he had dug very
@@ -432,93 +415,46 @@ Recognizing this empirical fact does not immediately yield any metaphysical impl
 different from all other mountains would not mean that we have to grant them some superior ontological status. But
 nevertheless, it would be a very poor geologist who did not recognize this significant difference.
 
-In fact, the very "error" that Gray is at pains to criticize demonstrates that his contention that this an error is
-wrong: no elephant or chimpanzee or dolphin has ever developed a metaphysics in which their species is marked out as
-different from all other animals, rendering their misapprehension in need of correction by a dour British
-philosopher.
+Gray's remarks on technology should be read by every techno-optimist:
 
-"if the human species is re-engineered it will not be the result of humanity assuming a God like control of its destiny.
-It will be another twist in man's fate" (2007, p. 6).
+"Once a technology enters human life -- whether it be fire, the wheel, the automobile, radio, television or the Internet
+-- it changes it in ways we can never fully understand... Technical progress leaves only one problem unsolved: the
+frailty of human nature. Unfortunately that problem is insoluble" (2007, pp. 14-15).
 
-"'Darwin's dice have rolled badly for the Earth,' Wilson points out." (2007, p. 7).
-
-But given it is all meaningless chance events, what is "bad" about even all life on earth being wiped out? There was
-never a point to it anyway.
-
-"Epidemiology and microbiology are better guides to our future than any of our hopes or plans" (2007, p. 9).
-
-Note the radical change in tone!
-
-
-"the human population growth that has taken place over the past few hundred years resembles nothing so much as the
-spikes that occur in the numbers of rabbits, house mice and plague rats" (2007, p. 10).
-
-Gray should be read by every techno-optimist.
-
-"Once a technology enters human life – whether it be fire, the wheel, the automobile, radio, television or the Internet
-– it changes it in ways we can never fully understand" (2007, p. 14).
-
-
-"Technical progress leaves only one problem unsolved: the frailty of human nature. Unfortunately that problem is
-insoluble" (2007, p. 15).
-
-"Green thinkers understand that humans can never be masters of the Earth. Yet in their Ludfite struggle against
+But he notes that Green thought partakes of the same illusion:
+"Green thinkers understand that humans can never be masters of the Earth. Yet in their Luddite struggle against
 technology they renew the illusion that the world can be made the instrument of human purposes" (2007, p. 15).
-
-"As Margulis and Sagan have written, we are ourselves technological devices, invented by ancient bacterial communities
-as means of genetic survival" (2007, p. 16).
-
-It is weird to describe ancient bacterial communities as "inventing" multicellular organisms when previously Gray has
-described evolution as just genes randomly interacting with each other. Furthermore, while he holds that it is an
-illusion that humans can shape the world to their purposes, apparently bacteria could do so.
-
-"If our lives are to have any meaning, the power of science must be overthrown, and faith re-established" (2007, p. 18).
-
-As someone who seriously studied Hayek, Gray ought to recognize that the problem here is not science, but scientism. And
-his familiarity with Oakeshott ought to have alerted him to the fact that positing a conflict between science and
-religion is an ignoratio elenchi.
-
-Gray notes that today, "science alone has the power to silence heretics" (2007, p. 19).
-
-Gray calls the idea that science triumphed in the battle of ideas because it is "the embodiment of rational inquiry" a "fairy tale" (2007, p. 21).
-
-He argues (correctly) that "Galileo won out not because he had the best arguments but because he was able to represent
-the new astronomy as part of a coming trend in society" (2007, p. 21).
-
-
-
-
 
 
 ### The Immortalization Commission
 
-
-The most interesting part of Gray's *The Immortalization Commission: Science and the Strange Quest to Cheat Death*,
+Gray's 2011 work, *The Immortalization Commission: Science and the Strange Quest to Cheat Death*,
 describes two historical episodes, which he relates with his usual panache.
 The first tale is about the British parapsychologists active in the late nineteenth and early
 twentieth centuries. This group included many prominent figures, such as the great ethical theorist Henry Sidgwick, the
 classical scholar Frederic Meyers, the Irish poet W.B. Yeats, and British foreign secretary and prime minister Arthur
 Balfour.
 
-They looked to science to replace religion as the guarantor of man's immortality by seeking empirical evidence
+These men looked to science to replace religion as the guarantor of man's immortality by seeking empirical evidence
 of life after death.
 Often they attempted to receive messages from the dead that could demonstrate
-their continued existence. An intiguing example of this effort involved automatic writing, whereby a
-person would write down what were supposed to be messages from the afterlife, without conscious awareness
+the continued existence of the deceased. An intiguing example of this effort involved automatic writing,
+a practice in which a
+medium would write down what were supposed to be messages from the afterlife, without conscious awareness
 of what they were writing. Over a number of years this practice yield "many thousands" (2011, Kindle Location 173) 
 of pages of automatic writing,
 which were thought to display "cross-correspondences," so that something written down by one medium only formed a complete
 message when assembled with the transcriptions of others. The experiment was
 inclusive, as the interpretation of the "messages" was not a determinate matter; to some people they were
-clear evidence of an afterlife, while Gray, "The connections were encrypted in a way of life, which has
+clear evidence of an afterlife, while for Gray, "The connections were encrypted in a way of life, which has
 since disappeared" (2011, Location 1013).
 
 The next story related in *The Immortalization Commission* describes the important role occultism played in the Soviet Union
 before World War II. It is from this section that the book's title is drawn: the Soviet Union actually had such a
 commission, as well as a Soviet Committee for Psychical Research. The embalming of Lenin's dead body was
-performed largely with this goal of achieving immortality through science in mind.
+performed largely with this goal of achieving immortality through science.
 
-In an important passage on religion, Gray writes:
+Commenting on religion, Gray writes:
 
 "The heart of all religions is practice – ritual and meditation. Practice comes with myths, but myths are not theories
 in need of rational development. The story of Icarus has not been rendered redundant by progress in psychology. The
@@ -526,24 +462,21 @@ Genesis story is not obsolete because there have been advances in palaeontology.
 long as humans remain human. Myths are narratives that deal with unchanging features of human experience...
 
 "Ever since the rise of
-Positivism a legend has been repeated in which myth-making belongs in the infancy of the species. The Golden Bough
+Positivism a legend has been repeated in which myth-making belongs in the infancy of the species. *The Golden Bough*
 (1890), a collection assembled by the anthropologist J. G. Frazer, propagated this Positivist legend: mythic thinking is
 typical of children and primitives; adulthood lies with science. In fact, as Wittgenstein remarked, 'Frazer is much more
 savage than most of these savages.' Modern myths are further from reality than any that can be found among traditional
 peoples..." (2011, Location 2477).
 
-So, we see that, while Gray may not be religious himself, he has no sympathy for rationalists' strawman version of
-religion, a theme he will return to in *Seven Types of Atheism*.
-
-### The Soul of the Marionette
-
+So, we see that, while Gray may not be (conventionally) religious himself, he has no sympathy for rationalists' strawman
+version of religion, a theme he will return to in *Seven Types of Atheism*.
 
 Gray's 2015 book, *The Soul of the Marionette*, continues the development of his stoicism in the face of a meaningless
 universe. A meditation on the theme of human freedom, the work examines the perspectives of a number of thinkers on the
-topic, a melange that includes the crystallographer J.D. Bernal, the poets Giacomo Leopardi and Edgar Allan Poe, the
-science-fiction writers Stanislav Lem and Philip K. Dick, 
+topic, a melange that includes the crystallographer J.D. Bernal, the poets Giacomo Leopardi and Edgar Allan Poe, and 
+the science-fiction writers Stanislav Lem and Philip K. Dick, 
 
-Gray goes on to describe Aztec ritual killing. He sees this as evidence of the ineradicability of human
+Gray cites Aztec ritual killings as evidence of the ineradicability of human
 violence. Playing whack-a-mole, we surpress if in one place only to see it pop back up in another. He is skeptical of
 studies that purport to demonstrate a secular decline in violence, citing violence-caused famines and epidemics, deaths in
 labor camps, the gigantic U.S. prison population, the revival of torture in the most "civilized" societies, and other
@@ -553,34 +486,32 @@ along the way wrecking whatever social order they had.
 
 Despite its many virtues, there is a paradox at the heart of this book: if free will is an illusion, as Gray suggests,
 then what is the point of his recommending we adopt a stoical attitude towards this fact? If we have no free will, then 
-we are not able to freely choose the attitude we adopt about that situation.
+we are not able to freely choose the attitude we adopt about that (or any other) set of circumstances we face.
 
-### Seven Types of Atheism
+In his 2018 book *Seven Types of Atheism*, Gray makes the important point that atheism is not a single doctrine, but
+rather encompasses a wide variety (at the very least, seven) of world views.
 
-In his book *Seven Types of Atheism*, Gray makes the important point that atheism is not a single doctrine, but
-encompasses a wide variety (at the very least, seven) of world views.
-
-In his first chapter, Gray addresses is the "New Atheists." He is at his best here, and few believers could write as
+In his first chapter, Gray addresses the "New Atheists": few "believers" could write as
 scathing a takedown of this movement. As he puts it:
 
 "The new atheists have directed their campaign against a narrow segment of religion while failing to understand even
 that small part. Seeing religion as a system of beliefs, they have attacked it as if it was no more than an obsolete
 scientific theory... But the idea that religion consists of a bunch of discredited theories is itself a discredited
 theory -- a relic of the 19th century philosophy of Positivism." (2018, p. 9)
-
-And he goes on to note that "The Genesis story is not an early theory of the origin of species" (2018, p. 11).
+For example, "The Genesis story is not an early theory of the origin of species" (2018, p. 11).
 
 As Gray demonstrates, the new atheists, far from being irreligious, are followers of Auguste Comte's "religion of
 humanity," a cult the French thinker created in the 19th century that contained its own positivist rites and sacraments.
 
 The next variety of atheism that Gray addresses is secular humanism. He convincingly argues that the belief in continued
-human progress, divorced from its Biblical roots, is just the echoing death rattles of our Christian civilization.
+human progress, divorced from its Biblical roots, is merely the echoing death rattles of a dying Christian civilization.
 
 Gray, however, mistakenly forwards the common idea that all cultures without the Bible as their sacred scripture have a
 cyclical understanding of history. As Eric Voegelin wrote:
 
-"When I devise the program, I was still laboring under the conventional belief that the conception of history has a
-meeting for Kristin events on a straight line of time is the great achievement of Israelites and Christians... while
+"When I devised the program [of *Order and History*]
+I was still laboring under the conventional belief that the conception of history as a
+meaningful course of events on a straight line of time was the great achievement of Israelites and Christians... while
 the pagans... could never rise above the conception of a cyclical time. This conventional believe had to be abandoned
 when I discovered the unilinear construction of history... developed by the end of the third millennium B.C. in the
 empires of the Ancient Near East." (Voegelin 2000, p. 51)
@@ -598,7 +529,7 @@ The last part of the chapter deals with transhumanism, which Gray refers to as "
 fruition, the result will be not one "Supreme Being... [but] many different gods, each of them a parody of human beings
 that once existed" (2018, p. 70).
 
-In a chapter on "God-Haters," Gray demonstrates his ability to unearth obscure but curious anecdotes from the byways of
+In a chapter on "God-Haters," Gray again demonstrates his ability to unearth obscure but curious anecdotes from the byways of
 history that help illustrate a theme he is exploring. In this case, gray turns to the life and work of English literary
 critic and poet William Empson. Empson was, indeed, a "God hater," writing "The Christian God the Father... is the
 wickedest thing yet invented by the black heart of man" (quoted in Gray 2018, p. 117). Yet Empson had an affinity for
@@ -609,15 +540,10 @@ the rest of that paragraph significantly softens earlier criticisms he has made 
 
 In the final two chapters Gray addresses thinkers who might be grouped together as "mystical atheists," including George
 Santaya, Joseph Conrad, Arthur Schopenhauer, Benedict Spinoza, and Lev Shestov. (The last of these again illustrates
-Gray's talent for finding lesser-known examples that add depth to a theme.) While these chapters are facinating
-and thought-provoking, I have a few quibbles with them.
+Gray's talent for finding lesser-known examples that add depth to a theme.)
 
-At one point, he claims that, in Portugal, the "Jews had been forced to convert to Christianity by the Inquisition"
-(2018, p. 148). But, in fact, it was the Portugese king who ordered Jews to convert or leave the country; the
-Inquisition only concerned itself with Catholic suspected of heresy, and not with non-Catholics. [REF????]
-
-A little later, Gray writes that "the most basic presupposition of monotheism [is] the dualism of mind and matter"
-(2018, p. 149). That is inaccurate: a better statement of the basic presupposition of Abrahamic monotheism is
+Gray here claims that "the most basic presupposition of monotheism [is] the dualism of mind and matter"
+(2018, p. 149). But that is inaccurate: a better statement of the basic presupposition of Abrahamic monotheism is
 that it assumes a clear distinction between a Creator and His creation. But if one considers someone like Bishop
 Berkeley (1999), an orthodox Christian clergyman, who was also a monistic idealist, it should be clear that the mind/matter
 dualism is not essential here.
@@ -631,18 +557,14 @@ you will have a clearer view of the modern scene. If you can see how theologies 
 some types of atheism or not so far apart, you will learn something about the limits of human understanding" (2018, p.
 158).
 
-### Feline Philosophy
+In the 2020 work *Feline Philosophy*, Gray compares the attitude of cats towards the world with that of humans, and
+finds that, as a whole, that of cats is better. For one thing, cats have no concept of morality; humans believe they do,
+but they are mistaken.  Gray claims that when people talk of morality, "what they are doing is expressing their
+emotions" (2020, p. 46). This metaethical theory is known as emotivism, and was popularized by A.J. Ayer (1946). It is a
+significant departure from Gray's earlier realistic moral pluralism.
 
-In the recent work *Feline Philosophy*, Gray compares the attitude of cats towards the world with that of humans, and
-finds that, as a whole, that of cats is better.
-
-For one thing, cats have no concept of morality; humans believe they do, but they are mistaken.
-Gray claims that when people talk of morality, "what they are doing is expressing their emotions" (2020, p. 46). This
-metaethical theory is known as emotivism, and was popularized by A.J. Ayer (1946). It is a departure from Gray's earlier
-"moral realism but pluralism."
-
-If there is one outstanding feature of Gray's work that sets it apart, it is his continual willingness to rethink and
-change earlier positions he had taken. Well, this is certainly a laudable tree, that does not mean that every change has
+A laudatory feature of Gray's work is his continual willingness to rethink and
+revise earlier positions he has taken. But appreciating that does not mean that every change has
 been for the better. And this is a case where it has not, because emotivism is mistaken, regardless of whether there are
 objective moral facts or not. Consider someone who says "Adultery is wrong": they are *not* just expressing a negative
 emotion they feel towards adultery. For instance, it is quite possible for someone to say, "I know adultery is wrong,
@@ -662,20 +584,19 @@ no view on the matter is better than any other?
 
 Gray might respond that morality is not like science in this regard. But that answer is question begging: whether it is
 or isn't is the point of contention, and Gray certainly cannot show that there are no better or worse 
-answers to moral questions simply by showing that there are different answers.
+answers to moral questions simply by showing that there are various answers to them.
 
 Gray contrasts the idea of morality found, for instance, in Christianity, with that of the Chinese ideal of "living
 according to *tao*" (2020, p. 47). But this ignores the deep similarities between Taoism and Christianity, as
-demonstrated by, e.g., Damascene 2002 or Lewis 1974..
+demonstrated by, e.g., Damascene 2002 or Lewis 1974.
 
 In the last chapter of *Feline Philosophy*, Gray offers ten "feline hints" (2020, pp. 108-111). All of them are
-interesting, and many of them strike me as fairly sound. But entire list rests uneasily with feline commandment
-number nine, which advises "Beware anyone who offers to make you happy": isn't that what Gray (or his cat?) is doing
+interesting, and many of them strike me as fairly sound. But the entire list rests uneasily with feline commandment
+number nine, which advises "Beware anyone who offers to make you happy": Isn't that what Gray (or his cat?) is doing
 with this list?
 
 After these ten hints, he writes, "Eternity is not another order of things, but the world seen without anxiety"
-(2020, p. 111). This is a profound insight; one might be tempted to call it "religious." And indeed, one can find this
-idea also expressed by Buddha and Christ.
+(2020, p. 111). This is a profound insight; and indeed, one can find this idea also expressed by Buddha and Christ.
 
 
 ### The New Leviathans
