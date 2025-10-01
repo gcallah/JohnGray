@@ -609,8 +609,9 @@ the central theme of the book is that the circumstances that led
 Hobbes to write *Leviathan* have again become salient in our time, as the liberal world order that prevailed for some years
 after the fall of the Soviet Union is disappearing.
 
-Gray argues that "Hobbes was a liberal -- the only one, perhaps, still worth reading." He defends the claim that Hobbes
-was a liberal by first citing the four defining characteristics he described in *Liberalism*, namely, that liberalism is:
+Gray argues that "Hobbes was a liberal -- the only one, perhaps, still worth reading" (2023, p. 4).
+He defends the claim that Hobbes was a liberal by first citing the four defining characteristics he described in
+*Liberalism*, namely, that liberalism is:
 
 - individualist
 - egalitarian
@@ -622,37 +623,43 @@ Gray argues that these central liberal ideas are also central to Hobbes, since f
 - "Society is made up of individuals..."
 - "[each] equal in being exposed to death at each other's hands..."
 - "Human nature is universal in its needs..."
-- "With the application of reason, government can be improved..."
+- "With the application of reason, government can be improved..." (2023, p. 5)
 
 Thus Hobbes is "the" proto-liberal. However, as Gray explains, "Each of these [liberal] ideas is a half-truth":
 
-Individuals are the basis of society, but "self-preservation is only one of their needs: bare life is not enough."
-
-Human beings "regularly give up peace and security in order to defend a form of life..."
-
-"The most basic human goods may be universal but they are often sacrificed..."
-
-"Society and government can be improved, but what is gained can always be lost... There is no complete or final exit from
-the state of nature."
+- Individuals are the basis of society, but "self-preservation is only one of their needs: bare life is not enough."
+- Human beings "regularly give up peace and security in order to defend a form of life..."
+- "The most basic human goods may be universal but they are often sacrificed..."
+- "Society and government can be improved, but what is gained can always be lost... There is no complete or final exit from
+the state of nature" (2023, p. 5).
 
 Gray's claim that Hobbes was a liberal may disconcert some who have interpreted him as a totalitarian. But here Gray
 makes a crucial, often overlooked, point about Hobbes:
 
-"Hobbes's was a state whose powers were unchecked, but its goals
-were strictly limited. Beyond securing its subjects against one another and external enemies, it had no remit."
+"Hobbes's was a state whose powers were unchecked, but its goals were strictly limited. Beyond securing its subjects
+against one another and external enemies, it had no remit" (2023, p.  2)
 
 In other words, Hobbes's justification for the sovereign was its ability to keep citizens from
 going to war with each other, and it had whatever power it needed to achieve that goal.  But its remit did not extend to
 stopping them from drinking too much, or prompting them to exercise, or urging them to approve of polyamory, or
 encouraging them to go to the opera.
 
-Gray understands that the whole liberal project is based upon a metaphysics that modern liberals either ignore or completely reject:
+Gray understands that the whole liberal project is based upon a metaphysics that modern liberals either ignore or
+completely reject:
 
 "Liberalism was a creation of Western monotheism and liberal freedoms are part of the civilization that monotheism
 engendered. Twenty-first-century liberals reject this civilization, while continuing to assert the universal authority
 of a hollowed-out version of its values. In this hyper-liberal vision all societies are destined to undergo the
-deconstruction that is underway in the West."
+deconstruction that is underway in the West." (2023, p. 109)
 
+Gray is not enamoured of "what has come to be called the woke movement," declaring that its "origins... are in the decay
+of liberalism" (2023, p. 110). He notes that "If Western capitalism creates an expanding underclass without any
+productive function, it also produces a lumpen intelligentsia that is economically superfluous" (2023, p. 111).
+
+So what can these "superfluous" individuals do to make a living? Well, they compete for jobs based on who is "most woke."
+Wokeness is a "vehicle through with surplus elites struggle to secure a position of power in society" (2023, p. 110). Or,
+as Gray also puts it, "In their economic aspects, woke movements are a revolt of the professional bourgeoisie" (2023,
+p. 111).
 
 
 ## Conclusion
