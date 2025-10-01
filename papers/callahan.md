@@ -340,21 +340,25 @@ the first.
 
 ### Heresies
 
-*Heresies* is a collection of essays that Gray first published in *New Statesman*.
-
+*Heresies* is a collection of essays that Gray first published in *New Statesman*, between 1999 and 2003.
+The book opens sounding a familiar theme from its immediate predecessors: "Both communism and neoliberalism were messianic
+movements, using the language of reason and science, but actually driven by faith" (2004, p. 1). The belief in
+progress, he claims, "has now become harmful... Anyone who dares question the idea of progress is at once accused of wishing
+to return to the Dark Ages. Yet it is a fact that the largest mass murders in history were perpetrated by progressive
+regimes" (2004, p. 5).
 
 In an interesting essay on the first two *Matrix* films, Gray notes how they illustrate the power of technology "blank
-out the environment in which we live" (2004, p. 51). The example is cites is amusing in retrospect: "Plugged into our
+out the environment in which we live" (2004, p. 51). The example he cites is amusing in retrospect: "Plugged into our
 Walkman, we can forget the squalor by which we are actually surrounded" (2004, p. 51). Even someone as far-seeing as
 Gray probably could not have imagined how plugged into our smart phones we would be two decades later.
 
-He concludes that "In a curious, oblique way, these are political films, but the questions they suggest are not hackneyed
+He concludes: "In a curious, oblique way, these are political films, but the questions they suggest are not hackneyed
 ones about capitalist, exploitation or media tyranny. They are about the affluent majority colluding with the media in
 sustaining an unreal view of the world" (2004, p. 55).
 
 In another essay, Gray, displaying his knack for finding fascinating but obscure examples upon which to meditate, takes
 up Franz Kafka's short story "A Report to the Academy," in which an ape called Red Peter addresses a learned society.
-Annette, he remarks "Secular thinkers find it extremely difficult to come up with reasons for thinking that the human
+Along the way, Gray remarks "Secular thinkers find it extremely difficult to come up with reasons for thinking that the human
 species has some kind of unique standing in the world" (2004, p. 76). He claims that "humans have had a huge, and almost
 entirely harmful, impact on other animal species" (2004, p. 77). And clearly he intends that we should change our
 misguided notion that we are unique among animal species, and should reduce the harm we are causing other species.
@@ -365,7 +369,7 @@ really are different than all other species. No wolf philosopher has ever risen 
 asked them to be kinder to deer. No fire ant philosopher has appeared who has asked fire ants to please reconsider their
 invasive species routine in continents upon which they do not belong.
 Human beings are a sort of creature who can respond to a moral argument by changing their behavior. And there is no
-other species on earth or which that is true.
+other species on earth of which that is true.
 
 Gray here cites Buddhism as a religion that avoids this Christian error. But as in other places, I think Gray misses
 the deep affinities between Buddhism and Christianity. (See, for instance, Merton 1968.)
@@ -376,9 +380,8 @@ the deep affinities between Buddhism and Christianity. (See, for instance, Merto
 ### Straw Dogs
 
 *Straw Dogs* is one of Gray's most popular books. In it, a "gloomy Gray" comes to the forefront. A lot of this gloom
-turns on Gray's interpretation of Darwinism and his reading of its implications, but both are questionable.
-
-The book opens with several curious assertions. First, he writes "Darwin teaches that species are only assemblies of
+turns on Gray's interpretation of Darwinism and his reading of its implications.  The book opens with several curious
+assertions. First, he writes "Darwin teaches that species are only assemblies of
 genes, interacting at random with each other and their shifting environments" (2007, p. 3).
 
 But Darwin had no concept of genes at all. Mendel's work on genes was unknown to him, and was not incorporated into the
@@ -390,8 +393,9 @@ is a theory of random mutation plus *nonrandom* cumulative natural selection" (D
 Gray next assigns Christianity a unique status among world religions in believing that there is a significant difference
 between humans and other animals, and holds it thus responsible for Darwin's theory being at all controversial. However,
 quite clearly Judaism and Islam, sharing the Old Testament with Christianity, also differentiate humans from other
-animals. But then, so did Aristotle, giving humans a unique character as "the rational animal." True, in religions that
-include the idea of reincarnation, it is often thought that souls may move between human and non-human lives in
+animals. But then, so did Aristotle, giving humans a unique character due to their possessing reason (Aristotle , p. 9).
+It is true that in religions 
+incorporating the idea of reincarnation, it is often thought that souls may move between human and non-human lives in
 successive reincarnations. But Buddhism, for instance, regards human reincarnations as special in their openness to the
 possibility of enlightenment, since humans, possessing reason, have the ability to grasp the dharma
 (Norbu et al. 2020, pp. 19-26). Gray specifically cites Hinduism as a religion in which humans are not special, but
@@ -748,6 +752,9 @@ I offered them here as potential avenues for further research.
 
 
 ## Bibliography
+
+Aristotle. 1999. *Nichomachean Ethics*. Translated by Terence Irwin. Indianapolis and Cambridge: Hackett Publishing
+Company, Inc.
 
 Ayer, A. J. 1946. *Language, Truth, and Logic*. New York: Dover Publications.
 
