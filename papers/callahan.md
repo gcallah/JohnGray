@@ -30,8 +30,6 @@ liberalism.
 
 ## Leaving Liberalism
 
-### Liberalisms
-
 A key text for understanding this shift in Gray's attitude towards liberalism is his 1988 work, *Liberalisms*. It is a
 collection of essays written over a period of a dozen years. As Gray describes the essays, "They embody a single
 project, pursued continuously over the period in which they were written -- the project of defining liberalism and
@@ -51,12 +49,8 @@ Gray argues that, contra Rawls, "the appropriate conception of the person for ou
 that which Hobbes presented at a time of profound religious conflict" (1988, p. 181) We will see that Gray returns to
 address Hobbes several times, including his most recent book.
 
-### Post-Liberalism
-
 Having decided that there is no philosophical basis for preferring liberalism to all other forms of governance, Gray
 turns his attention to what follows from this conclusion in a series of essays collected in *Post-Liberalism*.
-
-#### Hayek
 
 In the essay "Hayek as a conservative" Gray notes that "Hayek's position is distinctive, to be sure" (1993, p. 32), and
 that "Hayek's attempt to synthesize the deepest insights of conservatism with the best elements of classical liberalism
@@ -74,8 +68,6 @@ Gray concludes that, "since much of contemporary culture is possessed by a death
 developments in some of our oldest traditions, a modern conservative must also be a moral and intellectual radical"
 (1993, p. 39)
 
-#### Oakeshott
-
 In the next chapter, "Oakeshott as a liberal," Gray writes:
 
 "[Oakeshott's] first lesson is that the hubristic project of doctrinal or fundamental liberalism – the project attempted by all
@@ -92,8 +84,6 @@ during the 1990s, Gray was associated with New Labour -- the center-left movemen
 that brought Tony Blair to power in Westminster -- and he became a prominent critic of global capitalism with his 
 book *False Dawn* (1998).
 
-#### Buchanan
-
 In "Buchanan on liberty," Gray argues that Buchanan, contra Hayek, recognizes that
 spontaneous social orders will not reliably be
 beneficial, without the aid of deliberately constructed institutions designed to make them so. For instance, Gray argues
@@ -105,9 +95,6 @@ Gray closes his Buchanan essay on a more optimistic note than he will sound in m
 "we must wager on liberty by seeking, amid all the vicissitudes and contingencies of practice, a new constitutional
 settlement on limited government, in which free men and women may live in voluntary association – in liberty under the
 rule of law" (1993, p. 63).
-
-
-#### Berlin
 
 In Gray's essay on Isaiah Berlin we see the roots of another phase of Gray's thought, as he embraces
 Berlin's value pluralism:
@@ -138,14 +125,10 @@ Nozick or Hayek no less than of Rawls or Ackerman — which suppose that the inc
 life, and of liberty itself, can be smoothed away by the application of some theory, or tamed by some talismanic
 formula... if there is any liberalism that is now defensible, it is Berlin's." (1993, p. 67)
 
-#### Cultural Diversity
-
 In "The politics of cultural diversity," an essay as relevant today as when it was written, Gray argues that the
 progressive enthusiasm for what is called call "multiculturalism" is "animated by moral hatred of the dominant traditions,
 and a voyeuristic fascination with submerged, overwhelmed, or oppositional cultures." Therefore, it seeks to "entrench
 minority traditions in protected institutions and confer on them arbitrary privileges" (1993, p. 266).
-
-### Enlightenment's Wake
 
 In the Preface of *Enlightenment's Wake*, Gray writes: "In this book, a train of thought developed in my earlier books,
 *Liberalisms: Essays in Political Philosophy*, *Post-liberalism: Studies and Political Thought*, and *Beyond the New
@@ -170,10 +153,6 @@ Tlön*." Just as the residents of Tlön believe that the only things real are wh
 most academic political philosophers, "only that has reality which is at any particular time perceptible in academic
 discourse" (2007, p. 21). Why else, Gray wonders, do the editors consider powerful factors in modern politics like
 theism and nationalism beyond the pale of discussion, while a topic like anarchism is included in their selections?
-
-
-
-### Endgames
 
 The work *Endgames* begins by asserting that "our inherited stock of political ideas no longer tracks the world in which
 we live and strive to flourish" (1997, p. vi). Having concluded that the Enlightenment project has been a failure, Gray
@@ -225,9 +204,6 @@ intuitions common among American East Coast liberal academics" (1997, p. 53).
 In the end, Gray notes, "The most striking feature of Rawls's political liberalism is its utter political emptiness"
 (1997, p. 54).
 
-
-#### Oakeshott and Berlin
-
 In "Berlin, Oakeshott, and Enlightenment," Gray undertakes an interesting comparison of these two prominent critics of
 rationalism. But he misunderstands Oakeshott in a fundamental way when he writes, "If, for Oakeshott, all forms of
 knowledge are at bottom practical..." (1997, p. 86). Oakeshott quite explicitly rejects that view, writing "The
@@ -236,9 +212,6 @@ world of practice... will be found to be abstract and defective from the standpo
 science and history..." (Oakeshott 1933, p. 249). One might respond, "Well, that is just the early Oakeshott," were it
 not the case that he again, forty-two years later, rejects the idea that theory can be reduced to practice (Oakeshott
 1975, pp. 29-30).
-
-
-#### Beginnings
 
 Perhaps the most significant weakness in Gray's thought is his repeated mistaking of the theory of evolution, a
 biological model of how lifeforms change over time, as something with vast implications for metaphysics, ethics,
@@ -253,9 +226,6 @@ Darwinism is true; rather, it has been devised to help evolutionary biologists f
 on. And that makes his argument self-undermining. (I will note here that I think Darwinism is a pretty good theory, albeit
 one likely to be eventually superceded by an even better theory, but that is because I do believe that science is
 generally truth seeking.)
-
-
-### Two Faces of Liberalism
 
 Gray opens *Two Faces of Liberalism* by noting that "The liberal state or originated in a search for *modus vivendi*"
 (2000, p. 1).  And he acknowledges that "Liberal toleration has contributed immeasurably to human well-being" (2000, p. 1).
@@ -337,9 +307,6 @@ The case for the second claim does not depend on the first claim being true; in 
 by being lashed to the first one, since tying them together weakens the appeal of the second claim for those who reject
 the first.
 
-
-### Heresies
-
 *Heresies* is a collection of essays that Gray first published in *New Statesman*, between 1999 and 2003.
 The book opens sounding a familiar theme from its immediate predecessors: "Both communism and neoliberalism were messianic
 movements, using the language of reason and science, but actually driven by faith" (2004, p. 1). The belief in
@@ -375,9 +342,6 @@ Gray here cites Buddhism as a religion that avoids this Christian error. But as 
 the deep affinities between Buddhism and Christianity. (See, for instance, Merton 1968.)
 
 ## Staring into the Void
-
-
-### Straw Dogs
 
 *Straw Dogs* is one of Gray's most popular books. In it, a "gloomy Gray" comes to the forefront. A lot of this gloom
 turns on Gray's interpretation of Darwinism and his reading of its implications.  The book opens with several curious
@@ -425,9 +389,6 @@ But he notes that Green thought partakes of the same illusion:
 "Green thinkers understand that humans can never be masters of the Earth. Yet in their Luddite struggle against
 technology they renew the illusion that the world can be made the instrument of human purposes" (2007, p. 15).
 
-
-### The Immortalization Commission
-
 Gray's 2011 work, *The Immortalization Commission: Science and the Strange Quest to Cheat Death*,
 describes two historical episodes, which he relates with his usual panache.
 The first tale is about the British parapsychologists active in the late nineteenth and early
@@ -435,19 +396,15 @@ twentieth centuries. This group included many prominent figures, such as the gre
 classical scholar Frederic Meyers, the Irish poet W.B. Yeats, and British foreign secretary and prime minister Arthur
 Balfour.
 
-These men looked to science to replace religion as the guarantor of man's immortality by seeking empirical evidence
-of life after death.
-Often they attempted to receive messages from the dead that could demonstrate
-the continued existence of the deceased. An intiguing example of this effort involved automatic writing,
-a practice in which a
-medium would write down what were supposed to be messages from the afterlife, without conscious awareness
-of what they were writing. Over a number of years this practice yield "many thousands" (2011, Kindle Location 173) 
-of pages of automatic writing,
-which were thought to display "cross-correspondences," so that something written down by one medium only formed a complete
-message when assembled with the transcriptions of others. The experiment was
-inclusive, as the interpretation of the "messages" was not a determinate matter; to some people they were
-clear evidence of an afterlife, while for Gray, "The connections were encrypted in a way of life, which has
-since disappeared" (2011, Location 1013).
+These men looked to science to replace religion as the guarantor of man's immortality by seeking empirical evidence of
+life after death.  Often they attempted to receive messages from the dead that could demonstrate the continued existence
+of the deceased. An intiguing example of this effort involved automatic writing, a practice in which a medium would
+write down what were supposed to be messages from the afterlife, without conscious awareness of what they were writing.
+Over a number of years this practice yield "many thousands" (2011, Kindle Location 173) of pages of automatic writing,
+which were thought to display "cross-correspondences," so that something written down by one medium only formed a
+complete message when assembled with the transcriptions of others. The experiment was inclusive, as the interpretation
+of the "messages" was not a determinate matter; to some people they were clear evidence of an afterlife, while for Gray,
+"The connections were encrypted in a way of life, which has since disappeared" (2011, Location 1013).
 
 The next story related in *The Immortalization Commission* describes the important role occultism played in the Soviet Union
 before World War II. It is from this section that the book's title is drawn: the Soviet Union actually had such a
@@ -597,9 +554,6 @@ with this list?
 
 After these ten hints, he writes, "Eternity is not another order of things, but the world seen without anxiety"
 (2020, p. 111). This is a profound insight; and indeed, one can find this idea also expressed by Buddha and Christ.
-
-
-### The New Leviathans
 
 Gray's most recent book is *The New Leviathans: Thoughts After Liberalism*. As with many of his latter works, this one
 takes the form of an extended meditation on a topic, similar to Milan Kundera's ideal type of the novel (Kundera 1988).
