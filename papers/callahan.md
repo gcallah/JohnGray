@@ -130,7 +130,8 @@ progressive enthusiasm for what is called call "multiculturalism" is "animated b
 and a voyeuristic fascination with submerged, overwhelmed, or oppositional cultures." Therefore, it seeks to "entrench
 minority traditions in protected institutions and confer on them arbitrary privileges" (1993, p. 266).
 
-In the Preface of *Enlightenment's Wake*, Gray writes: "In this book, a train of thought developed in my earlier books,
+In the preface of his 1995 book *Enlightenment's Wake* (a second edition appeared in 2007),
+Gray writes: "In this book, a train of thought developed in my earlier books,
 *Liberalisms: Essays in Political Philosophy*, *Post-liberalism: Studies and Political Thought*, and *Beyond the New
 Right: Markets, Government, and the Common Environment*, is brought to a conclusion" (2007: vii). He corrects the
 conclusion of *Post-liberalism*, arguing "the historicist argument for liberal institutions... neglects the variety of
@@ -154,7 +155,28 @@ most academic political philosophers, "only that has reality which is at any par
 discourse" (2007, p. 21). Why else, Gray wonders, do the editors consider powerful factors in modern politics like
 theism and nationalism beyond the pale of discussion, while a topic like anarchism is included in their selections?
 
-The work *Endgames* begins by asserting that "our inherited stock of political ideas no longer tracks the world in which
+The final essay in *Enlightenment's Wake* summarizes Gray's conclusions on the "Enlightenment project," and his review
+is not positive. As he puts it:
+
+"within Western cultures, the Enlightenment project of promoting autonomous human reason and of according to science a
+priviliged status in relation to all other forms of understanding has successfully eroded and destroy local and
+traditional forms of moral and social knowledge; it has not issued in anything resembling a new civilization, however,
+but instead in nihilism." (2007, p. 217)
+
+Gray dismisses attempts like that of the Romantic movement to re-enchant the world, writing "The disenchantment the
+trails in indictments week is a fade that can perhaps be tempered, but not overcome" (2007, p. 231).
+It is true that, if the disenchantment that came with the Enlightenment was like the removal of rose colored glasses,
+so that we at last see the world in its true, dreary colors, we probably can't unsee that revelation. But
+Gray does not seem to consider a different possibility: perhaps the Enlightenment actually consisted of putting *on* a pair of
+spectacles that *filtered out* the vibrant colors of an enchanted world. Then "re-enchanting" the world would merely
+consist in taking off that filter. As Robert Hunter once put it, "maybe the dark is from your eyes."
+
+In the end, Gray does not place much hope for a recovery from nihilism in Western cultures. He writes, 
+"Any prospect of cultural recovery from the nihilism that the Enlightenment has spawned may lie with non-Occidental peoples,
+whose task will then be in part that of protecting themselves from the debris cast up by Western shipwreck" (2007, p.
+276).
+
+The 1997 work *Endgames* begins by asserting that "our inherited stock of political ideas no longer tracks the world in which
 we live and strive to flourish" (1997, p. vi). Having concluded that the Enlightenment project has been a failure, Gray
 worries that "the faith of the Enlightenment will be deployed... as a drug to stupefy the intellect and an anecdote to
 despair" (1997, p. xi) In an effort to address these circumstances, Gray notes that "The gap between late modern thought
