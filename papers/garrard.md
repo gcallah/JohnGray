@@ -14,23 +14,23 @@ eighteenth-century seed of the Enlightenment have grown a wide range of
 moral and political pathologies, including totalitarianism, fascism,
 Communism, environmental degradation, nihilism, Jacobinism, liberal
 imperialism, Bolshevism, a highly destructive form of capitalist
-fundamentalism, radical Islam and even the Counter-Enlightenment. He
-links the Enlightenment directly to modernity, Christianity and
+fundamentalism, radical Islam, and even the Counter-Enlightenment. He
+links the Enlightenment directly to modernity, Christianity, and
 pre-Socratic antiquity and bundles the whole package together in a giant
 collection of monstrosities that have led the world to its present state
 of ruination, with no apparent prospect of escape.
 
 While my primary purpose in what follows is to explicate Gray's dark
 portrait of the Enlightenment, its purportedly destructive role in
-Western history and what he thinks can be done about it, I will also
+Western history, and what he thinks can be done about it, I will also
 offer some critical reflections on a number of contentious claims,
-assumptions and conclusion he makes that raise doubts about the
+assumptions, and conclusions he makes that raise doubts about the
 plausibility and coherence of his views on the subject. My account is
-based primarily on five of his many books covering a twenty-year period,
-in which his presentation of the Enlightenment has remained very
+based primarily on six of his many books covering a twenty-eight year
+period, in which his presentation of the Enlightenment has remained very
 consistent: *Isaiah Berlin* (1995), *Enlightenment's Wake* (1997),
 *Voltaire* (1999), *Black Mass* (2007) and *Seven Types of Atheism*
-(2018).
+(2018), and *The New Leviathans* (2023).
 
 **Gray's Portrait of the Enlightenment**
 
@@ -67,14 +67,14 @@ justification for the Enlightenment's zealous mission to move all
 societies along the spectrum to civilization, by force if necessary, an
 attitude inherited by many of the later political ideologies that he
 claims grew out of it, above all liberalism. He refers to 'the
-Enlightenment project of refounding morality and social life on
+Enlightenment project of re-founding morality and social life on
 universal and rationally compelling principles' (Gray 1997, p. 158), a
 project that he considers both doomed to failure and highly destructive
 of the human and natural worlds.
 
 Like Friedrich Nietzsche, on whom Gray relies very heavily in his
-diagnosis of the sickness at the heart of Western civilization. Both
-believe in what might be called the 'continuity thesis' of Western
+diagnosis of the sickness at the heart of Western civilization, he
+believes in what might be called the 'continuity thesis' of Western
 history---that it constitutes a single, continuous stream of rationalist
 humanism aiming at its ultimate realization in a universal civilization
 with a common morality discoverable by reason. This is the thematic core
@@ -91,14 +91,14 @@ tradition of Western culture, since it gave birth to liberalism, the
 dominant form of that culture in our time. In fact, Gray believes that
 all modern political ideologies that emerged in the nineteenth and
 twentieth centuries are offspring of the Enlightenment, despite the
-intense antipathies between them. For example, during the Cold War
+intense antipathies between them. For example, during the Cold War,
 Western liberalism was 'a relic of Enlightenment rationalism' (Gray
 1997, p. 156) no less than Soviet Communism, which was 'one of the
 Enlightenment's stupendous constructions' (Gray 1997, p. 33). And Gray
 even claims that the Nazis 'were also in some ways children of the
 Enlightenment' (Gray 2007, p. 52), just as racism 'is a product of the
-Enlightenment (Gray 2007, p. 86). There is very little that is bad about
-our world that is not linked to the Enlightenment for him.
+Enlightenment' (Gray 2007, p. 86). There is very little that is bad
+about our world that is *not* linked to the Enlightenment for him.
 
 What distinguishes the Enlightenment variation on this Western
 rationalist theme is its identification of knowledge with the practice
@@ -111,7 +111,7 @@ iron cage rather than the liberation it was meant to be.
 
 Gray rejects every aspect of the Enlightenment outlook, as he sees it,
 for being dangerously wrong. Its utopian and naïve assumptions about
-human nature, value and historical progress have caused death and
+human nature, value, and historical progress have caused death and
 destruction without precedent in the history of our species. Although
 the dominant epistemology of the Enlightenment was empiricism and its
 proponents viewed science as the sure path to knowledge, Gray claims
@@ -143,7 +143,12 @@ liberalism, the civil religion of the West today, since 'liberal
 cultures depend on the Enlightenment project' (Gray 1997, p. 168). We
 are now in a transition period to a new post-Enlightenment, post-liberal
 era, which Gray describes as 'a form of revolutionary nihilism' (Gray
-1997, p. 178).
+1997, p. 178). The final collapse of faith in the Enlightenment project
+in our time has left the West bereft of any substantive beliefs or
+values, just as Nietzsche had argued that the 'death of God' was
+succeeded by a nihilistic void of meaninglessness. For both, moral
+collapse follows from the failure of the belief system that supported
+it.
 
 The form that this nihilism takes for Gray is thoroughly catastrophic.
 Culturally, it has meant the merciless destruction of diverse forms of
@@ -164,7 +169,7 @@ All this is really warmed-up Friedrich Nietzsche, who also saw nihilism,
 when all values lose their meaning, as the necessary culmination of
 Western rationalism that began in antiquity. Hence Gray's assertion that
 it is in Nietzsche 'that the definitive critique of the Enlightenment
-project is to be found' (Gray 1997, p. 164). But whereas the German
+project is to be found' (Gray 1997, p. 164). But, whereas the German
 prophet of the Übermensch welcomed the advent of a world 'beyond good
 and evil' as a liberation for those who matter (in his view), Gray sees
 very little grounds for hope in the future. Uniquely insightful though
@@ -178,28 +183,28 @@ Any attempt to return to the past by reviving pre-modern modes of
 thought and the practices they sustained is doomed to failure, according
 to Gray. There can be 'no rolling back the central project of modernity'
 (Gray 1997, p. 152). He emphatically denies that his negative account of
-the Enlightenment has any backward-looking, reactionary political
-implications. For example, he is critical of the Catholic critic of
-modernity Alasdair MacIntyre for offering Aristotelian ethical
-naturalism as a possible alternative to the moral impasse that both
-believe the West now finds itself in. Since Gray agrees with Nietzsche
-that the very roots of Western universalism reach back to antiquity,
-returning to pre-modern modes of thought, assuming that was even
-possible, would be no escape from the basic problem that has led to
-modern nihilism. Ancient and medieval societies in the West were also
-'projects of cultural fundamentalism' no less than the Enlightenment and
-liberalism are (Gray 1997, p. 126). For Gray, everything about the West
-is tainted by a fundamental hostility to what he calls the 'truth of
-value pluralism,' which is the correct belief that there is no single,
-rationally compelling arrangement of values applicable to all humans
-everywhere. That is why he rejects the 'Right project of cultural
-fundamentalism' as much as universalist projects of the political left
-(Gray 1997, p. 126). Since the entire history of the West, including the
-Enlightenment, is based on monist foundations, going backwards would be
-pointless. Gray is more thoroughly anti-Western than the most radical
-Jihadists, whom he claims are also expressions of Western universalist
-beliefs, as are the neoconservatives who have waged wars against them in
-a supposed 'clash of civilizations.'
+the Enlightenment has any reactionary political implications. For
+example, he is critical of the Catholic critic of modernity Alasdair
+MacIntyre for offering Aristotelian ethical naturalism as a possible
+alternative to the moral impasse that both believe the West now finds
+itself in. Since Gray agrees with Nietzsche that the very roots of
+Western universalism reach back to antiquity, returning to pre-modern
+modes of thought, assuming that was even possible, would be no escape
+from the basic problem that has led to modern nihilism. Ancient and
+medieval societies in the West were also 'projects of cultural
+fundamentalism' no less than the Enlightenment and liberalism are (Gray
+1997, p. 126). For Gray, everything about the West is tainted by a
+fundamental hostility to what he calls the 'truth of value pluralism,'
+which is the correct belief that there is no single, rationally
+compelling arrangement of values applicable to all humans everywhere.
+That is why he rejects the 'Right project of cultural fundamentalism' as
+much as universalist projects of the political left (Gray 1997, p. 126).
+Since the entire history of the West, including the Enlightenment, is
+based on monist foundations, going backwards would be pointless. Gray is
+more thoroughly anti-Western than the most radical Jihadists, whom he
+claims are also expressions of Western universalist beliefs, as are the
+neoconservatives who have waged wars against them in a supposed 'clash
+of civilizations.'
 
 One of Gray's intellectual heroes is Isaiah Berlin, whose case for value
 pluralism is among his most important contributions to moral and
@@ -222,10 +227,10 @@ can be built.
 Berlin was also a liberal, unlike Gray. While Berlin affirmed the truth
 that values are plural and can therefore legitimately be arranged in
 different ways (including non-liberal ways), he believed that a liberal
-framework of mutual restraint, tolerance and freedom is the most likely
-to lead to general peace and prosperity, even if the liberal preference
-for freedom over other values is no more rational than any other
-arrangement of values.
+framework of mutual restraint, tolerance, and freedom is the most likely
+in practice to lead to general peace and prosperity, even if the liberal
+preference for freedom over other values is no more rational than any
+other arrangement of values.
 
 Gray accepts the legitimacy of what can be called 'local liberalism'
 (not a term he uses), arguing that value pluralism is 'wholly consistent
@@ -283,14 +288,14 @@ humanism, which he agrees can be found close to the origins of ancient
 Greek philosophy and runs through the whole history of Western
 civilization. The culmination of this outlook is the modern, liberal,
 technological civilization that is now collapsing around us, according
-to Gray.
+to Gray, leading to nihilism.
 
 If something is falling, Nietzsche once proclaimed, then give it a push.
 Gray thinks this is good advice for the contemporary West. First, he
 says, we should 'relinquish the liberalisms and the humanisms by which
 the Enlightenment cultures were, and continue to be, animated' (Gray
 1997, p. 152). The humanist conception of our species that is shared by
-ancient Greek philosophy, Christian revelation, the Enlightenment and
+ancient Greek philosophy, Christian revelation, the Enlightenment, and
 contemporary liberalism, according to which we can only be emancipated
 through the growth of scientific knowledge, 'must be given up' (Gray
 1997, p. 155). Gray also asserts that Western conceptions of morality
@@ -325,27 +330,27 @@ complexity. He tends to paint in black-and-white rather than in shades
 of grey on the subject. It isn't clear (to me) just how extensive his
 knowledge of the Enlightenment really is. He quotes liberally from
 Voltaire in his small book on the great French *philosophe*, but his
-writings are not generally rooted in primary texts. Most are
+writings are not generally rooted in primary texts.[^3] Most are
 deliberately broad and sketchy, aimed at an audience of general readers,
 rather than fine portraits composed for academic specialists, which
 helps to explain their wide appeal.
 
 By contrast, in the last half-century scholarship on the Enlightenment
 has become increasingly specialized and complex. It is now viewed by
-most experts as a very broad and diverse social, cultural and
+most experts as a very broad and diverse social, cultural, and
 intellectual movement that extended far beyond an elite circle of
 Parisian writers that typically includes Voltaire, Rousseau,
-Montesquieu, d'Alembert, Diderot, Condorcet and d'Holbach. Distinctions
+Montesquieu, d'Alembert, Diderot, Condorcet, and d'Holbach. Distinctions
 are now made between a 'high Enlightenment' of such intellectuals and a
 'low Enlightenment' of Grub Street journalists and pamphleteers who are
-now mostly forgotten.[^3] And we know of the existence of Enlightenments
+now mostly forgotten.[^4] And we know of the existence of Enlightenments
 in many different national contexts, including Bohemia, Italy, Sweden,
-Scotland, Russia and the Netherlands, each with important variations in
+Scotland, Russia, and the Netherlands, each with important variations in
 outlook and emphasis that reflect local circumstances and cultural and
-historical particularities.[^4] This increasingly complicated picture
+historical particularities.[^5] This increasingly complicated picture
 has even led some scholars to reject the concept of a single
 Enlightenment movement ('the Enlightenment,' with a definite article and
-capital 'E'), let alone a unified Enlightenment 'project.'[^5]
+capital 'E'), let alone a unified Enlightenment 'project.'[^6]
 
 One example of the Enlightenment's internal complexity will have to
 suffice here in the absence of space for more, and it is necessarily
@@ -378,7 +383,7 @@ The same is true of many other aspects of eighteenth-century thought,
 such as religion and historical progress, which were just as varied.
 Often it is the enemies of the Enlightenment who set it up with a
 spurious internal coherence in order to make it an easier target to
-knock down.[^6] To some extent, 'the Enlightenment' is a construction of
+knock down.[^7] To some extent, 'the Enlightenment' is a construction of
 its enemies, and Gray is a good example of this. It is first constructed
 before it is de-constructed.
 
@@ -432,21 +437,34 @@ agonistic pluralism, setting it apart from relativism, Gray appears to
 expect societies to accept 'the truth of value pluralism,' which he
 regards as the only realistic foundation for political life. He welcomes
 a 'renaissance of particularisms, ethnic and religious,' wants to 'share
-the earth with radically different cultures' and preserve 'traditional
+the earth with radically different cultures,' and preserve 'traditional
 communities and cultural forms,' all of which are antithetical to the
 universal civilization that Gray argues is the final goal of the
 Enlightenment Project. But does he really believe that most of these
-traditional, non-liberal cultures would endorse value pluralism? He
-accuses liberalism of a lack of realism, a dangerously utopian idealism,
-but there is a clear lack of realism here in Gray's apparent expectation
-that non-Western cultures would embrace value pluralism any more than
-Western cultures have.
+traditional, non-liberal cultures would endorse value pluralism?
+
+Gray accuses liberalism of a dangerously utopian idealism, but there is
+a clear lack of realism here in his apparent expectation that
+non-Western cultures might embrace value pluralism any more than Western
+cultures have. He has already ruled out as unacceptable 'projects of
+cultural fundamentalism' found in some reactionary anti-modernists. So
+Gray presumably wants all cultures to reject such fundamentalism in
+favour of value pluralism while still retaining their 'traditional
+communities and cultural forms.' If this really is his hope, then it
+seems like little more than a fantasy. But his very vague and seemingly
+unserious comments on all this strongly hint that's just how he sees
+it---as a fantasy. But if he is serious and if it did somehow come
+about, then the world would be a plurality of pluralists and not a
+plurality of monists. In that case it's hardly likely to contain
+'radically different cultures.' Such a world would probably look quite
+similar to the liberal hegemony he claims we have now, albeit with a
+Rortian rather than a Rawlsian hue.
 
 There is also a dearth of realism in Gray's requirement that the West
 just 'give up' its most fundamental assumptions about itself and the
 world that he claims have underpinned and legitimized its outlook for
 millennia. It is not clear what it even means to do so. Nor is it
-apparent if he intends the West to give up all of science, or just
+apparent if he intends the West to 'give up' all of science, or just
 selected parts of it. If the latter, how would that be possible without
 retaining the universalist assumptions and methods on which those parts
 are based? If the former, then would Gray really want to throw out all
@@ -454,7 +472,9 @@ of the technological benefits we currently enjoy, such as those of
 medical science? It would help if he was much more specific about what
 he actually intends and explained more clearly just how far beyond
 liberalism and Western science he thinks we should go in the wake of the
-Enlightenment.
+Enlightenment. That he has avoided doing so raises the possibility that
+none of his rather under-developed prescriptions are really meant to be
+taken too seriously.
 
 **References**
 
@@ -487,6 +507,8 @@ Utopia*. London: Penguin.
 
 Gray, John. 2018. *Seven Types of Atheism*. London: Penguin.
 
+Gray, John. 2023. *The New Leviathans*. London: Penguin.
+
 Outram, Dorinda. 2019 \[1995\]. *The Enlightenment*, 4^th^ ed.
 Cambridge: Cambridge University Press.
 
@@ -497,17 +519,20 @@ Schmidt, James. 2000. What Enlightenment Project? *Political Theory*,
 28(6): 734-57.
 
 [^1]: Nietzsche was actually surprisingly ambivalent about the
-    Enlightenment, as I shown in Garrard 2008.
+    Enlightenment, as I have shown in Garrard 2008.
 
 [^2]: See Garrard 2007 for an account of Berlin's views on liberalism
     and the Enlightenment.
 
-[^3]: For a very good general overview of these changes in Enlightenment
+[^3]: Gray 2023 is an exception. It relies directly on the writings of
+    Thomas Hobbes.
+
+[^4]: For a very good general overview of these changes in Enlightenment
     historiography, see Outram 2019.
 
-[^4]: The various national forms of Enlightenment are chronicled in
+[^5]: The various national forms of Enlightenment are chronicled in
     Porter and Teich 1981.
 
-[^5]: See Schmidt 2000.
+[^6]: See Schmidt 2000.
 
-[^6]: This is the theme of Garrard 2006
+[^7]: This is the theme of Garrard 2006
